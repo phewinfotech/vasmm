@@ -1,0 +1,1661 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vasmm.com" resolutions="1x" timestamp="1534786551553">
+  <folder name="css">
+    <file name="site_global.css" crc="4249306696"/>
+    <file name="master_a-master.css" crc="3942070298" ref="bahadurgarh-shiksa-sabha:departments:alumni:naac:courses:iqac:gallary:contact:about-college:career:b.ed-course:about:media:teaching:admission:download:index:non-teaching:anti-ragging-act:aishe"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="bahadurgarh-shiksa-sabha:departments:alumni:naac:courses:iqac:gallary:contact:about-college:career:b.ed-course:about:media:teaching:admission:download:index:non-teaching:anti-ragging-act:aishe"/>
+    <file name="bahadurgarh-shiksa-sabha.css" crc="230040501" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="nomq_bahadurgarh-shiksa-sabha.css" crc="102184440" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="departments.css" crc="237675877" ref="departments"/>
+    <file name="nomq_departments.css" crc="190806001" ref="departments"/>
+    <file name="alumni.css" crc="4198389241" ref="alumni"/>
+    <file name="nomq_alumni.css" crc="4186853951" ref="alumni"/>
+    <file name="naac.css" crc="285195605" ref="naac"/>
+    <file name="nomq_naac.css" crc="435782348" ref="naac"/>
+    <file name="courses.css" crc="3942068824" ref="courses"/>
+    <file name="nomq_courses.css" crc="4107496935" ref="courses"/>
+    <file name="iqac.css" crc="270375033" ref="iqac"/>
+    <file name="nomq_iqac.css" crc="3184826" ref="iqac"/>
+    <file name="gallary.css" crc="4250980509" ref="gallary"/>
+    <file name="nomq_gallary.css" crc="4049602726" ref="gallary"/>
+    <file name="contact.css" crc="3905120236" ref="contact"/>
+    <file name="nomq_contact.css" crc="4206561276" ref="contact"/>
+    <file name="about-college.css" crc="174747967" ref="about-college"/>
+    <file name="nomq_about-college.css" crc="3969625866" ref="about-college"/>
+    <file name="career.css" crc="4142144904" ref="career"/>
+    <file name="nomq_career.css" crc="321690369" ref="career"/>
+    <file name="b_ed-course.css" crc="93361988" ref="b.ed-course"/>
+    <file name="nomq_b_ed-course.css" crc="94596809" ref="b.ed-course"/>
+    <file name="about.css" crc="4231790623" ref="about"/>
+    <file name="nomq_about.css" crc="52064273" ref="about"/>
+    <file name="media.css" crc="141465135" ref="media"/>
+    <file name="nomq_media.css" crc="94596809" ref="media"/>
+    <file name="teaching.css" crc="44616654" ref="teaching"/>
+    <file name="nomq_teaching.css" crc="4048977145" ref="teaching"/>
+    <file name="admission.css" crc="3868889379" ref="admission"/>
+    <file name="nomq_admission.css" crc="186271253" ref="admission"/>
+    <file name="download.css" crc="3927359646" ref="download"/>
+    <file name="nomq_download.css" crc="4080574337" ref="download"/>
+    <file name="index.css" crc="4000434022" ref="index"/>
+    <file name="nomq_index.css" crc="4271204352" ref="index"/>
+    <file name="non-teaching.css" crc="477635858" ref="non-teaching"/>
+    <file name="nomq_non-teaching.css" crc="317539893" ref="non-teaching"/>
+    <file name="anti-ragging-act.css" crc="3846734670" ref="anti-ragging-act"/>
+    <file name="nomq_anti-ragging-act.css" crc="10736450" ref="anti-ragging-act"/>
+    <file name="aishe.css" crc="326270795" ref="aishe"/>
+    <file name="nomq_aishe.css" crc="295192535" ref="aishe"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="museutils.js" crc="4232573551" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="whatinput.js" crc="86476730" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:naac:courses:contact:about-college:anti-ragging-act"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="webpro.js" crc="3770351119" ref="index:admission:courses:iqac:contact:teaching:about-college"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:admission:courses:iqac:contact:teaching:about-college"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:admission:courses:iqac:contact:teaching:about-college"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:admission:courses:iqac:contact:teaching:about-college"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="require.js" crc="4234670167" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u12115.php" crc="15913642" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-033-960x283.jpg" crc="389610162" ref="index:naac:anti-ragging-act">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="65543946" ref="index:naac:contact:anti-ragging-act">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="naac" alt=""/>
+    </file>
+    <file name="u1634-6.png" crc="473986706" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="naac-creation-logo-final png.png" crc="16684300" seo="true" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download">
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+    </file>
+    <file name="map.png" crc="308157887" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7244-6.png" crc="79033009" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="u7246_states.png" crc="3774172481" ref="index"/>
+    <file name="u7246_states-r.png" crc="25940623" ref="index"/>
+    <file name="u7246_states-m.png" crc="242064334" ref="index"/>
+    <file name="u102259-4.png" crc="4156441994" ref="index"/>
+    <file name="u102257-4.png" crc="4062193396" ref="index"/>
+    <file name="u102258-4.png" crc="315438591" ref="index"/>
+    <file name="u102256-4.png" crc="3863089211" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download">
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+    </file>
+    <file name="dev_6615805x537.jpg" crc="140462141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj815x509.jpg" crc="3955341520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628.jpg" crc="300991308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111.jpg" crc="4039484307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u182959.jpg" crc="3998695038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942.jpg" crc="410559107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802888x509.jpg" crc="197741914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers805x604.jpg" crc="189139025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954.jpg" crc="3774057772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615265x177.jpg" crc="195094191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj272x170.jpg" crc="286080087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628265x178.jpg" crc="347662299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111265x177.jpg" crc="4028863854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u182992.jpg" crc="4088566341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942265x176.jpg" crc="61771175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802297x170.jpg" crc="431117137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers265x199.jpg" crc="3924262850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954265x177.jpg" crc="302657834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:admission:iqac:contact:teaching"/>
+    <file name="u39615-5.png" crc="3787490945" ref="index"/>
+    <file name="beti-bachao-beti-padhao-yojana-logo-vector-file287x272.jpg" crc="226715700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="women_logo.jpg" crc="491080557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u177413-9.png" crc="462259588" ref="index"/>
+    <file name="u1133-4.png" crc="526451401" ref="index"/>
+    <file name="u1139-4.png" crc="523857799" ref="index"/>
+    <file name="u1135-4.png" crc="296336238" ref="index"/>
+    <file name="u184728-6.png" crc="357563982" ref="index"/>
+    <file name="u1129-6.png" crc="19305280" ref="index"/>
+    <file name="u1119-12.png" crc="465779524" ref="index"/>
+    <file name="book library3.jpg" crc="4064249191" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-brick.jpg" crc="407831610" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7cb1bc7bdf807b3dd6704bfefbfb558f.png" crc="3878746237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sawamidayanad copy.png" crc="3885633771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="classroom.jpg" crc="3800190364" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="janita-sumeiko-529471-unsplash.jpg" crc="312539261" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u25593-4.png" crc="480615767" ref="index"/>
+    <file name="u26057-4.png" crc="4040797224" ref="index"/>
+    <file name="mission.png" crc="3835213231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj.png" crc="458238980" seo="true" ref="index:courses">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh.jpg" crc="4058610507" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615764x509.jpg" crc="4239311178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updated-crop-u180558.jpg" crc="3815001215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6417.jpg" crc="275532518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u180578.jpg" crc="3841213312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updatejpg-crop-u180566.jpg" crc="503404709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="felix-russell-saw-236041-unsplash.jpg" crc="3776079435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library.jpg" crc="316562892" seo="true" ref="index:teaching">
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library2.jpg" crc="191899275" seo="true" ref="index:teaching">
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="dev_1201.jpg" crc="440468520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6784769x509.jpg" crc="4065547112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802-crop-u180554.jpg" crc="4157506911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160-crop-u180594.jpg" crc="3812257802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9224.jpg" crc="3763448488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9718.jpg" crc="471367925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615256x170.jpg" crc="3856870357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628255x170.jpg" crc="4208831245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updated-crop-u180648.jpg" crc="201950551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6417256x170.jpg" crc="238455611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u180638.jpg" crc="255022395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updatejpg-crop-u180666.jpg" crc="396684839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111256x170.jpg" crc="3879451187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="felix-russell-saw-236041-unsplash256x170.jpg" crc="500806309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library256x170.jpg" crc="518028652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library2256x170.jpg" crc="3822606585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_1201256x170.jpg" crc="323893676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6784257x170.jpg" crc="4175652143" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942257x170.jpg" crc="4216710193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802-crop-u180664.jpg" crc="521219475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160-crop-u180652.jpg" crc="3793432395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954256x170.jpg" crc="4002019637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9224256x170.jpg" crc="3810193572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9718256x170.jpg" crc="406646072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="principal image final.jpg" crc="4278296529" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andrew-ridley-76547-unsplash.jpg" crc="4282450125" ref="index:naac:anti-ragging-act">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="naac" alt=""/>
+    </file>
+    <file name="u955-5.png" crc="241094795" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="u13041-4.png" crc="47814843" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="u13045-4.png" crc="4291512550" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download"/>
+    <file name="linkedin.png" crc="3843589320" seo="true" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download">
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+    </file>
+    <file name="instagram.png" crc="37760132" seo="true" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download">
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+    </file>
+    <file name="facebook.png" crc="182554253" seo="true" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download">
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+    </file>
+    <file name="youtube.png" crc="201966476" seo="true" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:career:anti-ragging-act:download">
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+    </file>
+    <file name="u102259-42.png" crc="408712188" ref="index"/>
+    <file name="u102257-42.png" crc="482995593" ref="index"/>
+    <file name="u102258-42.png" crc="252425284" ref="index"/>
+    <file name="u102256-42.png" crc="4071455163" ref="index"/>
+    <file name="u7244-62.png" crc="79033009" ref="index"/>
+    <file name="u7246_states2.png" crc="3774172481" ref="index"/>
+    <file name="u7246_states-r2.png" crc="25940623" ref="index"/>
+    <file name="u7246_states-m2.png" crc="242064334" ref="index"/>
+    <file name="dev_6615788x526.jpg" crc="3957356664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj788x493.jpg" crc="223892461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u57088.jpg" crc="4209161402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802788x453.jpg" crc="3899274301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-crop-u178886.jpg" crc="3912462883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615211x140.jpg" crc="93098672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj224x140.jpg" crc="498571236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628210x140.jpg" crc="242579332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111211x140.jpg" crc="132826979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u57102.jpg" crc="29448742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942212x140.jpg" crc="215353435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802245x140.jpg" crc="4145025074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers203x153.jpg" crc="398180908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954211x140.jpg" crc="4158118992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u1829592.jpg" crc="4209161402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-crop-u182953.jpg" crc="3912462883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u1829922.jpg" crc="29448742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1133-42.png" crc="4233602917" ref="index"/>
+    <file name="u1139-42.png" crc="523857799" ref="index"/>
+    <file name="u1135-42.png" crc="296336238" ref="index"/>
+    <file name="u184728-62.png" crc="357563982" ref="index"/>
+    <file name="beti-bachao-beti-padhao-yojana-logo-vector-file.jpg" crc="375784583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="women_logo402x296.jpg" crc="491080557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u39615-52.png" crc="498248519" ref="index"/>
+    <file name="u177413-92.png" crc="431548185" ref="index"/>
+    <file name="book library3-u1143-fr.jpg" crc="155773881" ref="index"/>
+    <file name="7cb1bc7bdf807b3dd6704bfefbfb558f300x387.png" crc="492602223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers.jpg" crc="354698072" ref="index:courses">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="college latest photo-u62397-fr.jpg" crc="4180145017" ref="index:courses"/>
+    <file name="dev_2802.jpg" crc="3855671576" ref="index:courses">
+      <caption webpage="index" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="naac a 1.jpg" crc="3848869731" ref="index:courses">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6784.jpg" crc="4155096776" ref="index:courses">
+      <caption webpage="index" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="dev_6615.jpg" crc="3788779078" ref="index:courses">
+      <caption webpage="index" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="u1129-62.png" crc="3980418152" ref="index"/>
+    <file name="u1119-122.png" crc="4288592080" ref="index"/>
+    <file name="agrasen-maharaj817x511.png" crc="3926093581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="classroom-u1151-fr.jpg" crc="4224329528" ref="index"/>
+    <file name="u25593-42.png" crc="4078670460" ref="index"/>
+    <file name="u26057-42.png" crc="3962140959" ref="index"/>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-u185784-fr.jpg" crc="3915206011" ref="index"/>
+    <file name="dev_6615-crop-u180584.jpg" crc="281069518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj779x487.jpg" crc="396977052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u180586.jpg" crc="128766112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updated779x439.jpg" crc="3758146410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6417-crop-u180588.jpg" crc="508625852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh846x423.jpg" crc="4136952806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updatejpg779x439.jpg" crc="370103173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u180564.jpg" crc="4191552051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="felix-russell-saw-236041-unsplash-crop-u180570.jpg" crc="3822951602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library-crop-u180552.jpg" crc="211322540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library2-crop-u180592.jpg" crc="461603265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_1201-crop-u180556.jpg" crc="345181182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6784-crop-u180574.jpg" crc="525296923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u180562.jpg" crc="336377742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802779x447.jpg" crc="285993693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160779x439.jpg" crc="361422224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u180590.jpg" crc="299576115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9224-crop-u180576.jpg" crc="3842153221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9718-crop-u180572.jpg" crc="4029597947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615-crop-u180632.jpg" crc="371565742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj203x127.jpg" crc="4212329414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u180634.jpg" crc="301858160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updated203x115.jpg" crc="3959130324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6417-crop-u180654.jpg" crc="4289843202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh214x107.jpg" crc="375327357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updatejpg203x115.jpg" crc="3988747262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u180650.jpg" crc="3773276567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="felix-russell-saw-236041-unsplash-crop-u180642.jpg" crc="3814043465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library-crop-u180624.jpg" crc="311348987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library2-crop-u180636.jpg" crc="490682940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_1201-crop-u180656.jpg" crc="3767474203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6784-crop-u180662.jpg" crc="4030838294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u180628.jpg" crc="178497059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802203x117.jpg" crc="98930009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160203x115.jpg" crc="3817631664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u180630.jpg" crc="360815880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9224-crop-u180626.jpg" crc="3826504760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9718-crop-u180644.jpg" crc="4007486825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-u62401-fr.jpg" crc="433994220" ref="index"/>
+    <file name="college latest photo-u62397-fr2.jpg" crc="3842659383" ref="index"/>
+    <file name="dev_2802-u62396-fr.jpg" crc="430156221" ref="index"/>
+    <file name="dev_6784-u62395-fr.jpg" crc="18240359" ref="index"/>
+    <file name="dev_6615-u62399-fr.jpg" crc="3974940238" ref="index"/>
+    <file name="u7244-63.png" crc="4244295666" ref="index"/>
+    <file name="u7246_states3.png" crc="93799152" ref="index"/>
+    <file name="u7246_states-r3.png" crc="4161053667" ref="index"/>
+    <file name="u7246_states-m3.png" crc="341031847" ref="index"/>
+    <file name="u102259-43.png" crc="9793626" ref="index"/>
+    <file name="u102258-43.png" crc="4096836213" ref="index"/>
+    <file name="u102257-43.png" crc="245208891" ref="index"/>
+    <file name="u102256-43.png" crc="4125668344" ref="index"/>
+    <file name="u1133-43.png" crc="4984759" ref="index"/>
+    <file name="u1139-43.png" crc="3960923611" ref="index"/>
+    <file name="u1135-43.png" crc="296336238" ref="index"/>
+    <file name="women_logo283x213.jpg" crc="438760932" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u39615-53.png" crc="4146105139" ref="index"/>
+    <file name="u177413-93.png" crc="204246738" ref="index"/>
+    <file name="u184728-63.png" crc="357563982" ref="index"/>
+    <file name="u1129-63.png" crc="46940078" ref="index"/>
+    <file name="book library3-u1143-fr2.jpg" crc="479323799" ref="index"/>
+    <file name="dev_6615-crop-u57544.jpg" crc="15855264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj-crop-u179867.jpg" crc="19430115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u179918.jpg" crc="533138422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u56383.jpg" crc="43224881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u570882.jpg" crc="157679702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u57628.jpg" crc="344327588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802-crop-u57712.jpg" crc="229708906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-crop-u1788862.jpg" crc="471463944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u56714.jpg" crc="3841173730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615-crop-u57556.jpg" crc="4059135901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj282x177.jpg" crc="407990789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u179932.jpg" crc="4060597896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u56394.jpg" crc="499968264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u571022.jpg" crc="4118639494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u57640.jpg" crc="3849295011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802282x162.jpg" crc="4238918495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-crop-u178900.jpg" crc="227289102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u56728.jpg" crc="4040865751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u25593-43.png" crc="4209542896" ref="index"/>
+    <file name="u26057-43.png" crc="146313616" ref="index"/>
+    <file name="dev_6615-crop-u1805842.jpg" crc="3947520343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj-crop-u180568.jpg" crc="446679330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u1805862.jpg" crc="337182423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updated-crop-u1805582.jpg" crc="4231818381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6417-crop-u1805882.jpg" crc="459238691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1805782.jpg" crc="472296738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updatejpg-crop-u1805662.jpg" crc="4225843988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u1805642.jpg" crc="3874396848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="felix-russell-saw-236041-unsplash-crop-u1805702.jpg" crc="4107187408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library-crop-u1805522.jpg" crc="398802590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library2-crop-u1805922.jpg" crc="335487722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_1201-crop-u1805562.jpg" crc="280613224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6784-crop-u1805742.jpg" crc="511102790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u1805622.jpg" crc="4197064080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802-crop-u1805542.jpg" crc="312675305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160-crop-u1805942.jpg" crc="4267630957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u1805902.jpg" crc="3886784001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9224-crop-u1805762.jpg" crc="449761998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9718-crop-u1805722.jpg" crc="3761721289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615-crop-u1806322.jpg" crc="4059135901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u1806342.jpg" crc="4060597896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updated282x159.jpg" crc="3835148460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6417-crop-u1806542.jpg" crc="100849408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh298x149.jpg" crc="260188487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="updatejpg282x159.jpg" crc="3783640852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u1806502.jpg" crc="499968264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="felix-russell-saw-236041-unsplash-crop-u1806422.jpg" crc="4078681857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library-crop-u1806242.jpg" crc="4059339744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book library2-crop-u1806362.jpg" crc="4114092340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_1201-crop-u1806562.jpg" crc="86076659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6784-crop-u1806622.jpg" crc="4144892364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u1806282.jpg" crc="3849295011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160282x159.jpg" crc="430204494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u1806302.jpg" crc="4040865751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9224-crop-u1806262.jpg" crc="3819773918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9718-crop-u1806442.jpg" crc="4227508053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615-crop-u182951.jpg" crc="15855264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj-crop-u182955.jpg" crc="19430115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u182957.jpg" crc="533138422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u182963.jpg" crc="43224881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u1829593.jpg" crc="157679702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u182961.jpg" crc="344327588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802-crop-u182967.jpg" crc="229708906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-crop-u1829532.jpg" crc="471463944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u182965.jpg" crc="3841173730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615-crop-u182990.jpg" crc="4059135901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u182996.jpg" crc="4060597896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u182998.jpg" crc="499968264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u1829923.jpg" crc="4118639494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u182994.jpg" crc="3849295011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-crop-u182984.jpg" crc="227289102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u182986.jpg" crc="4040865751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1119-123.png" crc="299845415" ref="index"/>
+    <file name="classroom-u1151-fr2.jpg" crc="4294774538" ref="index"/>
+    <file name="janita-sumeiko-529471-unsplash-u1228-fr.jpg" crc="4284662925" ref="index"/>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-u185784-fr2.jpg" crc="100449311" ref="index"/>
+    <file name="naac a 12.jpg" crc="3848869731" seo="true" ref="naac">
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+    </file>
+    <file name="naac a grade certificate.jpg" crc="3974843328" ref="naac">
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+    </file>
+    <file name="u129526-4.png" crc="4156441994" ref="departments"/>
+    <file name="u129524-4.png" crc="4062193396" ref="departments"/>
+    <file name="u129523-4.png" crc="315438591" ref="departments"/>
+    <file name="u129527-4.png" crc="3863089211" ref="departments"/>
+    <file name="u129526-42.png" crc="408712188" ref="departments"/>
+    <file name="u129524-42.png" crc="482995593" ref="departments"/>
+    <file name="u129523-42.png" crc="252425284" ref="departments"/>
+    <file name="u129527-42.png" crc="4071455163" ref="departments"/>
+    <file name="u129526-43.png" crc="408712188" ref="departments"/>
+    <file name="u129524-43.png" crc="482995593" ref="departments"/>
+    <file name="u129523-43.png" crc="252425284" ref="departments"/>
+    <file name="u129527-43.png" crc="4071455163" ref="departments"/>
+    <file name="u139784-4.png" crc="4003741438" ref="admission"/>
+    <file name="u139785-4.png" crc="4247420064" ref="admission"/>
+    <file name="u139783-4.png" crc="103363405" ref="admission"/>
+    <file name="u139781-4.png" crc="106901547" ref="admission"/>
+    <file name="katherine-hanlon-594109-unsplash.jpg" crc="221201033" seo="true" ref="admission">
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+    </file>
+    <file name="u28976-96.png" crc="153992399" ref="admission"/>
+    <file name="u139784-42.png" crc="408712188" ref="admission"/>
+    <file name="u139785-42.png" crc="482995593" ref="admission"/>
+    <file name="u139781-42.png" crc="252425284" ref="admission"/>
+    <file name="u139783-42.png" crc="4071455163" ref="admission"/>
+    <file name="u28976-962.png" crc="263994905" ref="admission"/>
+    <file name="u139784-43.png" crc="3965662704" ref="admission"/>
+    <file name="u139785-43.png" crc="30463386" ref="admission"/>
+    <file name="u139781-43.png" crc="4218844527" ref="admission"/>
+    <file name="u139783-43.png" crc="195952357" ref="admission"/>
+    <file name="u28976-963.png" crc="263994905" ref="admission"/>
+    <file name="u99954-4.png" crc="4037381929" ref="courses"/>
+    <file name="u99952-4.png" crc="530279794" ref="courses"/>
+    <file name="u99953-4.png" crc="3886447411" ref="courses"/>
+    <file name="u99951-4.png" crc="4029441900" ref="courses"/>
+    <file name="college latest photo-u62250-fr.jpg" crc="290117213" ref="courses"/>
+    <file name="u99954-42.png" crc="3923839250" ref="courses"/>
+    <file name="u99952-42.png" crc="506053136" ref="courses"/>
+    <file name="u99953-42.png" crc="4030963816" ref="courses"/>
+    <file name="u99951-42.png" crc="3890665880" ref="courses"/>
+    <file name="u99954-43.png" crc="3806586748" ref="courses"/>
+    <file name="u99952-43.png" crc="4251626309" ref="courses"/>
+    <file name="u99953-43.png" crc="3824633264" ref="courses"/>
+    <file name="u99951-43.png" crc="27411052" ref="courses"/>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-u62251-fr.jpg" crc="512544640" ref="courses"/>
+    <file name="college latest photo-u62250-fr2.jpg" crc="349140036" ref="courses"/>
+    <file name="dev_2802-u62249-fr.jpg" crc="3915037676" ref="courses"/>
+    <file name="dev_6784-u62332-fr.jpg" crc="69390854" ref="courses"/>
+    <file name="dev_6615-u62365-fr.jpg" crc="370444368" ref="courses"/>
+    <file name="u99986-4.png" crc="323146199" ref="about"/>
+    <file name="u99984-4.png" crc="3820572688" ref="about"/>
+    <file name="u99985-4.png" crc="3800660735" ref="about"/>
+    <file name="u99983-4.png" crc="195544346" ref="about"/>
+    <file name="college latest photo 23.jpg" crc="515453145" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u26795-62.png" crc="213686069" ref="about"/>
+    <file name="u99986-42.png" crc="3923839250" ref="about"/>
+    <file name="u99984-42.png" crc="506053136" ref="about"/>
+    <file name="u99985-42.png" crc="4030963816" ref="about"/>
+    <file name="u99983-42.png" crc="3890665880" ref="about"/>
+    <file name="u26795-622.png" crc="3801935634" ref="about"/>
+    <file name="u99986-43.png" crc="3923839250" ref="about"/>
+    <file name="u99984-43.png" crc="506053136" ref="about"/>
+    <file name="u99985-43.png" crc="4030963816" ref="about"/>
+    <file name="u99983-43.png" crc="3890665880" ref="about"/>
+    <file name="college latest photo 231202x441.jpg" crc="98845484" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u26795-623.png" crc="3801935634" ref="about"/>
+    <file name="college latest photo.jpg" crc="313351592" seo="true" ref="iqac">
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+    </file>
+    <file name="college latest photo-crop-u16178.jpg" crc="345253116" seo="true" ref="iqac">
+      <caption webpage="iqac" alt=""/>
+    </file>
+    <file name="u16301-6.png" crc="4095725265" ref="iqac"/>
+    <file name="college latest photo-crop-u161782.jpg" crc="345253116" seo="true" ref="iqac">
+      <caption webpage="iqac" alt=""/>
+    </file>
+    <file name="u16301-62.png" crc="4095725265" ref="iqac"/>
+    <file name="u135015-4.png" crc="4156441994" ref="aishe"/>
+    <file name="u135013-4.png" crc="4062193396" ref="aishe"/>
+    <file name="u135012-4.png" crc="315438591" ref="aishe"/>
+    <file name="u135016-4.png" crc="3863089211" ref="aishe"/>
+    <file name="u135015-42.png" crc="408712188" ref="aishe"/>
+    <file name="u135013-42.png" crc="482995593" ref="aishe"/>
+    <file name="u135012-42.png" crc="252425284" ref="aishe"/>
+    <file name="u135016-42.png" crc="4071455163" ref="aishe"/>
+    <file name="u135015-43.png" crc="3936912333" ref="aishe"/>
+    <file name="u135013-43.png" crc="476411293" ref="aishe"/>
+    <file name="u135012-43.png" crc="496035522" ref="aishe"/>
+    <file name="u135016-43.png" crc="389972903" ref="aishe"/>
+    <file name="u136017-4.png" crc="4037381929" ref="alumni"/>
+    <file name="u136015-4.png" crc="530279794" ref="alumni"/>
+    <file name="u136018-4.png" crc="3844902837" ref="alumni"/>
+    <file name="u136014-4.png" crc="3886447411" ref="alumni"/>
+    <file name="u136017-42.png" crc="408712188" ref="alumni"/>
+    <file name="u136015-42.png" crc="482995593" ref="alumni"/>
+    <file name="u136014-42.png" crc="252425284" ref="alumni"/>
+    <file name="u136018-42.png" crc="4071455163" ref="alumni"/>
+    <file name="u136017-43.png" crc="408712188" ref="alumni"/>
+    <file name="u136015-43.png" crc="482995593" ref="alumni"/>
+    <file name="u136014-43.png" crc="252425284" ref="alumni"/>
+    <file name="u136018-43.png" crc="4071455163" ref="alumni"/>
+    <file name="u137172-4.png" crc="408712188" ref="media"/>
+    <file name="u137170-4.png" crc="482995593" ref="media"/>
+    <file name="u137169-4.png" crc="252425284" ref="media"/>
+    <file name="u137173-4.png" crc="4071455163" ref="media"/>
+    <file name="u137172-42.png" crc="408712188" ref="media"/>
+    <file name="u137170-42.png" crc="482995593" ref="media"/>
+    <file name="u137169-42.png" crc="252425284" ref="media"/>
+    <file name="u137173-42.png" crc="4071455163" ref="media"/>
+    <file name="u137779-4.png" crc="4003741438" ref="contact"/>
+    <file name="u137777-4.png" crc="4247420064" ref="contact"/>
+    <file name="u137780-4.png" crc="103363405" ref="contact"/>
+    <file name="u137776-4.png" crc="106901547" ref="contact"/>
+    <file name="b-ed-jbt-m-ed-500x500.jpg" crc="4207209113" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="classroom2.jpg" crc="3907734763" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4270094412" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="child education.jpg" crc="93571089" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="b-ed-jbt-m-ed-500x500-crop-u11890.jpg" crc="357288262" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="classroom68x45.jpg" crc="3811261987" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="268x45.jpg" crc="4173647514" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="child education68x45.jpg" crc="3988704478" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u12549-14.png" crc="3895148416" ref="contact"/>
+    <file name="u12560-17.png" crc="419603741" ref="contact"/>
+    <file name="u137779-42.png" crc="408712188" ref="contact"/>
+    <file name="u137777-42.png" crc="482995593" ref="contact"/>
+    <file name="u137776-42.png" crc="252425284" ref="contact"/>
+    <file name="u137780-42.png" crc="4071455163" ref="contact"/>
+    <file name="b-ed-jbt-m-ed-500x500-crop-u118902.jpg" crc="357288262" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u12549-142.png" crc="4042483742" ref="contact"/>
+    <file name="u12560-172.png" crc="445670216" ref="contact"/>
+    <file name="u137779-43.png" crc="408712188" ref="contact"/>
+    <file name="u137777-43.png" crc="482995593" ref="contact"/>
+    <file name="u137776-43.png" crc="252425284" ref="contact"/>
+    <file name="u137780-43.png" crc="4071455163" ref="contact"/>
+    <file name="b-ed-jbt-m-ed-500x500-crop-u118903.jpg" crc="357288262" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u12549-143.png" crc="4042483742" ref="contact"/>
+    <file name="u12560-173.png" crc="445670216" ref="contact"/>
+    <file name="u139299-4.png" crc="408712188" ref="b.ed-course"/>
+    <file name="u139300-4.png" crc="482995593" ref="b.ed-course"/>
+    <file name="u139296-4.png" crc="252425284" ref="b.ed-course"/>
+    <file name="u139298-4.png" crc="4071455163" ref="b.ed-course"/>
+    <file name="u139299-42.png" crc="408712188" ref="b.ed-course"/>
+    <file name="u139300-42.png" crc="482995593" ref="b.ed-course"/>
+    <file name="u139296-42.png" crc="252425284" ref="b.ed-course"/>
+    <file name="u139298-42.png" crc="4071455163" ref="b.ed-course"/>
+    <file name="u144346-4.png" crc="4156441994" ref="teaching"/>
+    <file name="u144344-4.png" crc="4062193396" ref="teaching"/>
+    <file name="u144348-4.png" crc="315438591" ref="teaching"/>
+    <file name="u144347-4.png" crc="3863089211" ref="teaching"/>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u143085.jpg" crc="3818135373" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160.jpg" crc="4053102966" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library-crop-u143134.jpg" crc="3852541191" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library2-crop-u143132.jpg" crc="249717338" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u143114.jpg" crc="249439598" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160-crop-u143150.jpg" crc="384125076" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="u144346-42.png" crc="408712188" ref="teaching"/>
+    <file name="u144344-42.png" crc="482995593" ref="teaching"/>
+    <file name="u144348-42.png" crc="252425284" ref="teaching"/>
+    <file name="u144347-42.png" crc="4071455163" ref="teaching"/>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh960x480.jpg" crc="466477519" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library358x239.jpg" crc="325109320" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library2358x239.jpg" crc="3899329327" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1431142.jpg" crc="3794108383" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160-crop-u1431502.jpg" crc="180178010" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="u144346-43.png" crc="241296070" ref="teaching"/>
+    <file name="u144344-43.png" crc="4286371663" ref="teaching"/>
+    <file name="u144348-43.png" crc="3773964215" ref="teaching"/>
+    <file name="u144347-43.png" crc="29664510" ref="teaching"/>
+    <file name="book library-crop-u143079.jpg" crc="221692066" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library2-crop-u143069.jpg" crc="370453483" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh830x415.jpg" crc="3856252312" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160792x446.jpg" crc="189362654" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library-crop-u1431342.jpg" crc="347195209" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="book library2-crop-u1431322.jpg" crc="457223164" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1431143.jpg" crc="214209421" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="quotefancy-466895-3840x2160-crop-u1431503.jpg" crc="4294911443" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="u100024-4.png" crc="3923839250" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100022-4.png" crc="506053136" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100023-4.png" crc="4030963816" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100021-4.png" crc="3890665880" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100024-42.png" crc="3923839250" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100022-42.png" crc="506053136" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100023-42.png" crc="4030963816" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100021-42.png" crc="3890665880" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100024-43.png" crc="3923839250" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100022-43.png" crc="506053136" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100023-43.png" crc="4030963816" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100021-43.png" crc="3890665880" ref="bahadurgarh-shiksa-sabha"/>
+    <file name="u100604-4.png" crc="520830219" ref="about-college"/>
+    <file name="u100602-4.png" crc="90730139" ref="about-college"/>
+    <file name="u100603-4.png" crc="3866293827" ref="about-college"/>
+    <file name="u100601-4.png" crc="4148592298" ref="about-college"/>
+    <file name="social-cut-545004-unsplash.jpg" crc="287824344" ref="about-college">
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+    </file>
+    <file name="1education.jpg" crc="100018121" ref="about-college">
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+    </file>
+    <file name="femm1.jpg" crc="2217900" ref="about-college">
+      <caption webpage="about-college" alt=""/>
+    </file>
+    <file name="andrew-ridley-76547-unsplash-u51177-fr.jpg" crc="3867819725" ref="about-college"/>
+    <file name="u28478-4.png" crc="535792000" ref="about-college"/>
+    <file name="u27302-57.png" crc="4218580044" ref="about-college"/>
+    <file name="u100604-42.png" crc="3923839250" ref="about-college"/>
+    <file name="u100602-42.png" crc="506053136" ref="about-college"/>
+    <file name="u100603-42.png" crc="4030963816" ref="about-college"/>
+    <file name="u100601-42.png" crc="3890665880" ref="about-college"/>
+    <file name="andrew-ridley-76547-unsplash-u51177-fr2.jpg" crc="3833871585" ref="about-college"/>
+    <file name="u28478-42.png" crc="535792000" ref="about-college"/>
+    <file name="u27302-572.png" crc="270144021" ref="about-college"/>
+    <file name="u100604-43.png" crc="9793626" ref="about-college"/>
+    <file name="u100603-43.png" crc="4096836213" ref="about-college"/>
+    <file name="u100602-43.png" crc="245208891" ref="about-college"/>
+    <file name="u100601-43.png" crc="4125668344" ref="about-college"/>
+    <file name="1education-u51176-fr.jpg" crc="353662689" ref="about-college"/>
+    <file name="andrew-ridley-76547-unsplash-u51177-fr3.jpg" crc="3814601012" ref="about-college"/>
+    <file name="u28478-43.png" crc="535792000" ref="about-college"/>
+    <file name="u27302-573.png" crc="4027854376" ref="about-college"/>
+    <file name="u130552-4.png" crc="4156441994" ref="gallary"/>
+    <file name="u130550-4.png" crc="4062193396" ref="gallary"/>
+    <file name="u130549-4.png" crc="315438591" ref="gallary"/>
+    <file name="u130553-4-a.png" crc="3863089211" ref="gallary"/>
+    <file name="u130552-42.png" crc="4156441994" ref="gallary"/>
+    <file name="u130550-42.png" crc="4062193396" ref="gallary"/>
+    <file name="u130549-42.png" crc="315438591" ref="gallary"/>
+    <file name="u130553-4-a2.png" crc="3863089211" ref="gallary"/>
+    <file name="u130552-43.png" crc="4156441994" ref="gallary"/>
+    <file name="u130550-43.png" crc="4062193396" ref="gallary"/>
+    <file name="u130549-43.png" crc="315438591" ref="gallary"/>
+    <file name="u130553-4-a3.png" crc="3863089211" ref="gallary"/>
+    <file name="u131457-4-a.png" crc="4156441994" ref="career"/>
+    <file name="u131455-4.png" crc="4062193396" ref="career"/>
+    <file name="u131454-4.png" crc="315438591" ref="career"/>
+    <file name="u131458-4.png" crc="3863089211" ref="career"/>
+    <file name="u131457-4-a2.png" crc="4156441994" ref="career"/>
+    <file name="u131455-42.png" crc="4062193396" ref="career"/>
+    <file name="u131454-42.png" crc="315438591" ref="career"/>
+    <file name="u131458-42.png" crc="3863089211" ref="career"/>
+    <file name="u131457-4-a3.png" crc="4156441994" ref="career"/>
+    <file name="u131455-43.png" crc="4062193396" ref="career"/>
+    <file name="u131454-43.png" crc="315438591" ref="career"/>
+    <file name="u131458-43.png" crc="3863089211" ref="career"/>
+    <file name="u133267-4.png" crc="3867893221" ref="anti-ragging-act"/>
+    <file name="u133265-4.png" crc="44413761" ref="anti-ragging-act"/>
+    <file name="u133268-4.png" crc="212245522" ref="anti-ragging-act"/>
+    <file name="u133264-4-a.png" crc="3969756364" ref="anti-ragging-act"/>
+    <file name="u133267-42.png" crc="4236729425" ref="anti-ragging-act"/>
+    <file name="u133265-42.png" crc="367725923" ref="anti-ragging-act"/>
+    <file name="u133264-4-a2.png" crc="4270711254" ref="anti-ragging-act"/>
+    <file name="u133268-42.png" crc="4248367444" ref="anti-ragging-act"/>
+    <file name="u133267-43.png" crc="4236729425" ref="anti-ragging-act"/>
+    <file name="u133265-43.png" crc="367725923" ref="anti-ragging-act"/>
+    <file name="u133264-4-a3.png" crc="4270711254" ref="anti-ragging-act"/>
+    <file name="u133268-43.png" crc="4248367444" ref="anti-ragging-act"/>
+    <file name="u133267-44.png" crc="3945768632" ref="anti-ragging-act"/>
+    <file name="u133265-44.png" crc="476411293" ref="anti-ragging-act"/>
+    <file name="u133264-4-a4.png" crc="496035522" ref="anti-ragging-act"/>
+    <file name="u133268-44.png" crc="494664103" ref="anti-ragging-act"/>
+    <file name="u132362-4.png" crc="4156441994" ref="download"/>
+    <file name="u132360-4-a.png" crc="4062193396" ref="download"/>
+    <file name="u132359-4.png" crc="315438591" ref="download"/>
+    <file name="u132363-4.png" crc="3863089211" ref="download"/>
+    <file name="u132362-42.png" crc="4156441994" ref="download"/>
+    <file name="u132360-4-a2.png" crc="4062193396" ref="download"/>
+    <file name="u132359-42.png" crc="315438591" ref="download"/>
+    <file name="u132363-42.png" crc="3863089211" ref="download"/>
+    <file name="u132362-43.png" crc="4156441994" ref="download"/>
+    <file name="u132360-4-a3.png" crc="4062193396" ref="download"/>
+    <file name="u132359-43.png" crc="315438591" ref="download"/>
+    <file name="u132363-43.png" crc="3863089211" ref="download"/>
+  </folder>
+  <file name="index.html" crc="385466840" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="naac.html" crc="409074726" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="departments.html" crc="332981673" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="admission.html" crc="4226615502" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="courses.html" crc="120446987" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="about.html" crc="4024283276" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="iqac.html" crc="50999758" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="aishe.html" crc="4230362777" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="alumni.html" crc="4190006485" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="media.html" crc="472592889" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="contact.html" crc="4179171839" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="b.ed-course.html" crc="57563469" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="teaching.html" crc="3990795684" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="non-teaching.html" crc="141570630" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="bahadurgarh-shiksa-sabha.html" crc="508384068" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="about-college.html" crc="3986823030" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="gallary.html" crc="241632382" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="career.html" crc="4072251709" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="anti-ragging-act.html" crc="89737708" seo="true" mt="1534785813901" redirect="true"/>
+  <file name="download.html" crc="378545612" seo="true" mt="1534785813901" redirect="true"/>
+</manifest>
