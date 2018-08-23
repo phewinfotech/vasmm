@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Contact</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4249306696"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3942070298"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=3905120236" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=138810859"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=313093369"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=4173853299" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -732,13 +732,13 @@ Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1400', '#bp_1200'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#slideshowu11553', ['#bp_infinity', '#bp_1400', '#bp_1200'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu11553 */
 Muse.Utils.initWidget('#widgetu12115', ['#bp_infinity', '#bp_1400', '#bp_1200'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu12115 */
-$('#bp_1200').one('muse_this_bp_activate', function(){
-$('#u137775').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,12.01]},{"speed":[0,0],"in":[12.01,Infinity]}], $(this)); /* scroll effect */
-$('#u137781').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,184.94]},{"speed":[0,0],"in":[184.94,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1400').one('muse_this_bp_activate', function(){
 $('#u137775').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.01]},{"speed":[0,0],"in":[0.01,Infinity]}], $(this)); /* scroll effect */
 $('#u137781').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,172.94]},{"speed":[0,0],"in":[172.94,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1200').one('muse_this_bp_activate', function(){
+$('#u137775').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,12.01]},{"speed":[0,0],"in":[12.01,Infinity]}], $(this)); /* scroll effect */
+$('#u137781').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,184.94]},{"speed":[0,0],"in":[184.94,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u137775').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.01]},{"speed":[0,0],"in":[0.01,Infinity]}], $(this)); /* scroll effect */

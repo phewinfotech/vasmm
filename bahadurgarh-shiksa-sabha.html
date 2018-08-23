@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Bahadurgarh Shiksa Sabha</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4249306696"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3942070298"/>
-  <link rel="stylesheet" type="text/css" href="css/bahadurgarh-shiksa-sabha.css?crc=230040501" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=138810859"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=313093369"/>
+  <link rel="stylesheet" type="text/css" href="css/bahadurgarh-shiksa-sabha.css?crc=4259442137" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -319,10 +319,6 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1400', '#bp_1200'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u100020').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.07]},{"speed":[0,0],"in":[0.07,Infinity]}], $(this)); /* scroll effect */
-$('#u83196').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,173]},{"speed":[0,0],"in":[173,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1400').one('muse_this_bp_activate', function(){
 $('#u100020').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.07]},{"speed":[0,0],"in":[0.07,Infinity]}], $(this)); /* scroll effect */
 $('#u83196').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,173]},{"speed":[0,0],"in":[173,Infinity]}], $(this)); /* scroll effect */
@@ -330,6 +326,10 @@ $('#u83196').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,173]},
 $('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u100020').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,12.07]},{"speed":[0,0],"in":[12.07,Infinity]}], $(this)); /* scroll effect */
 $('#u83196').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,185]},{"speed":[0,0],"in":[185,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u100020').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.07]},{"speed":[0,0],"in":[0.07,Infinity]}], $(this)); /* scroll effect */
+$('#u83196').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,173]},{"speed":[0,0],"in":[173,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

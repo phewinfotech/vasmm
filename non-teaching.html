@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Non-Teaching</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4249306696"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3942070298"/>
-  <link rel="stylesheet" type="text/css" href="css/non-teaching.css?crc=477635858" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=138810859"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=313093369"/>
+  <link rel="stylesheet" type="text/css" href="css/non-teaching.css?crc=491465384" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -226,11 +226,11 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1200'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u81465').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,206.1]},{"speed":[0,0],"in":[206.1,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u81465').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,218.1]},{"speed":[0,0],"in":[218.1,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u81465').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,206.1]},{"speed":[0,0],"in":[206.1,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

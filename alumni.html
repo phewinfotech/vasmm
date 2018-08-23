@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Alumni</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4249306696"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3942070298"/>
-  <link rel="stylesheet" type="text/css" href="css/alumni.css?crc=4198389241" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=138810859"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=313093369"/>
+  <link rel="stylesheet" type="text/css" href="css/alumni.css?crc=187832493" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -319,13 +319,13 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1400', '#bp_1200'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#bp_1200').one('muse_this_bp_activate', function(){
-$('#u136013').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,12.01]},{"speed":[0,0],"in":[12.01,Infinity]}], $(this)); /* scroll effect */
-$('#u136019').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,184.94]},{"speed":[0,0],"in":[184.94,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1400').one('muse_this_bp_activate', function(){
 $('#u136013').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0.01]},{"speed":[0,0],"in":[0.01,Infinity]}], $(this)); /* scroll effect */
 $('#u136019').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,172.94]},{"speed":[0,0],"in":[172.94,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1200').one('muse_this_bp_activate', function(){
+$('#u136013').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,12.01]},{"speed":[0,0],"in":[12.01,Infinity]}], $(this)); /* scroll effect */
+$('#u136019').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,184.94]},{"speed":[0,0],"in":[184.94,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u136013').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-2.99]},{"speed":[0,0],"in":[-2.99,Infinity]}], $(this)); /* scroll effect */
