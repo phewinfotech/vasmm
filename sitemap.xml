@@ -440,6 +440,9 @@
     <image:image>
       <image:loc>http://vasmm.com/images/naac%20a%201.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/certificate.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/departments.html</loc>
