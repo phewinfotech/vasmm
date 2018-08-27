@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Media</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=138810859"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=313093369"/>
-  <link rel="stylesheet" type="text/css" href="css/media.css?crc=4173665654" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=162222381"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=482216979"/>
+  <link rel="stylesheet" type="text/css" href="css/media.css?crc=4142940872" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -246,13 +246,13 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1200'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#bp_1200').one('muse_this_bp_activate', function(){
-$('#u137168').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,9.01]},{"speed":[0,0],"in":[9.01,Infinity]}], $(this)); /* scroll effect */
-$('#u137174').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,181.94]},{"speed":[0,0],"in":[181.94,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u137168').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-2.99]},{"speed":[0,0],"in":[-2.99,Infinity]}], $(this)); /* scroll effect */
 $('#u137174').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,169.94]},{"speed":[0,0],"in":[169.94,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1200').one('muse_this_bp_activate', function(){
+$('#u137168').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,9.01]},{"speed":[0,0],"in":[9.01,Infinity]}], $(this)); /* scroll effect */
+$('#u137174').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,181.94]},{"speed":[0,0],"in":[181.94,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

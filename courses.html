@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Courses</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=138810859"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=313093369"/>
-  <link rel="stylesheet" type="text/css" href="css/courses.css?crc=467393467" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=162222381"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=482216979"/>
+  <link rel="stylesheet" type="text/css" href="css/courses.css?crc=3925617937" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -462,15 +462,15 @@ Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized');
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1400', '#bp_1200'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu62236', ['#bp_infinity', '#bp_1400', '#bp_1200'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'mouseover',deactivationEvent:'none',autoPlay:true,displayInterval:6000,transitionStyle:'fading',transitionDuration:4000,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu62236 */
-$('#bp_1400').one('muse_this_bp_activate', function(){
-$('#u99950').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-12.77]},{"speed":[0,0],"in":[-12.77,Infinity]}], $(this)); /* scroll effect */
-$('#u74624').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,173]},{"speed":[0,0],"in":[173,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u99950').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-0.47]},{"speed":[0,0],"in":[-0.47,Infinity]}], $(this)); /* scroll effect */
 $('#u74624').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,180.3]},{"speed":[0,0],"in":[180.3,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u99950').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-12.77]},{"speed":[0,0],"in":[-12.77,Infinity]}], $(this)); /* scroll effect */
+$('#u74624').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,173]},{"speed":[0,0],"in":[173,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1400').one('muse_this_bp_activate', function(){
 $('#u99950').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-12.77]},{"speed":[0,0],"in":[-12.77,Infinity]}], $(this)); /* scroll effect */
 $('#u74624').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,173]},{"speed":[0,0],"in":[173,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
