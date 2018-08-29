@@ -490,6 +490,27 @@
     </image:image>
   </url>
   <url>
+    <loc>http://vasmm.com/download.html</loc>
+    <lastmod>2018-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://vasmm.com/naac.html</loc>
     <lastmod>2018-08-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -682,7 +703,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/about-college.html</loc>
+    <loc>http://vasmm.com/anti-ragging-act.html</loc>
     <lastmod>2018-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -703,7 +724,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/bahadurgarh-shiksa-sabha.html</loc>
+    <loc>http://vasmm.com/achievement.html</loc>
     <lastmod>2018-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -721,6 +742,24 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ugc%20net.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u221958.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/battle-black-blur-260024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/maharishi-dayanand-university-rohtakjpg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219583.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -850,7 +889,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/download.html</loc>
+    <loc>http://vasmm.com/bahadurgarh-shiksa-sabha.html</loc>
     <lastmod>2018-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -871,7 +910,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/achievement.html</loc>
+    <loc>http://vasmm.com/about-college.html</loc>
     <lastmod>2018-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -889,24 +928,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ugc%20net.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u221958.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/battle-black-blur-260024.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/maharishi-dayanand-university-rohtakjpg.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219582.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219583.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -952,25 +973,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/anti-ragging-act.html</loc>
-    <lastmod>2018-08-27</lastmod>
+    <loc>http://vasmm.com/assets/election-bss-(1).pdf</loc>
+    <lastmod>2018-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/assets/election-college.pdf</loc>
@@ -979,8 +985,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://vasmm.com/assets/election-bss-(1).pdf</loc>
-    <lastmod>2018-08-26</lastmod>
+    <loc>http://vasmm.com/assets/list-of-collegium-members-2018.pdf</loc>
+    <lastmod>2018-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
