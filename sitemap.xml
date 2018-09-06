@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vasmm.com/index.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,9 +61,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_9954265x177.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/beti-bachao-beti-padhao-yojana-logo-vector-file287x272.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/women_logo.jpg</image:loc>
@@ -241,9 +238,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/beti-bachao-beti-padhao-yojana-logo-vector-file.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/women_logo402x296.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/7cb1bc7bdf807b3dd6704bfefbfb558f300x387.png</image:loc>
@@ -617,10 +611,13 @@
     <image:image>
       <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u2475133.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/women_logo272x200.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/media.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -641,7 +638,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/contact.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -692,7 +689,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/download.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -713,7 +710,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/naac.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -740,7 +737,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/departments.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -761,7 +758,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/admission.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -785,7 +782,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/courses.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -806,7 +803,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/about.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -833,7 +830,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/iqac.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -863,7 +860,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/aishe.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -884,7 +881,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/alumni.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -905,7 +902,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/anti-ragging-act.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -926,7 +923,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/achievement.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -965,7 +962,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/b.ed-course.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -986,7 +983,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/teaching.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1070,7 +1067,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/non-teaching.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1091,7 +1088,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/bahadurgarh-shiksa-sabha.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1112,7 +1109,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/about-college.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1133,7 +1130,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/gallary.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1154,7 +1151,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/career.html</loc>
-    <lastmod>2018-09-03</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
