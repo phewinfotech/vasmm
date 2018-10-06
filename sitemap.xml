@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vasmm.com/index.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -73,9 +73,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/mission.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/agrasen-maharaj.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_6615764x509.jpg</image:loc>
@@ -192,13 +189,7 @@
       <image:loc>http://vasmm.com/images/agrasen-maharaj788x493.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/naac%20a%201-crop-u57088.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/dev_2802788x453.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/royal-fam-gandhi-jayanti-hd-wallpapers-crop-u178886.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_6615211x140.jpg</image:loc>
@@ -211,9 +202,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_0111211x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/naac%20a%201-crop-u57102.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_6942212x140.jpg</image:loc>
@@ -229,18 +217,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/beti-bachao-beti-padhao-yojana-logo-vector-file.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/7cb1bc7bdf807b3dd6704bfefbfb558f300x387.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/agrasen-maharaj817x511.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_6615-crop-u180584.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_6784-crop-u180574.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_6615-crop-u180632.jpg</image:loc>
@@ -303,9 +279,6 @@
       <image:loc>http://vasmm.com/images/women_logo283x213.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/agrasen-maharaj-crop-u180568.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/updated-crop-u1805582.jpg</image:loc>
     </image:image>
     <image:image>
@@ -321,19 +294,7 @@
       <image:loc>http://vasmm.com/images/quotefancy-466895-3840x2160-crop-u1805942.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/dev_6615198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/agrasen-maharaj198x124.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_2628198x133.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/updated205x115.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_6417198x132.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh230x115.jpg</image:loc>
@@ -342,40 +303,7 @@
       <image:loc>http://vasmm.com/images/updatejpg205x115.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/dev_0111198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/felix-russell-saw-236041-unsplash198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/book%20library198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/book%20library2198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_1201198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_6784198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_6942198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_2802201x115.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/quotefancy-466895-3840x2160205x115.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_9954198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_9224198x132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_9718198x132.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_6615785x524.jpg</image:loc>
@@ -405,156 +333,1866 @@
       <image:loc>http://vasmm.com/images/line.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u242532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u242725.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u242780.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u243048.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20suman-crop-u243050.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u2425322.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u2427802.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u2430482.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20suman-crop-u2430502.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/ms%20khushbu.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u245791.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u245793.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u245947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u245949.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u245953.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u245955.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/ms%20annu%20photo194x230.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u2457912.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u2457932.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u2459472.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u2459532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u2459492.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u2459552.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/ms%20gayatri.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u246378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u246382.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u246384.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u247432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u247540.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u246204.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u247243.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u247216.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u247377.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u247513.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u246376.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u2463822.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u2463782.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u2463842.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u2474322.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u2475402.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u2472432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u2462042.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u247486.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u2472162.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u2475132.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/women_logo272x200.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/sawamidayanad%20copy269x394.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/agrasen-maharaj687x430.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/7cb1bc7bdf807b3dd6704bfefbfb558f238x308.png</image:loc>
+      <image:loc>http://vasmm.com/images/dev_6615980x653.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_28021139x653.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/royal-fam-gandhi-jayanti-hd-wallpapers934x701.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6615326x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj348x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2628325x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111326x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6942328x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802379x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/royal-fam-gandhi-jayanti-hd-wallpapers321x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9954326x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/women_logo290x218.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj630x394.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u315820.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u315877.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u315882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u315879.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u315885.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u315966.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u315991.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u315989.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u315993.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u316063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u316067.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u316065.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u316069.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u316165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u316162.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u316209.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu241x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u316207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u316211.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u316309.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u316307.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u316311.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u302726.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u302723.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u302716.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u302752.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u302750.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u302756.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u302754.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u302741.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u302733.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u302739.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u302737.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u302769.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u302761.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u302763.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u302759.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u302773.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u302776.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u302712.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u302705.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u302703.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u302730.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u314239.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u314234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u314236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u314294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u314299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u314292.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u314301.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u314279.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u314274.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u314281.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u314276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u314259.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u314255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u314263.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u314265.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u314289.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u314286.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u314252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u314250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u314245.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u314268.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u303392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u303395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u303385.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u303423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u303419.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u303425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u303421.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u303410.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u303408.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u303402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u303406.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u303438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u303432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u303430.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u303428.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u303445.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u303442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u303372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u303374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u303381.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u303399.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u313558.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u313553.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u313555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u312882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u312877.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u312879.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u312937.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u312942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u312935.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u312944.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u312922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u312917.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u312924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u312919.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u312902.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u312898.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u312906.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u312908.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u312932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u312929.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u312895.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u312893.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u312888.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u312911.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u313613.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u313618.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u313611.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u313620.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u313598.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u313593.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u313600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u313595.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u313578.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u313574.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u313582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u313584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u313608.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u313605.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u313571.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u313569.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u313564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u313587.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/naac%20a%201-crop-u1829592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/naac%20a%201-crop-u1829922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mission702x468.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3158202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3158772.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3158822.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3158792.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3158852.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3159662.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3159912.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3159892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3159932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3160632.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3160672.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3160652.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3160692.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3161652.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3161622.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3162092.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3162072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3162112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3163092.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3163072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3163112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u1806482.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u1806382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u1806662.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u1806642.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/quotefancy-466895-3840x2160-crop-u1806522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3033922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3033952.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3033852.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3034232.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3034192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3034252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3034212.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3034102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3034082.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3034022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3034062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3034382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3034322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3034302.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3034282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3034452.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3034422.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3033722.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3033742.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3033812.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3033992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/naac%20a%201-crop-u1829593.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/royal-fam-gandhi-jayanti-hd-wallpapers-crop-u182953.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/naac%20a%201-crop-u1829923.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj711x445.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u314228.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3142342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3142392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3142362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3142922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3142992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3143012.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3142792.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3142812.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3142742.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3142762.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3142592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3142632.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3142552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3142652.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3142862.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3142892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u314247.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3142502.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3142522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3142682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/beti-bachao-beti-padhao-yojana-logo-vector-file223x211.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/women_logo269x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj605x378.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20gayatri155x157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3027232.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3027262.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3027162.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3027542.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3027502.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3027562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3027522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3027412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3027392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3027332.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3027372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3027692.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3027632.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3027612.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3027592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3027762.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3027732.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3027032.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu155x157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3027052.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3027122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3027302.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6615695x463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj741x463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2628706x472.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u1805783.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg824x463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/book%20library695x464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/book%20library2695x464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6784700x463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6942608x403.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802807x464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/quotefancy-466895-3840x2160824x463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6615201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj201x126.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2628201x135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6417201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/felix-russell-saw-236041-unsplash201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/book%20library201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/book%20library2201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_1201201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6784201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6942201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802201x116.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9954201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9224201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9718201x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3135582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3135532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3135552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3128822.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3128772.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3128792.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3129372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3129422.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3129352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3129442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3129222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3129172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3129242.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3129192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3129022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3128982.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3129062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3129082.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3129322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3129292.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3128932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3128882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3128952.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3129112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3136132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3136182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3136112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3136202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3135982.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3135932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3136002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3135952.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3135782.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3135742.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3135822.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3135842.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3136082.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3136052.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3135692.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3135642.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3135712.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3135872.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/women_logo326x245.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj606x379.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3027233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3027263.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3027163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3027543.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3027503.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3027563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3027523.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3027413.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3027393.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3027333.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3027373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3027693.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3027633.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3027613.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3027593.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3027763.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3027733.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3027033.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3027053.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3027123.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3027303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u1805784.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3135583.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3135533.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3135553.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3128823.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3128773.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3128793.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3129373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3129423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3129353.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3129443.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3129223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3129173.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3129243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3129193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3129023.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3128983.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3129063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3129083.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3129323.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3129293.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3128933.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3128883.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3128953.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3129113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3136133.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3136183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3136113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3136203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3135983.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3135933.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3136003.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3135953.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3135783.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3135743.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3135823.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3135843.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3136083.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3136053.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3135693.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3135643.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3135713.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3135873.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3027234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3027264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3027164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3027544.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3027504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3027564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3027524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3027414.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3027394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3027334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3027374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3027694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3027634.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3027614.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3027594.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3027764.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3027734.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3027034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3027054.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3027124.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3027304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u1805785.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3135584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3135534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3135554.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3128824.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3128774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3128794.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3129374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3129424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3129354.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3129444.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3129224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3129174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3129244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3129194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3129024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3128984.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3129064.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3129084.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3129324.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3129294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3128934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3128884.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3128954.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3129114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3136134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3136184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3136114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3136204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3135984.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3135934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3136004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3135954.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3135784.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3135744.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3135824.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3135844.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3136084.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3136054.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3135694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3135644.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3135714.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3135874.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/beti-bachao-beti-padhao-yojana-logo-vector-file204x193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/agrasen-maharaj528x330.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/7cb1bc7bdf807b3dd6704bfefbfb558f186x241.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mission705x470.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3027235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3027265.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3027165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3027545.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3027505.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3027565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3027525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3027415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3027395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3027335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3027375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3027695.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3027635.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3027615.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3027595.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3027765.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3027735.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3027035.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3027055.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3027125.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3027305.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u1805786.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3135585.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3135535.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3135555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3128825.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3128775.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3128795.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3129375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3129425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3129355.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3129445.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3129225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3129175.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3129245.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3129195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3129025.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3128985.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3129065.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3129085.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3129325.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3129295.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3128935.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3128885.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3128955.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3129115.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3136135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3136185.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3136115.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3136205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3135985.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3135935.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3136005.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3135955.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3135785.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3135745.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3135825.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3135845.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3136085.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3136055.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3135695.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3135645.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3135715.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3135875.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3027236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3027266.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3027166.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3027546.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3027506.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3027566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3027526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3027416.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3027396.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3027336.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3027376.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3027696.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3027636.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3027616.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3027596.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3027766.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3027736.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3027036.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3027056.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3027126.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3027306.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u1805787.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3135586.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3135536.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3135556.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3128826.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3128776.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3128796.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3129376.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3129426.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3129356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3129446.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3129226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3129176.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3129246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3129196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3129026.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3128986.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3129066.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3129086.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3129326.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3129296.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3128936.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3128886.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3128956.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3129116.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3136136.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3136186.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3136116.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3136206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3135986.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3135936.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3136006.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3135956.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3135786.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3135746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3135826.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3135846.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3136086.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3136056.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3135696.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3135646.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3135716.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3135876.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3135587.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3135537.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3135557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u3128827.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u3128777.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u3128797.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3129377.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3129427.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3129357.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3129447.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3129227.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3129177.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3129247.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3129197.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3129027.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3128987.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3129067.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3129087.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3129327.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3129297.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3128937.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3128887.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3128957.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3129117.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20sunita%20narang-crop-u3136137.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20bhawna-crop-u3136187.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/jyoti%20photo-crop-u3136117.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u3136207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20divya%20bansal-crop-u3135987.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20suman-crop-u3135937.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20preet%20kamal-crop-u3136007.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20rani-crop-u3135957.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20renu%20kumari-crop-u3135787.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kiran-crop-u3135747.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/poonam%20mam%20photo%20001-crop-u3135827.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20sunita%20photo-crop-u3135847.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3136087.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u3136057.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u3135697.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u3135647.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u3135717.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3135877.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/media.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -575,7 +2213,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/contact.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -626,7 +2264,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/download.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -647,7 +2285,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/naac.html</loc>
-    <lastmod>2018-09-26</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -674,7 +2312,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/departments.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -695,7 +2333,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/admission.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -719,7 +2357,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/courses.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -740,7 +2378,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/about.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -767,7 +2405,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/iqac.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -797,7 +2435,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/aishe.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -818,7 +2456,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/alumni.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -839,7 +2477,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/anti-ragging-act.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -860,7 +2498,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/achievement.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -896,10 +2534,19 @@
     <image:image>
       <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219583.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219585.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219586.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/b.ed-course.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -920,7 +2567,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/teaching.html</loc>
-    <lastmod>2018-09-26</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1008,9 +2655,6 @@
       <image:loc>http://vasmm.com/images/dividers-transparent-gothic-1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u296874.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u296872.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1056,9 +2700,6 @@
       <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u2975132.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u2968742.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u2968722.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1093,9 +2734,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u2975462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u2968743.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/ms%20kanchan-crop-u2968723.jpg</image:loc>
@@ -1142,7 +2780,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/non-teaching.html</loc>
-    <lastmod>2018-09-26</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1159,9 +2797,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20annu%20photo194x230.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dividers-transparent-gothic-1.png</image:loc>
@@ -1265,10 +2900,25 @@
     <image:image>
       <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u2995082.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/abstract-art-background-1275563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u359411.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u344745.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3594112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3447452.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/bahadurgarh-shiksa-sabha.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1289,7 +2939,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/about-college.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1310,7 +2960,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/gallary.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1331,7 +2981,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/career.html</loc>
-    <lastmod>2018-09-24</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
