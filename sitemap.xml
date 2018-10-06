@@ -72,9 +72,6 @@
       <image:loc>http://vasmm.com/images/sawamidayanad%20copy.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/classroom.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/mission.png</image:loc>
     </image:image>
     <image:image>
@@ -2223,9 +2220,6 @@
       <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/classroom.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
     </image:image>
     <image:image>
@@ -2257,6 +2251,9 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dusk-fun-girl-16349660x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/classroom2.jpg</image:loc>
     </image:image>
   </url>
   <url>
