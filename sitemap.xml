@@ -2649,9 +2649,6 @@
       <image:loc>http://vasmm.com/images/quotefancy-466895-3840x2160-crop-u1431503.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/line-divider-clipart-1.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/dividers-transparent-gothic-1.png</image:loc>
     </image:image>
     <image:image>
@@ -2776,6 +2773,9 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/leena%20sharma%20photo-crop-u2975463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/divider.png</image:loc>
     </image:image>
   </url>
   <url>
