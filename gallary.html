@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "gallary.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "gallary.css"], "outOfDate":[]};
 </script>
   
   <title>Gallary</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=424740533"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=321317684"/>
-  <link rel="stylesheet" type="text/css" href="css/gallary.css?crc=441419042" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4279851052"/>
+  <link rel="stylesheet" type="text/css" href="css/gallary.css?crc=4091022958" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=534508029"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_gallary.css?crc=111821003" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=513593974"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_gallary.css?crc=449021542" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -41,90 +41,93 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="position_content" id="page_position_content">
      <div class="clearfix colelem" id="pu70714"><!-- group -->
       <div class="browser_width grpelem shared_content" id="u70714-bw" data-content-guid="u70714-bw_content">
-       <div id="u70714"><!-- simple frame --></div>
+       <div class="museBGSize" id="u70714"><!-- simple frame --></div>
       </div>
       <div class="clearfix grpelem shared_content" id="u85-6" data-content-guid="u85-6_content"><!-- content -->
        <p>Affiliated by</p>
        <p>Maharishi Dayanand University, Rohtak&nbsp; (Hr.)</p>
       </div>
       <div class="grpelem shared_content" id="u86" data-content-guid="u86_content"><!-- simple frame --></div>
-      <a class="nonblock nontext grpelem shared_content" id="u1612" href="index.html" data-content-guid="u1612_content"><!-- simple frame --></a>
+      <a class="nonblock nontext museBGSize rounded-corners grpelem shared_content" id="u1612" href="index.html" data-content-guid="u1612_content"><!-- simple frame --></a>
       <img class="grpelem temp_no_img_src shared_content" id="u1634-6" alt="Vaish Arya Shikshan Mahila Mahavidyalaya, Bahadurgarh NAAC Accredited &quot;A&quot; Grade" width="423" height="62" data-orig-src="images/u1634-6.png?crc=473986706" src="images/blank.gif?crc=4208392903" data-content-guid="u1634-6_content"/><!-- rasterized frame -->
       <div class="clip_frame grpelem shared_content" id="u118035" data-content-guid="u118035_content"><!-- image -->
        <img class="block temp_no_img_src" id="u118035_img" data-orig-src="images/naac-creation-logo-final%20png.png?crc=16684300" alt="" width="148" height="152" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clearfix grpelem" id="u130548"><!-- group -->
-       <div class="clearfix grpelem" id="u130551"><!-- group -->
-        <a class="nonblock nontext grpelem" id="u130552-4" href="career.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u130552-4_img" alt="Career" width="85" height="29" data-orig-src="images/u130552-4.png?crc=4156441994" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem" id="u130550-4" href="download.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u130550-4_img" alt="Download" width="85" height="29" data-orig-src="images/u130550-4.png?crc=4062193396" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem" id="u130549-4" href="anti-ragging-act.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u130549-4_img" alt="Anti-Ragging ACT" width="143" height="29" data-orig-src="images/u130549-4.png?crc=315438591" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext MuseLinkActive grpelem" id="u130553-4" href="gallary.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u130553-4_img" alt="Gallery" width="85" height="29" data-orig-src="images/u130553-4-a.png?crc=3863089211" src="images/blank.gif?crc=4208392903"/></a>
+      <div class="clearfix grpelem" id="u397056"><!-- group -->
+       <div class="clearfix grpelem" id="u395867"><!-- group -->
+        <div class="clearfix grpelem" id="u395869"><!-- group -->
+         <a class="nonblock nontext grpelem" id="u395872-4" href="career.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u395872-4_img" alt="Career" width="236" height="29" data-orig-src="images/u395872-4.png?crc=3932608458" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem" id="u395873-4" href="download.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u395873-4_img" alt="Download" width="236" height="29" data-orig-src="images/u395873-4.png?crc=4146612617" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext MuseLinkActive grpelem" id="u395874-4" href="gallary.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u395874-4_img" alt="Gallery" width="236" height="29" data-orig-src="images/u395874-4-a.png?crc=17924060" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem" id="u395870-4" href="achievement.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u395870-4_img" alt="Achievements" width="300" height="29" data-orig-src="images/u395870-4.png?crc=170507745" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem" id="u395871-4" href="anti-ragging-act.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u395871-4_img" alt="Anti-Ragging ACT" width="396" height="29" data-orig-src="images/u395871-4.png?crc=266010705" src="images/blank.gif?crc=4208392903"/></a>
+        </div>
        </div>
       </div>
      </div>
-     <div class="clearfix colelem" id="u130554"><!-- group -->
-      <div class="clearfix grpelem" id="u130668"><!-- group -->
-       <nav class="MenuBar clearfix grpelem" id="menuu130555"><!-- horizontal box -->
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130647"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130650" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130652-4"><!-- content --><p class="shared_content" data-content-guid="u130652-4_0_content">Home</p></div></a>
+     <div class="clearfix colelem" id="u395875"><!-- group -->
+      <div class="clearfix grpelem" id="u395876"><!-- group -->
+       <nav class="MenuBar clearfix grpelem" id="menuu395877"><!-- horizontal box -->
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395885"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395888" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395889-4"><!-- content --><p class="shared_content" data-content-guid="u395889-4_0_content">Home</p></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130626"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130627" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130630-4"><!-- content --><p class="shared_content" data-content-guid="u130630-4_0_content">About</p></div><div class="borderbox grpelem" id="u130628"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix" id="u130631"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem" id="u130632"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem" id="u130640"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u130643" href="bahadurgarh-shiksa-sabha.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130644-4"><!-- content --><div id="u130644-3" class="shared_content" data-content-guid="u130644-3_content"><p>Bahadurgarh Shiksa Sabha</p></div></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem" id="u130633"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u130634" href="about-college.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130637-4"><!-- content --><div id="u130637-3" class="shared_content" data-content-guid="u130637-3_content"><p>About College</p></div></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395955"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395956" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395957-4"><!-- content --><p class="shared_content" data-content-guid="u395957-4_0_content">About</p></div><div class="borderbox grpelem" id="u395959"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix" id="u395960"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem" id="u395961"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem" id="u395969"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u395972" href="bahadurgarh-shiksa-sabha.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395974-4"><!-- content --><div id="u395974-3" class="shared_content" data-content-guid="u395974-3_content"><p>Bahadurgarh Shiksa Sabha</p></div></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem" id="u395962"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u395965" href="about-college.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395966-4"><!-- content --><div id="u395966-3" class="shared_content" data-content-guid="u395966-3_content"><p>About College</p></div></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130584"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130585" href="courses.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130588-4"><!-- content --><p class="shared_content" data-content-guid="u130588-4_0_content">Courses</p></div><div class="borderbox grpelem" id="u130587"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix" id="u130589"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem" id="u130590"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem" id="u130591"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u130594" href="b.ed-course.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130597-4"><!-- content --><div id="u130597-3" class="shared_content" data-content-guid="u130597-3_content"><p>B.Ed Course</p></div></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395941"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395951" href="courses.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395953-4"><!-- content --><p class="shared_content" data-content-guid="u395953-4_0_content">Courses</p></div><div class="borderbox grpelem" id="u395954"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix" id="u395942"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem" id="u395943"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem" id="u395944"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u395945" href="b.ed-course.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395946-4"><!-- content --><div id="u395946-3" class="shared_content" data-content-guid="u395946-3_content"><p>B.Ed Course</p></div></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130598"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130599" href="admission.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130602-4"><!-- content --><p class="shared_content" data-content-guid="u130602-4_0_content">Admission</p></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395976"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395979" href="admission.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395980-4"><!-- content --><p class="shared_content" data-content-guid="u395980-4_0_content">Admission</p></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130605"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130622" href="departments.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130625-4"><!-- content --><p class="shared_content" data-content-guid="u130625-4_0_content">Departments</p></div><div class="borderbox grpelem" id="u130624"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix" id="u130606"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem" id="u130607"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem" id="u130615"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u130616" href="teaching.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130617-4"><!-- content --><div id="u130617-3" class="shared_content" data-content-guid="u130617-3_content"><p>Teaching</p></div></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem" id="u130608"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u130611" href="non-teaching.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130612-4"><!-- content --><div id="u130612-3" class="shared_content" data-content-guid="u130612-3_content"><p>Non-Teaching</p></div></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395920"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395921" href="departments.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395923-4"><!-- content --><p class="shared_content" data-content-guid="u395923-4_0_content">Departments</p></div><div class="borderbox grpelem" id="u395922"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix" id="u395925"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem" id="u395926"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem" id="u395927"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u395928" href="teaching.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395931-4"><!-- content --><div id="u395931-3" class="shared_content" data-content-guid="u395931-3_content"><p>Teaching</p></div></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem" id="u395934"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u395935" href="non-teaching.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395936-4"><!-- content --><div id="u395936-3" class="shared_content" data-content-guid="u395936-3_content"><p>Non-Teaching</p></div></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130661"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130662" href="naac.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130663-4"><!-- content --><p class="shared_content" data-content-guid="u130663-4_0_content">NAAC</p></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395899"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395902" href="naac.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395905-4"><!-- content --><p class="shared_content" data-content-guid="u395905-4_0_content">NAAC</p></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130570"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130571" href="iqac.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130572-4"><!-- content --><p class="shared_content" data-content-guid="u130572-4_0_content">IQAC</p></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395906"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395907" href="iqac.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395909-4"><!-- content --><p class="shared_content" data-content-guid="u395909-4_0_content">IQAC</p></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130654"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130657" href="aishe.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130660-4"><!-- content --><p class="shared_content" data-content-guid="u130660-4_0_content">AISHE</p></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395892"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395895" href="aishe.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395896-4"><!-- content --><p class="shared_content" data-content-guid="u395896-4_0_content">AISHE</p></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130563"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130564" href="alumni.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130566-4"><!-- content --><p class="shared_content" data-content-guid="u130566-4_0_content">Alumni</p></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395913"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395914" href="alumni.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395915-4"><!-- content --><p class="shared_content" data-content-guid="u395915-4_0_content">Alumni</p></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130556"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130559" href="media.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130560-4"><!-- content --><p class="shared_content" data-content-guid="u130560-4_0_content">Media</p></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395878"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395881" href="media.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395884-4"><!-- content --><p class="shared_content" data-content-guid="u395884-4_0_content">Media</p></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem" id="u130577"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u130580" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u130582-4"><!-- content --><p class="shared_content" data-content-guid="u130582-4_0_content">Contact</p></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem" id="u395983"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u395984" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u395985-4"><!-- content --><p class="shared_content" data-content-guid="u395985-4_0_content">Contact</p></div></a>
         </div>
        </nav>
       </div>
      </div>
-     <div class="verticalspacer" data-offset-top="116" data-content-above-spacer="220" data-content-below-spacer="1706"></div>
+     <div class="verticalspacer" data-offset-top="158" data-content-above-spacer="262" data-content-below-spacer="1664"></div>
      <div class="browser_width colelem shared_content" id="u280313-bw" data-content-guid="u280313-bw_content">
       <div id="u280313"><!-- simple frame --></div>
      </div>
      <div class="clearfix colelem" id="pu248139-3"><!-- group -->
       <div class="browser_width grpelem shared_content" id="u248139-3-bw" data-content-guid="u248139-3-bw_content">
-       <div class="clearfix" id="u248139-3"><!-- content -->
+       <div class="museBGSize clearfix" id="u248139-3"><!-- content -->
         <p>&nbsp;</p>
        </div>
       </div>
@@ -133,9 +136,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clearfix grpelem" id="u277126"><!-- group -->
        <div class="grpelem shared_content" id="u13504" data-content-guid="u13504_content"><!-- simple frame --></div>
        <div class="clearfix grpelem" id="u277121"><!-- group -->
-        <div class="clearfix grpelem shared_content" id="ppu248144-4" data-content-guid="ppu248144-4_content"><!-- column -->
+        <div class="clearfix grpelem" id="ppu248144-4"><!-- column -->
          <div class="clearfix colelem" id="pu248144-4"><!-- group -->
-          <img class="grpelem temp_no_img_src shared_content" id="u248144-4" alt="Admission" width="80" height="162" data-orig-src="images/u248144-4.png?crc=4018588195" src="images/blank.gif?crc=4208392903" data-content-guid="u248144-4_content"/><!-- rasterized frame -->
+          <img class="grpelem temp_no_img_src" id="u248144-4" alt="Admission" width="220" height="162" data-orig-src="images/u248144-4.png?crc=278203916" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
           <div class="clearfix grpelem shared_content" id="u248153-6" data-content-guid="u248153-6_content"><!-- content -->
            <ul class="list0 nls-None" id="u248153-4">
             <li id="u248153-3"><a class="nonblock" href="admission.html"><span id="u248153">Admission</span></a></li>
@@ -143,7 +146,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
           </div>
          </div>
          <div class="clearfix colelem" id="pu248171-4"><!-- group -->
-          <img class="grpelem temp_no_img_src shared_content" id="u248171-4" alt="Media" width="79" height="162" data-orig-src="images/u248171-4.png?crc=3860797785" src="images/blank.gif?crc=4208392903" data-content-guid="u248171-4_content"/><!-- rasterized frame -->
+          <img class="grpelem temp_no_img_src" id="u248171-4" alt="Media" width="219" height="162" data-orig-src="images/u248171-4.png?crc=40282545" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
           <div class="clearfix grpelem shared_content" id="u248180-6" data-content-guid="u248180-6_content"><!-- content -->
            <ul class="list0 nls-None" id="u248180-4">
             <li id="u248180-3"><a class="nonblock" href="media.html"><span id="u248180">Media Coverage</span></a></li>
@@ -151,8 +154,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
           </div>
          </div>
         </div>
-        <div class="clearfix grpelem shared_content" id="pu247760-4" data-content-guid="pu247760-4_content"><!-- group -->
-         <img class="grpelem temp_no_img_src shared_content" id="u247760-4" alt="Other Links" width="79" height="162" data-orig-src="images/u247760-4.png?crc=147250609" src="images/blank.gif?crc=4208392903" data-content-guid="u247760-4_content"/><!-- rasterized frame -->
+        <div class="clearfix grpelem" id="pu247760-4"><!-- group -->
+         <img class="grpelem temp_no_img_src" id="u247760-4" alt="Other Links" width="219" height="162" data-orig-src="images/u247760-4.png?crc=207845251" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
          <div class="clearfix grpelem shared_content" id="u247743-34" data-content-guid="u247743-34_content"><!-- content -->
           <ul class="list0 nls-None" id="u247743-7">
            <li id="u247743-3"><a class="nonblock" href="about.html"><span id="u247743">About us</span></a></li>
@@ -174,7 +177,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
           <div class="clearfix grpelem shared_content" id="u247801-5" data-content-guid="u247801-5_content"><!-- content -->
            <p><span id="u247801">01276</span>-260383</p>
           </div>
-          <img class="grpelem temp_no_img_src shared_content" id="u248189-4" alt="Contact us" width="79" height="162" data-orig-src="images/u248189-4.png?crc=73323888" src="images/blank.gif?crc=4208392903" data-content-guid="u248189-4_content"/><!-- rasterized frame -->
+          <img class="grpelem temp_no_img_src" id="u248189-4" alt="Contact us" width="219" height="162" data-orig-src="images/u248189-4.png?crc=3926405467" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
           <div class="clearfix grpelem shared_content" id="u260966-4" data-content-guid="u260966-4_content"><!-- content -->
            <p>Email :- vasmm89@gmail.com</p>
           </div>
@@ -201,75 +204,78 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="browser_width grpelem placeholder" data-placeholder-for="u70714-bw_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u85-6_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u86_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize rounded-corners grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u1634-6_content"><!-- placeholder node --></span>
       <span class="clip_frame grpelem placeholder" data-placeholder-for="u118035_content"><!-- placeholder node --></span>
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130548"><!-- group -->
-       <div class="clearfix grpelem temp_no_id" data-orig-id="u130551"><!-- group -->
-        <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u130552-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="85" height="29" data-orig-src="images/u130552-42.png?crc=4156441994" data-orig-id="u130552-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u130550-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="85" height="29" data-orig-src="images/u130550-42.png?crc=4062193396" data-orig-id="u130550-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u130549-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="143" height="29" data-orig-src="images/u130549-42.png?crc=315438591" data-orig-id="u130549-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u130553-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="85" height="29" data-orig-src="images/u130553-4-a2.png?crc=3863089211" data-orig-id="u130553-4_img" src="images/blank.gif?crc=4208392903"/></a>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u397056"><!-- group -->
+       <div class="clearfix grpelem temp_no_id" data-orig-id="u395867"><!-- group -->
+        <div class="clearfix grpelem temp_no_id" data-orig-id="u395869"><!-- group -->
+         <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u395872-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="149" height="29" data-orig-src="images/u395872-42.png?crc=57341386" data-orig-id="u395872-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u395873-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="149" height="29" data-orig-src="images/u395873-42.png?crc=3865272963" data-orig-id="u395873-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u395874-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="149" height="29" data-orig-src="images/u395874-4-a2.png?crc=3850928907" data-orig-id="u395874-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="achievement.html" data-orig-id="u395870-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Achievements" width="190" height="29" data-orig-src="images/u395870-42.png?crc=110010854" data-orig-id="u395870-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u395871-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="250" height="29" data-orig-src="images/u395871-42.png?crc=4290616128" data-orig-id="u395871-4_img" src="images/blank.gif?crc=4208392903"/></a>
+        </div>
        </div>
       </div>
      </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="u130554"><!-- group -->
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130668"><!-- group -->
-       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu130555"><!-- horizontal box -->
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130647"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u130650"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130652-4"><!-- content --><span class="placeholder" data-placeholder-for="u130652-4_0_content"><!-- placeholder node --></span></div></a>
+     <div class="clearfix colelem temp_no_id" data-orig-id="u395875"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u395876"><!-- group -->
+       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu395877"><!-- horizontal box -->
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395885"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u395888"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395889-4"><!-- content --><span class="placeholder" data-placeholder-for="u395889-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130626"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u130627"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130630-4"><!-- content --><span class="placeholder" data-placeholder-for="u130630-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130628"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130631"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130632"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130640"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u130643"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130644-4"><!-- content --><span class="placeholder" data-placeholder-for="u130644-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130633"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u130634"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130637-4"><!-- content --><span class="placeholder" data-placeholder-for="u130637-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395955"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u395956"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395957-4"><!-- content --><span class="placeholder" data-placeholder-for="u395957-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395959"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395960"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395961"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395969"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u395972"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395974-4"><!-- content --><span class="placeholder" data-placeholder-for="u395974-3_content"><!-- placeholder node --></span></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395962"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u395965"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395966-4"><!-- content --><span class="placeholder" data-placeholder-for="u395966-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130584"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u130585"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130588-4"><!-- content --><span class="placeholder" data-placeholder-for="u130588-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130587"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130589"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130590"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130591"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u130594"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130597-4"><!-- content --><span class="placeholder" data-placeholder-for="u130597-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395941"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u395951"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395953-4"><!-- content --><span class="placeholder" data-placeholder-for="u395953-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395954"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395942"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395943"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395944"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u395945"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395946-4"><!-- content --><span class="placeholder" data-placeholder-for="u395946-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130598"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u130599"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130602-4"><!-- content --><span class="placeholder" data-placeholder-for="u130602-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395976"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u395979"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395980-4"><!-- content --><span class="placeholder" data-placeholder-for="u395980-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130605"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u130622"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130625-4"><!-- content --><span class="placeholder" data-placeholder-for="u130625-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130624"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130606"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130607"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130615"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u130616"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130617-4"><!-- content --><span class="placeholder" data-placeholder-for="u130617-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130608"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u130611"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130612-4"><!-- content --><span class="placeholder" data-placeholder-for="u130612-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395920"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u395921"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395923-4"><!-- content --><span class="placeholder" data-placeholder-for="u395923-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395922"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395925"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395926"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395927"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u395928"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395931-4"><!-- content --><span class="placeholder" data-placeholder-for="u395931-3_content"><!-- placeholder node --></span></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395934"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u395935"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395936-4"><!-- content --><span class="placeholder" data-placeholder-for="u395936-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130661"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u130662"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130663-4"><!-- content --><span class="placeholder" data-placeholder-for="u130663-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395899"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u395902"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395905-4"><!-- content --><span class="placeholder" data-placeholder-for="u395905-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130570"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u130571"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130572-4"><!-- content --><span class="placeholder" data-placeholder-for="u130572-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395906"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u395907"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395909-4"><!-- content --><span class="placeholder" data-placeholder-for="u395909-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130654"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u130657"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130660-4"><!-- content --><span class="placeholder" data-placeholder-for="u130660-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395892"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u395895"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395896-4"><!-- content --><span class="placeholder" data-placeholder-for="u395896-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130563"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u130564"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130566-4"><!-- content --><span class="placeholder" data-placeholder-for="u130566-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395913"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u395914"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395915-4"><!-- content --><span class="placeholder" data-placeholder-for="u395915-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130556"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u130559"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130560-4"><!-- content --><span class="placeholder" data-placeholder-for="u130560-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395878"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u395881"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395884-4"><!-- content --><span class="placeholder" data-placeholder-for="u395884-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130577"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u130580"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130582-4"><!-- content --><span class="placeholder" data-placeholder-for="u130582-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395983"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u395984"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395985-4"><!-- content --><span class="placeholder" data-placeholder-for="u395985-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
        </nav>
       </div>
      </div>
-     <div class="verticalspacer" data-offset-top="116" data-content-above-spacer="220" data-content-below-spacer="1749"></div>
+     <div class="verticalspacer" data-offset-top="162" data-content-above-spacer="265" data-content-below-spacer="1704"></div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu248139-3"><!-- group -->
       <span class="browser_width grpelem placeholder" data-placeholder-for="u248139-3-bw_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u955-5_content"><!-- placeholder node --></span>
@@ -277,12 +283,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clearfix grpelem temp_no_id" data-orig-id="u277126"><!-- group -->
        <span class="grpelem placeholder" data-placeholder-for="u13504_content"><!-- placeholder node --></span>
        <div class="clearfix grpelem temp_no_id" data-orig-id="u277121"><!-- group -->
-        <span class="clearfix grpelem placeholder" data-placeholder-for="ppu248144-4_content"><!-- placeholder node --></span>
-        <span class="clearfix grpelem placeholder" data-placeholder-for="pu247760-4_content"><!-- placeholder node --></span>
+        <div class="clearfix grpelem temp_no_id" data-orig-id="ppu248144-4"><!-- column -->
+         <div class="clearfix colelem temp_no_id" data-orig-id="pu248144-4"><!-- group -->
+          <img class="grpelem temp_no_id temp_no_img_src shared_content" alt="Admission" width="139" height="162" data-orig-src="images/u248144-4.png?crc=278203916" data-orig-id="u248144-4" src="images/blank.gif?crc=4208392903" data-content-guid="u248144-4_content"/><!-- rasterized frame -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u248153-6_content"><!-- placeholder node --></span>
+         </div>
+         <div class="clearfix colelem temp_no_id" data-orig-id="pu248171-4"><!-- group -->
+          <img class="grpelem temp_no_id temp_no_img_src shared_content" alt="Media" width="138" height="162" data-orig-src="images/u248171-4.png?crc=40282545" data-orig-id="u248171-4" src="images/blank.gif?crc=4208392903" data-content-guid="u248171-4_content"/><!-- rasterized frame -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u248180-6_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="clearfix grpelem temp_no_id" data-orig-id="pu247760-4"><!-- group -->
+         <img class="grpelem temp_no_id temp_no_img_src shared_content" alt="Other Links" width="138" height="162" data-orig-src="images/u247760-4.png?crc=207845251" data-orig-id="u247760-4" src="images/blank.gif?crc=4208392903" data-content-guid="u247760-4_content"/><!-- rasterized frame -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u247743-34_content"><!-- placeholder node --></span>
+        </div>
         <div class="clearfix grpelem temp_no_id" data-orig-id="ppu247801-5"><!-- column -->
          <div class="clearfix colelem temp_no_id" data-orig-id="pu247801-5"><!-- group -->
           <span class="clearfix grpelem placeholder" data-placeholder-for="u247801-5_content"><!-- placeholder node --></span>
-          <img class="grpelem temp_no_id temp_no_img_src" alt="Contact us" width="231" height="162" data-orig-src="images/u248189-4.png?crc=73323888" data-orig-id="u248189-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+          <img class="grpelem temp_no_id temp_no_img_src" alt="Contact us" width="231" height="162" data-orig-src="images/u248189-4.png?crc=3926405467" data-orig-id="u248189-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
           <span class="clearfix grpelem placeholder" data-placeholder-for="u260966-4_content"><!-- placeholder node --></span>
          </div>
          <span class="colelem placeholder" data-placeholder-for="u13041-4_content"><!-- placeholder node --></span>
@@ -308,77 +326,80 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="browser_width grpelem placeholder" data-placeholder-for="u70714-bw_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u85-6_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u86_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src shared_content" alt="Vaish Arya Shikshan Mahila Mahavidyalaya, Bahadurgarh NAAC Accredited &quot;A&quot; Grade" width="179" height="122" data-orig-src="images/u1634-6.png?crc=473986706" data-orig-id="u1634-6" src="images/blank.gif?crc=4208392903" data-content-guid="u1634-6_content1"/><!-- rasterized frame -->
+      <span class="nonblock nontext museBGSize rounded-corners grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
+      <img class="grpelem temp_no_id temp_no_img_src shared_content" alt="Vaish Arya Shikshan Mahila Mahavidyalaya, Bahadurgarh NAAC Accredited &quot;A&quot; Grade" width="313" height="75" data-orig-src="images/u1634-6.png?crc=473986706" data-orig-id="u1634-6" src="images/blank.gif?crc=4208392903" data-content-guid="u1634-6_content1"/><!-- rasterized frame -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u118035"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/naac-creation-logo-final%20png.png?crc=16684300" alt="" width="63" height="64" data-orig-id="u118035_img" src="images/blank.gif?crc=4208392903"/>
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/naac-creation-logo-final%20png.png?crc=16684300" alt="" width="110" height="113" data-orig-id="u118035_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130548"><!-- group -->
-       <div class="clearfix grpelem temp_no_id" data-orig-id="u130551"><!-- group -->
-        <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u130552-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="85" height="29" data-orig-src="images/u130552-43.png?crc=4156441994" data-orig-id="u130552-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u130550-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="85" height="29" data-orig-src="images/u130550-43.png?crc=4062193396" data-orig-id="u130550-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u130549-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="143" height="29" data-orig-src="images/u130549-43.png?crc=315438591" data-orig-id="u130549-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u130553-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="85" height="29" data-orig-src="images/u130553-4-a3.png?crc=3863089211" data-orig-id="u130553-4_img" src="images/blank.gif?crc=4208392903"/></a>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u397056"><!-- group -->
+       <div class="clearfix grpelem temp_no_id" data-orig-id="u395867"><!-- group -->
+        <div class="clearfix grpelem temp_no_id" data-orig-id="u395869"><!-- group -->
+         <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u395872-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="149" height="29" data-orig-src="images/u395872-43.png?crc=57341386" data-orig-id="u395872-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u395873-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="149" height="29" data-orig-src="images/u395873-43.png?crc=3865272963" data-orig-id="u395873-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u395874-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="149" height="29" data-orig-src="images/u395874-4-a3.png?crc=3850928907" data-orig-id="u395874-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="achievement.html" data-orig-id="u395870-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Achievements" width="190" height="29" data-orig-src="images/u395870-43.png?crc=110010854" data-orig-id="u395870-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u395871-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="250" height="29" data-orig-src="images/u395871-43.png?crc=4290616128" data-orig-id="u395871-4_img" src="images/blank.gif?crc=4208392903"/></a>
+        </div>
        </div>
       </div>
      </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="u130554"><!-- group -->
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130668"><!-- group -->
-       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu130555"><!-- horizontal box -->
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130647"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u130650"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130652-4"><!-- content --><span class="placeholder" data-placeholder-for="u130652-4_0_content"><!-- placeholder node --></span></div></a>
+     <div class="clearfix colelem temp_no_id" data-orig-id="u395875"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u395876"><!-- group -->
+       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu395877"><!-- horizontal box -->
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395885"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u395888"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395889-4"><!-- content --><span class="placeholder" data-placeholder-for="u395889-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130626"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u130627"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130630-4"><!-- content --><span class="placeholder" data-placeholder-for="u130630-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130628"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130631"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130632"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130640"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u130643"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130644-4"><!-- content --><span class="placeholder" data-placeholder-for="u130644-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130633"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u130634"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130637-4"><!-- content --><span class="placeholder" data-placeholder-for="u130637-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395955"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u395956"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395957-4"><!-- content --><span class="placeholder" data-placeholder-for="u395957-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395959"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395960"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395961"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395969"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u395972"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395974-4"><!-- content --><span class="placeholder" data-placeholder-for="u395974-3_content"><!-- placeholder node --></span></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395962"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u395965"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395966-4"><!-- content --><span class="placeholder" data-placeholder-for="u395966-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130584"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u130585"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130588-4"><!-- content --><span class="placeholder" data-placeholder-for="u130588-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130587"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130589"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130590"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130591"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u130594"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130597-4"><!-- content --><span class="placeholder" data-placeholder-for="u130597-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395941"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u395951"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395953-4"><!-- content --><span class="placeholder" data-placeholder-for="u395953-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395954"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395942"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395943"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395944"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u395945"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395946-4"><!-- content --><span class="placeholder" data-placeholder-for="u395946-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130598"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u130599"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130602-4"><!-- content --><span class="placeholder" data-placeholder-for="u130602-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395976"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u395979"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395980-4"><!-- content --><span class="placeholder" data-placeholder-for="u395980-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130605"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u130622"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130625-4"><!-- content --><span class="placeholder" data-placeholder-for="u130625-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130624"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130606"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130607"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130615"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u130616"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130617-4"><!-- content --><span class="placeholder" data-placeholder-for="u130617-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130608"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u130611"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130612-4"><!-- content --><span class="placeholder" data-placeholder-for="u130612-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395920"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u395921"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395923-4"><!-- content --><span class="placeholder" data-placeholder-for="u395923-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395922"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395925"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395926"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395927"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u395928"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395931-4"><!-- content --><span class="placeholder" data-placeholder-for="u395931-3_content"><!-- placeholder node --></span></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395934"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u395935"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395936-4"><!-- content --><span class="placeholder" data-placeholder-for="u395936-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130661"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u130662"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130663-4"><!-- content --><span class="placeholder" data-placeholder-for="u130663-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395899"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u395902"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395905-4"><!-- content --><span class="placeholder" data-placeholder-for="u395905-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130570"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u130571"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130572-4"><!-- content --><span class="placeholder" data-placeholder-for="u130572-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395906"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u395907"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395909-4"><!-- content --><span class="placeholder" data-placeholder-for="u395909-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130654"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u130657"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130660-4"><!-- content --><span class="placeholder" data-placeholder-for="u130660-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395892"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u395895"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395896-4"><!-- content --><span class="placeholder" data-placeholder-for="u395896-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130563"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u130564"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130566-4"><!-- content --><span class="placeholder" data-placeholder-for="u130566-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395913"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u395914"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395915-4"><!-- content --><span class="placeholder" data-placeholder-for="u395915-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130556"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u130559"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130560-4"><!-- content --><span class="placeholder" data-placeholder-for="u130560-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395878"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u395881"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395884-4"><!-- content --><span class="placeholder" data-placeholder-for="u395884-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130577"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u130580"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130582-4"><!-- content --><span class="placeholder" data-placeholder-for="u130582-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395983"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u395984"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395985-4"><!-- content --><span class="placeholder" data-placeholder-for="u395985-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
        </nav>
       </div>
      </div>
-     <div class="verticalspacer shared_content" data-offset-top="116" data-content-above-spacer="232" data-content-below-spacer="1670" data-content-guid="page_position_content_2_content"></div>
+     <div class="verticalspacer shared_content" data-offset-top="162" data-content-above-spacer="277" data-content-below-spacer="1625" data-content-guid="page_position_content_2_content"></div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu248139-3"><!-- group -->
       <span class="browser_width grpelem placeholder" data-placeholder-for="u248139-3-bw_content"><!-- placeholder node --></span>
       <img class="grpelem temp_no_id temp_no_img_src shared_content" alt="Copyright © 2018 All Rights Reserved for Vaish Arya Shikshan Mahila Mahavidyalay, Bahadurgarh " width="570" height="47" data-orig-src="images/u955-5.png?crc=241094795" data-orig-id="u955-5" src="images/blank.gif?crc=4208392903" data-content-guid="u955-5_content1"/><!-- rasterized frame -->
@@ -386,103 +407,106 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clearfix grpelem temp_no_id" data-orig-id="u277126"><!-- group -->
        <span class="grpelem placeholder" data-placeholder-for="u13504_content"><!-- placeholder node --></span>
        <div class="clearfix grpelem temp_no_id" data-orig-id="u277121"><!-- group -->
-        <img class="grpelem temp_no_id temp_no_img_src" alt="Other Links" width="110" height="162" data-orig-src="images/u247760-4.png?crc=147250609" data-orig-id="u247760-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+        <img class="grpelem temp_no_id temp_no_img_src" alt="Other Links" width="193" height="162" data-orig-src="images/u247760-4.png?crc=207845251" data-orig-id="u247760-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
         <span class="grpelem placeholder" data-placeholder-for="u248144-4_content"><!-- placeholder node --></span>
         <span class="grpelem placeholder" data-placeholder-for="u248171-4_content"><!-- placeholder node --></span>
         <span class="clearfix grpelem placeholder" data-placeholder-for="u247743-34_content"><!-- placeholder node --></span>
         <span class="clearfix grpelem placeholder" data-placeholder-for="u248153-6_content"><!-- placeholder node --></span>
         <span class="clearfix grpelem placeholder" data-placeholder-for="u248180-6_content"><!-- placeholder node --></span>
         <span class="clearfix grpelem placeholder" data-placeholder-for="u247801-5_content"><!-- placeholder node --></span>
-        <span class="grpelem placeholder" data-placeholder-for="u248189-4_content"><!-- placeholder node --></span>
+        <img class="grpelem temp_no_id temp_no_img_src shared_content" alt="Contact us" width="138" height="162" data-orig-src="images/u248189-4.png?crc=3926405467" data-orig-id="u248189-4" src="images/blank.gif?crc=4208392903" data-content-guid="u248189-4_content"/><!-- rasterized frame -->
         <span class="clearfix grpelem placeholder" data-placeholder-for="u260966-4_content"><!-- placeholder node --></span>
         <span class="grpelem placeholder" data-placeholder-for="u13041-4_content"><!-- placeholder node --></span>
         <span class="grpelem placeholder" data-placeholder-for="u13045-4_content"><!-- placeholder node --></span>
        </div>
       </div>
-      <div class="grpelem temp_no_id shared_content" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="31" data-mu-ie-matrix-dy="-31" data-orig-id="u13051" data-content-guid="u13051_content1"><!-- simple frame --></div>
-      <div class="grpelem temp_no_id shared_content" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="45" data-mu-ie-matrix-dy="-45" data-orig-id="u277289" data-content-guid="u277289_content"><!-- simple frame --></div>
+      <div class="grpelem temp_no_id shared_content" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="54" data-mu-ie-matrix-dy="-54" data-orig-id="u13051" data-content-guid="u13051_content1"><!-- simple frame --></div>
+      <div class="grpelem temp_no_id shared_content" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="79" data-mu-ie-matrix-dy="-79" data-orig-id="u277289" data-content-guid="u277289_content"><!-- simple frame --></div>
       <span class="browser_width grpelem placeholder" data-placeholder-for="u280313-bw_content"><!-- placeholder node --></span>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.youtube.com/?gl=IN" target="_blank" data-orig-id="u12993" data-content-guid="u12993_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/youtube.png?crc=201966476" alt="" width="28" height="28" data-orig-id="u12993_img" src="images/blank.gif?crc=4208392903"/></a>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.facebook.com/Vaish-Arya-Shikshan-Mahila-Mahavidyalaya-Bahadurgarh-115087759191711/" target="_blank" data-orig-id="u13005" data-content-guid="u13005_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/facebook.png?crc=182554253" alt="" width="25" height="25" data-orig-id="u13005_img" src="images/blank.gif?crc=4208392903"/></a>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.instagram.com/" target="_blank" data-orig-id="u13017" data-content-guid="u13017_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/instagram.png?crc=37760132" alt="" width="26" height="26" data-orig-id="u13017_img" src="images/blank.gif?crc=4208392903"/></a>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.linkedin.com" target="_blank" data-orig-id="u13029" data-content-guid="u13029_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/linkedin.png?crc=3843589320" alt="" width="26" height="26" data-orig-id="u13029_img" src="images/blank.gif?crc=4208392903"/></a>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.youtube.com/?gl=IN" target="_blank" data-orig-id="u12993" data-content-guid="u12993_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/youtube.png?crc=201966476" alt="" width="49" height="49" data-orig-id="u12993_img" src="images/blank.gif?crc=4208392903"/></a>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.facebook.com/Vaish-Arya-Shikshan-Mahila-Mahavidyalaya-Bahadurgarh-115087759191711/" target="_blank" data-orig-id="u13005" data-content-guid="u13005_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/facebook.png?crc=182554253" alt="" width="45" height="45" data-orig-id="u13005_img" src="images/blank.gif?crc=4208392903"/></a>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.instagram.com/" target="_blank" data-orig-id="u13017" data-content-guid="u13017_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/instagram.png?crc=37760132" alt="" width="46" height="46" data-orig-id="u13017_img" src="images/blank.gif?crc=4208392903"/></a>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="https://www.linkedin.com" target="_blank" data-orig-id="u13029" data-content-guid="u13029_content1"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/linkedin.png?crc=3843589320" alt="" width="46" height="46" data-orig-id="u13029_img" src="images/blank.gif?crc=4208392903"/></a>
      </div>
     </div>
    </div>
   </div>
-  <div class="breakpoint" id="bp_995" data-min-width="773" data-max-width="995"><!-- responsive breakpoint node -->
+  <div class="breakpoint" id="bp_995" data-max-width="995"><!-- responsive breakpoint node -->
    <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
     <div class="position_content temp_no_id" data-orig-id="page_position_content">
      <div class="clearfix colelem temp_no_id" data-orig-id="pu70714"><!-- group -->
       <span class="browser_width grpelem placeholder" data-placeholder-for="u70714-bw_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u85-6_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u86_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize rounded-corners grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u1634-6_content1"><!-- placeholder node --></span>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u118035"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/naac-creation-logo-final%20png.png?crc=16684300" alt="" width="108" height="111" data-orig-id="u118035_img" src="images/blank.gif?crc=4208392903"/>
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/naac-creation-logo-final%20png.png?crc=16684300" alt="" width="189" height="194" data-orig-id="u118035_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130548"><!-- group -->
-       <div class="clearfix grpelem temp_no_id" data-orig-id="u130551"><!-- group -->
-        <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u130552-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="85" height="29" data-orig-src="images/u130552-44.png?crc=4156441994" data-orig-id="u130552-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u130550-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="85" height="29" data-orig-src="images/u130550-44.png?crc=4062193396" data-orig-id="u130550-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u130549-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="143" height="29" data-orig-src="images/u130549-44.png?crc=315438591" data-orig-id="u130549-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u130553-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="85" height="29" data-orig-src="images/u130553-4-a4.png?crc=3863089211" data-orig-id="u130553-4_img" src="images/blank.gif?crc=4208392903"/></a>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u397056"><!-- group -->
+       <div class="clearfix grpelem temp_no_id" data-orig-id="u395867"><!-- group -->
+        <div class="clearfix grpelem temp_no_id" data-orig-id="u395869"><!-- group -->
+         <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u395872-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="149" height="29" data-orig-src="images/u395872-44.png?crc=57341386" data-orig-id="u395872-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u395873-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="149" height="29" data-orig-src="images/u395873-44.png?crc=3865272963" data-orig-id="u395873-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u395874-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="149" height="29" data-orig-src="images/u395874-4-a4.png?crc=3850928907" data-orig-id="u395874-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="achievement.html" data-orig-id="u395870-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Achievements" width="190" height="29" data-orig-src="images/u395870-44.png?crc=110010854" data-orig-id="u395870-4_img" src="images/blank.gif?crc=4208392903"/></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u395871-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="250" height="29" data-orig-src="images/u395871-44.png?crc=4290616128" data-orig-id="u395871-4_img" src="images/blank.gif?crc=4208392903"/></a>
+        </div>
        </div>
       </div>
      </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="u130554"><!-- group -->
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130668"><!-- group -->
-       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu130555"><!-- horizontal box -->
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130647"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u130650"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130652-4"><!-- content --><span class="placeholder" data-placeholder-for="u130652-4_0_content"><!-- placeholder node --></span></div></a>
+     <div class="clearfix colelem temp_no_id" data-orig-id="u395875"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u395876"><!-- group -->
+       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu395877"><!-- horizontal box -->
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395885"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u395888"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395889-4"><!-- content --><span class="placeholder" data-placeholder-for="u395889-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130626"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u130627"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130630-4"><!-- content --><span class="placeholder" data-placeholder-for="u130630-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130628"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130631"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130632"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130640"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u130643"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130644-4"><!-- content --><span class="placeholder" data-placeholder-for="u130644-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130633"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u130634"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130637-4"><!-- content --><span class="placeholder" data-placeholder-for="u130637-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395955"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u395956"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395957-4"><!-- content --><span class="placeholder" data-placeholder-for="u395957-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395959"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395960"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395961"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395969"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u395972"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395974-4"><!-- content --><span class="placeholder" data-placeholder-for="u395974-3_content"><!-- placeholder node --></span></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395962"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u395965"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395966-4"><!-- content --><span class="placeholder" data-placeholder-for="u395966-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130584"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u130585"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130588-4"><!-- content --><span class="placeholder" data-placeholder-for="u130588-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130587"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130589"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130590"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130591"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u130594"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130597-4"><!-- content --><span class="placeholder" data-placeholder-for="u130597-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395941"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u395951"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395953-4"><!-- content --><span class="placeholder" data-placeholder-for="u395953-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395954"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395942"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395943"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395944"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u395945"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395946-4"><!-- content --><span class="placeholder" data-placeholder-for="u395946-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130598"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u130599"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130602-4"><!-- content --><span class="placeholder" data-placeholder-for="u130602-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395976"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u395979"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395980-4"><!-- content --><span class="placeholder" data-placeholder-for="u395980-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130605"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u130622"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130625-4"><!-- content --><span class="placeholder" data-placeholder-for="u130625-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130624"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130606"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130607"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130615"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u130616"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130617-4"><!-- content --><span class="placeholder" data-placeholder-for="u130617-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130608"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u130611"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130612-4"><!-- content --><span class="placeholder" data-placeholder-for="u130612-3_content"><!-- placeholder node --></span></div></a></li>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395920"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u395921"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395923-4"><!-- content --><span class="placeholder" data-placeholder-for="u395923-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u395922"><!-- content --></div></a>
+         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u395925"><!-- vertical box -->
+          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u395926"><!-- vertical box -->
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395927"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u395928"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395931-4"><!-- content --><span class="placeholder" data-placeholder-for="u395931-3_content"><!-- placeholder node --></span></div></a></li>
+           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u395934"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u395935"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395936-4"><!-- content --><span class="placeholder" data-placeholder-for="u395936-3_content"><!-- placeholder node --></span></div></a></li>
           </ul>
          </div>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130661"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u130662"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130663-4"><!-- content --><span class="placeholder" data-placeholder-for="u130663-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395899"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u395902"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395905-4"><!-- content --><span class="placeholder" data-placeholder-for="u395905-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130570"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u130571"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130572-4"><!-- content --><span class="placeholder" data-placeholder-for="u130572-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395906"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u395907"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395909-4"><!-- content --><span class="placeholder" data-placeholder-for="u395909-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130654"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u130657"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130660-4"><!-- content --><span class="placeholder" data-placeholder-for="u130660-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395892"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u395895"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395896-4"><!-- content --><span class="placeholder" data-placeholder-for="u395896-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130563"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u130564"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130566-4"><!-- content --><span class="placeholder" data-placeholder-for="u130566-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395913"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u395914"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395915-4"><!-- content --><span class="placeholder" data-placeholder-for="u395915-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130556"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u130559"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130560-4"><!-- content --><span class="placeholder" data-placeholder-for="u130560-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395878"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u395881"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395884-4"><!-- content --><span class="placeholder" data-placeholder-for="u395884-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130577"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u130580"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130582-4"><!-- content --><span class="placeholder" data-placeholder-for="u130582-4_0_content"><!-- placeholder node --></span></div></a>
+        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u395983"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u395984"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u395985-4"><!-- content --><span class="placeholder" data-placeholder-for="u395985-4_0_content"><!-- placeholder node --></span></div></a>
         </div>
        </nav>
       </div>
@@ -509,228 +533,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
       <span class="grpelem placeholder" data-placeholder-for="u13051_content1"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u277289_content"><!-- placeholder node --></span>
-      <span class="browser_width grpelem placeholder" data-placeholder-for="u280313-bw_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u12993_content1"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u13005_content1"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u13017_content1"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u13029_content1"><!-- placeholder node --></span>
-     </div>
-    </div>
-   </div>
-  </div>
-  <div class="breakpoint" id="bp_772" data-min-width="704" data-max-width="772"><!-- responsive breakpoint node -->
-   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
-    <div class="position_content temp_no_id" data-orig-id="page_position_content">
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu70714"><!-- group -->
-      <span class="browser_width grpelem placeholder" data-placeholder-for="u70714-bw_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u85-6_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u86_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u1634-6_content1"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u118035"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/naac-creation-logo-final%20png.png?crc=16684300" alt="" width="74" height="76" data-orig-id="u118035_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130548"><!-- group -->
-       <div class="clearfix grpelem temp_no_id" data-orig-id="u130551"><!-- group -->
-        <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u130552-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="85" height="29" data-orig-src="images/u130552-45.png?crc=4156441994" data-orig-id="u130552-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u130550-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="85" height="29" data-orig-src="images/u130550-45.png?crc=4062193396" data-orig-id="u130550-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u130549-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="143" height="29" data-orig-src="images/u130549-45.png?crc=315438591" data-orig-id="u130549-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u130553-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="85" height="29" data-orig-src="images/u130553-4-a5.png?crc=3863089211" data-orig-id="u130553-4_img" src="images/blank.gif?crc=4208392903"/></a>
-       </div>
-      </div>
-     </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="u130554"><!-- group -->
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130668"><!-- group -->
-       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu130555"><!-- horizontal box -->
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130647"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u130650"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130652-4"><!-- content --><span class="placeholder" data-placeholder-for="u130652-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130626"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u130627"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130630-4"><!-- content --><span class="placeholder" data-placeholder-for="u130630-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130628"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130631"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130632"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130640"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u130643"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130644-4"><!-- content --><span class="placeholder" data-placeholder-for="u130644-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130633"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u130634"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130637-4"><!-- content --><span class="placeholder" data-placeholder-for="u130637-3_content"><!-- placeholder node --></span></div></a></li>
-          </ul>
-         </div>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130584"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u130585"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130588-4"><!-- content --><span class="placeholder" data-placeholder-for="u130588-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130587"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130589"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130590"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130591"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u130594"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130597-4"><!-- content --><span class="placeholder" data-placeholder-for="u130597-3_content"><!-- placeholder node --></span></div></a></li>
-          </ul>
-         </div>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130598"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u130599"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130602-4"><!-- content --><span class="placeholder" data-placeholder-for="u130602-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130605"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u130622"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130625-4"><!-- content --><span class="placeholder" data-placeholder-for="u130625-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130624"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130606"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130607"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130615"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u130616"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130617-4"><!-- content --><span class="placeholder" data-placeholder-for="u130617-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130608"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u130611"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130612-4"><!-- content --><span class="placeholder" data-placeholder-for="u130612-3_content"><!-- placeholder node --></span></div></a></li>
-          </ul>
-         </div>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130661"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u130662"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130663-4"><!-- content --><span class="placeholder" data-placeholder-for="u130663-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130570"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u130571"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130572-4"><!-- content --><span class="placeholder" data-placeholder-for="u130572-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130654"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u130657"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130660-4"><!-- content --><span class="placeholder" data-placeholder-for="u130660-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130563"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u130564"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130566-4"><!-- content --><span class="placeholder" data-placeholder-for="u130566-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130556"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u130559"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130560-4"><!-- content --><span class="placeholder" data-placeholder-for="u130560-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130577"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u130580"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130582-4"><!-- content --><span class="placeholder" data-placeholder-for="u130582-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-       </nav>
-      </div>
-     </div>
-     <span class="verticalspacer placeholder" data-placeholder-for="page_position_content_2_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu248139-3"><!-- group -->
-      <span class="browser_width grpelem placeholder" data-placeholder-for="u248139-3-bw_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u955-5_content1"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u247974_content"><!-- placeholder node --></span>
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u277126"><!-- group -->
-       <span class="grpelem placeholder" data-placeholder-for="u13504_content"><!-- placeholder node --></span>
-       <div class="clearfix grpelem temp_no_id" data-orig-id="u277121"><!-- group -->
-        <span class="grpelem placeholder" data-placeholder-for="u247760-4_content"><!-- placeholder node --></span>
-        <span class="grpelem placeholder" data-placeholder-for="u248144-4_content"><!-- placeholder node --></span>
-        <span class="grpelem placeholder" data-placeholder-for="u248171-4_content"><!-- placeholder node --></span>
-        <span class="clearfix grpelem placeholder" data-placeholder-for="u247743-34_content"><!-- placeholder node --></span>
-        <span class="clearfix grpelem placeholder" data-placeholder-for="u248153-6_content"><!-- placeholder node --></span>
-        <span class="clearfix grpelem placeholder" data-placeholder-for="u248180-6_content"><!-- placeholder node --></span>
-        <span class="clearfix grpelem placeholder" data-placeholder-for="u247801-5_content"><!-- placeholder node --></span>
-        <span class="grpelem placeholder" data-placeholder-for="u248189-4_content"><!-- placeholder node --></span>
-        <span class="clearfix grpelem placeholder" data-placeholder-for="u260966-4_content"><!-- placeholder node --></span>
-        <span class="grpelem placeholder" data-placeholder-for="u13041-4_content"><!-- placeholder node --></span>
-        <span class="grpelem placeholder" data-placeholder-for="u13045-4_content"><!-- placeholder node --></span>
-       </div>
-      </div>
-      <span class="grpelem placeholder" data-placeholder-for="u13051_content1"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u277289_content"><!-- placeholder node --></span>
-      <span class="browser_width grpelem placeholder" data-placeholder-for="u280313-bw_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u12993_content1"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u13005_content1"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u13017_content1"><!-- placeholder node --></span>
-      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u13029_content1"><!-- placeholder node --></span>
-     </div>
-    </div>
-   </div>
-  </div>
-  <div class="breakpoint" id="bp_703" data-max-width="703"><!-- responsive breakpoint node -->
-   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
-    <div class="position_content temp_no_id" data-orig-id="page_position_content">
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu70714"><!-- group -->
-      <span class="browser_width grpelem placeholder" data-placeholder-for="u70714-bw_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u85-6_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u86_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u1612_content"><!-- placeholder node --></span>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="Vaish Arya Shikshan Mahila Mahavidyalaya, Bahadurgarh NAAC Accredited &quot;A&quot; Grade" width="283" height="75" data-orig-src="images/u1634-6.png?crc=473986706" data-orig-id="u1634-6" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u118035"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/naac-creation-logo-final%20png.png?crc=16684300" alt="" width="123" height="126" data-orig-id="u118035_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130548"><!-- group -->
-       <div class="clearfix grpelem temp_no_id" data-orig-id="u130551"><!-- group -->
-        <a class="nonblock nontext grpelem temp_no_id" href="career.html" data-orig-id="u130552-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Career" width="85" height="29" data-orig-src="images/u130552-46.png?crc=4156441994" data-orig-id="u130552-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="download.html" data-orig-id="u130550-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Download" width="85" height="29" data-orig-src="images/u130550-46.png?crc=4062193396" data-orig-id="u130550-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext grpelem temp_no_id" href="anti-ragging-act.html" data-orig-id="u130549-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Anti-Ragging ACT" width="143" height="29" data-orig-src="images/u130549-46.png?crc=315438591" data-orig-id="u130549-4_img" src="images/blank.gif?crc=4208392903"/></a>
-        <a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="gallary.html" data-orig-id="u130553-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="Gallery" width="85" height="29" data-orig-src="images/u130553-4-a6.png?crc=3863089211" data-orig-id="u130553-4_img" src="images/blank.gif?crc=4208392903"/></a>
-       </div>
-      </div>
-     </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="u130554"><!-- group -->
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u130668"><!-- group -->
-       <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu130555"><!-- horizontal box -->
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130647"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u130650"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130652-4"><!-- content --><span class="placeholder" data-placeholder-for="u130652-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130626"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about.html" data-orig-id="u130627"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130630-4"><!-- content --><span class="placeholder" data-placeholder-for="u130630-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130628"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130631"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130632"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130640"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="bahadurgarh-shiksa-sabha.html" data-orig-id="u130643"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130644-4"><!-- content --><span class="placeholder" data-placeholder-for="u130644-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130633"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="about-college.html" data-orig-id="u130634"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130637-4"><!-- content --><span class="placeholder" data-placeholder-for="u130637-3_content"><!-- placeholder node --></span></div></a></li>
-          </ul>
-         </div>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130584"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="courses.html" data-orig-id="u130585"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130588-4"><!-- content --><span class="placeholder" data-placeholder-for="u130588-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130587"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130589"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130590"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130591"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="b.ed-course.html" data-orig-id="u130594"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130597-4"><!-- content --><span class="placeholder" data-placeholder-for="u130597-3_content"><!-- placeholder node --></span></div></a></li>
-          </ul>
-         </div>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130598"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="admission.html" data-orig-id="u130599"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130602-4"><!-- content --><span class="placeholder" data-placeholder-for="u130602-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130605"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="departments.html" data-orig-id="u130622"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130625-4"><!-- content --><span class="placeholder" data-placeholder-for="u130625-4_0_content"><!-- placeholder node --></span></div><div class="borderbox grpelem temp_no_id" data-orig-id="u130624"><!-- content --></div></a>
-         <div class="SubMenu MenuLevel1 borderbox clearfix temp_no_id" data-orig-id="u130606"><!-- vertical box -->
-          <ul class="SubMenuView borderbox clearfix colelem temp_no_id" data-orig-id="u130607"><!-- vertical box -->
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130615"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="teaching.html" data-orig-id="u130616"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130617-4"><!-- content --><span class="placeholder" data-placeholder-for="u130617-3_content"><!-- placeholder node --></span></div></a></li>
-           <li class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u130608"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="non-teaching.html" data-orig-id="u130611"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130612-4"><!-- content --><span class="placeholder" data-placeholder-for="u130612-3_content"><!-- placeholder node --></span></div></a></li>
-          </ul>
-         </div>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130661"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="naac.html" data-orig-id="u130662"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130663-4"><!-- content --><span class="placeholder" data-placeholder-for="u130663-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130570"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="iqac.html" data-orig-id="u130571"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130572-4"><!-- content --><span class="placeholder" data-placeholder-for="u130572-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130654"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="aishe.html" data-orig-id="u130657"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130660-4"><!-- content --><span class="placeholder" data-placeholder-for="u130660-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130563"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="alumni.html" data-orig-id="u130564"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130566-4"><!-- content --><span class="placeholder" data-placeholder-for="u130566-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130556"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="media.html" data-orig-id="u130559"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130560-4"><!-- content --><span class="placeholder" data-placeholder-for="u130560-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-        <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u130577"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u130580"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u130582-4"><!-- content --><span class="placeholder" data-placeholder-for="u130582-4_0_content"><!-- placeholder node --></span></div></a>
-        </div>
-       </nav>
-      </div>
-     </div>
-     <span class="verticalspacer placeholder" data-placeholder-for="page_position_content_2_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu248139-3"><!-- group -->
-      <span class="browser_width grpelem placeholder" data-placeholder-for="u248139-3-bw_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u955-5_content1"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u247974_content"><!-- placeholder node --></span>
-      <div class="clearfix grpelem temp_no_id" data-orig-id="u277126"><!-- group -->
-       <span class="grpelem placeholder" data-placeholder-for="u13504_content"><!-- placeholder node --></span>
-       <div class="clearfix grpelem temp_no_id" data-orig-id="u277121"><!-- group -->
-        <div class="clearfix grpelem temp_no_id" data-orig-id="pu248144-4"><!-- group -->
-         <img class="grpelem temp_no_id temp_no_img_src" alt="Admission" width="197" height="162" data-orig-src="images/u248144-4.png?crc=4018588195" data-orig-id="u248144-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-         <img class="grpelem temp_no_id temp_no_img_src" alt="Media" width="153" height="162" data-orig-src="images/u248171-4.png?crc=3860797785" data-orig-id="u248171-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u248153-6_content"><!-- placeholder node --></span>
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u248180-6_content"><!-- placeholder node --></span>
-        </div>
-        <div class="clearfix grpelem temp_no_id" data-orig-id="pu247760-4"><!-- group -->
-         <img class="grpelem temp_no_id temp_no_img_src" alt="Other Links" width="191" height="162" data-orig-src="images/u247760-4.png?crc=147250609" data-orig-id="u247760-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u247743-34_content"><!-- placeholder node --></span>
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u247801-5_content"><!-- placeholder node --></span>
-         <img class="grpelem temp_no_id temp_no_img_src" alt="Contact us" width="229" height="162" data-orig-src="images/u248189-4.png?crc=73323888" data-orig-id="u248189-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-         <span class="clearfix grpelem placeholder" data-placeholder-for="u260966-4_content"><!-- placeholder node --></span>
-         <span class="grpelem placeholder" data-placeholder-for="u13041-4_content"><!-- placeholder node --></span>
-         <span class="grpelem placeholder" data-placeholder-for="u13045-4_content"><!-- placeholder node --></span>
-        </div>
-       </div>
-      </div>
-      <div class="grpelem temp_no_id" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="61" data-mu-ie-matrix-dy="-61" data-orig-id="u13051"><!-- simple frame --></div>
       <span class="grpelem placeholder" data-placeholder-for="u277289_content"><!-- placeholder node --></span>
       <span class="browser_width grpelem placeholder" data-placeholder-for="u280313-bw_content"><!-- placeholder node --></span>
       <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u12993_content1"><!-- placeholder node --></span>
@@ -747,14 +549,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.musemenu","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1400', '#bp_1200', '#bp_995', '#bp_772', '#bp_703'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1400', '#bp_1200', '#bp_995'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
