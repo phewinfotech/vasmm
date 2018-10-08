@@ -2298,9 +2298,6 @@
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/naac%20a%201.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/frame-1689760_1920.png</image:loc>
     </image:image>
   </url>
@@ -2583,9 +2580,6 @@
       <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u2995082.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vasmm.com/images/abstract-art-background-1275563.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u359411.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2629,6 +2623,9 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/maharishi-dayanand-university-rohtakjpg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/confetti-png-transparent-9.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/alphabet-blur-books-301920-crop-u2219582.jpg</image:loc>
@@ -2928,6 +2925,9 @@
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://vasmm.com/images/confetti-png-transparent-9.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://vasmm.com/images/dev_9954480x320.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2962,12 +2962,6 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dev_6615541x360.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_6784544x360.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dev_6942544x360.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/updated-crop-u412955.jpg</image:loc>
@@ -3298,6 +3292,12 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/updatejpg-crop-u4130377.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6784544x361.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6942544x361.jpg</image:loc>
     </image:image>
   </url>
   <url>

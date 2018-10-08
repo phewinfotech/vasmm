@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vasmm.com" resolutions="1x" timestamp="1539009855381">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vasmm.com" resolutions="1x" timestamp="1539020889152">
   <folder name="assets">
     <file name="election-bss-(1).pdf" crc="45099715" seo="true" mt="1535250085000"/>
     <file name="election-college.pdf" crc="257336014" seo="true" mt="1535250062000"/>
     <file name="list-of-collegium-members-2018.pdf" crc="4280670909" seo="true" mt="1535377012000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="203616197"/>
-    <file name="master_a-master.css" crc="3980954414" ref="bahadurgarh-shiksa-sabha:alumni:naac:courses:iqac:gallary:contact:about-college:b.ed-course:about:media:teaching:admission:download:index:non-teaching:anti-ragging-act:aishe:achievement"/>
-    <file name="nomq_preview_master_a-master.css" crc="165580235" ref="bahadurgarh-shiksa-sabha:alumni:naac:courses:iqac:gallary:contact:about-college:b.ed-course:about:media:teaching:admission:download:index:non-teaching:anti-ragging-act:aishe:achievement"/>
+    <file name="site_global.css" crc="424740533"/>
+    <file name="master_a-master.css" crc="402244789" ref="bahadurgarh-shiksa-sabha:alumni:naac:courses:iqac:gallary:contact:about-college:b.ed-course:about:media:teaching:admission:download:index:non-teaching:anti-ragging-act:aishe:achievement"/>
+    <file name="nomq_preview_master_a-master.css" crc="534508029" ref="bahadurgarh-shiksa-sabha:alumni:naac:courses:iqac:gallary:contact:about-college:b.ed-course:about:media:teaching:admission:download:index:non-teaching:anti-ragging-act:aishe:achievement"/>
     <file name="bahadurgarh-shiksa-sabha.css" crc="140929837" ref="bahadurgarh-shiksa-sabha"/>
     <file name="nomq_bahadurgarh-shiksa-sabha.css" crc="3824219947" ref="bahadurgarh-shiksa-sabha"/>
     <file name="departments.css" crc="4151828395" ref="departments"/>
@@ -16,34 +16,34 @@
     <file name="nomq_alumni.css" crc="216803338" ref="alumni"/>
     <file name="naac.css" crc="246482832" ref="naac"/>
     <file name="nomq_naac.css" crc="3769834139" ref="naac"/>
-    <file name="courses.css" crc="3937419754" ref="courses"/>
-    <file name="nomq_courses.css" crc="127440179" ref="courses"/>
+    <file name="courses.css" crc="4122544410" ref="courses"/>
+    <file name="nomq_courses.css" crc="93092902" ref="courses"/>
     <file name="iqac.css" crc="4290671077" ref="iqac"/>
     <file name="nomq_iqac.css" crc="34764748" ref="iqac"/>
-    <file name="gallary.css" crc="3953474371" ref="gallary"/>
-    <file name="nomq_gallary.css" crc="404676653" ref="gallary"/>
-    <file name="contact.css" crc="3851306757" ref="contact"/>
+    <file name="gallary.css" crc="471636673" ref="gallary"/>
+    <file name="nomq_gallary.css" crc="4091289214" ref="gallary"/>
+    <file name="contact.css" crc="3883318150" ref="contact"/>
     <file name="nomq_contact.css" crc="4187620441" ref="contact"/>
-    <file name="about-college.css" crc="505023484" ref="about-college"/>
-    <file name="nomq_about-college.css" crc="4219584179" ref="about-college"/>
-    <file name="b_ed-course.css" crc="3984724371" ref="b.ed-course"/>
-    <file name="nomq_b_ed-course.css" crc="4108552557" ref="b.ed-course"/>
-    <file name="about.css" crc="388106419" ref="about"/>
-    <file name="nomq_about.css" crc="3941386382" ref="about"/>
+    <file name="about-college.css" crc="3973304440" ref="about-college"/>
+    <file name="nomq_about-college.css" crc="278017520" ref="about-college"/>
+    <file name="b_ed-course.css" crc="4193226342" ref="b.ed-course"/>
+    <file name="nomq_b_ed-course.css" crc="470028581" ref="b.ed-course"/>
+    <file name="about.css" crc="115994423" ref="about"/>
+    <file name="nomq_about.css" crc="4233511789" ref="about"/>
     <file name="media.css" crc="4192636186" ref="media"/>
     <file name="nomq_media.css" crc="4108552557" ref="media"/>
-    <file name="teaching.css" crc="3830701814" ref="teaching"/>
-    <file name="nomq_teaching.css" crc="425258148" ref="teaching"/>
+    <file name="teaching.css" crc="385976370" ref="teaching"/>
+    <file name="nomq_teaching.css" crc="6041331" ref="teaching"/>
     <file name="admission.css" crc="4149492064" ref="admission"/>
     <file name="nomq_admission.css" crc="277193547" ref="admission"/>
     <file name="download.css" crc="309857348" ref="download"/>
     <file name="nomq_download.css" crc="416589632" ref="download"/>
-    <file name="index.css" crc="140270452" ref="index"/>
-    <file name="nomq_index.css" crc="418960022" ref="index"/>
-    <file name="non-teaching.css" crc="4285467055" ref="non-teaching"/>
-    <file name="nomq_non-teaching.css" crc="4153304724" ref="non-teaching"/>
-    <file name="anti-ragging-act.css" crc="364657166" ref="anti-ragging-act"/>
-    <file name="nomq_anti-ragging-act.css" crc="440606062" ref="anti-ragging-act"/>
+    <file name="index.css" crc="4197607140" ref="index"/>
+    <file name="nomq_index.css" crc="4023336749" ref="index"/>
+    <file name="non-teaching.css" crc="4185773446" ref="non-teaching"/>
+    <file name="nomq_non-teaching.css" crc="4244586814" ref="non-teaching"/>
+    <file name="anti-ragging-act.css" crc="358540837" ref="anti-ragging-act"/>
+    <file name="nomq_anti-ragging-act.css" crc="343932865" ref="anti-ragging-act"/>
     <file name="aishe.css" crc="94814583" ref="aishe"/>
     <file name="nomq_aishe.css" crc="456464440" ref="aishe"/>
     <file name="achievement.css" crc="3856556398" ref="achievement"/>
@@ -54,7 +54,7 @@
     <file name="museutils.js" crc="4232573551" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="whatinput.js" crc="86476730" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="museconfig.js" crc="3849126041" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:naac:courses:contact:about-college:anti-ragging-act:achievement:about:admission"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:naac:courses:contact:about-college:anti-ragging-act:achievement:about:admission:b.ed-course"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="webpro.js" crc="3770351119" ref="index:admission:courses:iqac:contact:teaching:about-college:achievement:gallary"/>
@@ -71,68 +71,74 @@
     <file name="form-u12115.php" crc="376416683" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="home-033-960x283.jpg" crc="389610162" ref="index:naac:anti-ragging-act:about:admission">
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="home-033-960x283.jpg" crc="389610162" ref="index:naac:anti-ragging-act:about:admission:courses:b.ed-course">
       <caption webpage="contact" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="about-college" alt=""/>
     </file>
-    <file name="logo.png" crc="65543946" ref="index:naac:contact:anti-ragging-act:about:admission">
-      <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
+    <file name="logo.png" crc="65543946" ref="index:naac:contact:anti-ragging-act:about:admission:courses:b.ed-course">
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
     </file>
     <file name="u1634-6.png" crc="473986706" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="naac-creation-logo-final png.png" crc="16684300" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -142,64 +148,61 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
     </file>
     <file name="map.png" crc="308157887" ref="index">
       <caption webpage="index" alt=""/>
@@ -221,48 +224,57 @@
     <file name="u102258-4.png" crc="332317437" ref="index"/>
     <file name="u102256-4.png" crc="154030596" ref="index"/>
     <file name="arrowmenudown.gif" crc="213132104" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -296,48 +308,39 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
@@ -347,123 +350,123 @@
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
     </file>
     <file name="dev_6615805x537.jpg" crc="195655314" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -673,7 +676,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dev_2802-crop-u180554.jpg" crc="54521842" seo="true" ref="index">
+    <file name="dev_2802-crop-u180554.jpg" crc="3818669031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="quotefancy-466895-3840x2160-crop-u180594.jpg" crc="320819284" seo="true" ref="index">
@@ -714,7 +717,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u180638.jpg" crc="3928182397" seo="true" ref="index">
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u180638.jpg" crc="3922424879" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="updatejpg-crop-u180666.jpg" crc="4116164627" seo="true" ref="index">
@@ -774,59 +777,65 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="andrew-ridley-76547-unsplash.jpg" crc="264308733" ref="index:naac:anti-ragging-act:about:admission">
-      <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
+    <file name="andrew-ridley-76547-unsplash.jpg" crc="264308733" ref="index:naac:anti-ragging-act:about:admission:courses:b.ed-course">
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
     </file>
     <file name="u955-5.png" crc="241094795" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="u13041-4.png" crc="3791829986" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="u13045-4.png" crc="3950422819" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement"/>
     <file name="linkedin.png" crc="3843589320" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -836,80 +845,80 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
     </file>
     <file name="instagram.png" crc="37760132" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -919,80 +928,80 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
     </file>
     <file name="facebook.png" crc="182554253" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1002,80 +1011,80 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
     </file>
     <file name="youtube.png" crc="201966476" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:bahadurgarh-shiksa-sabha:about-college:gallary:anti-ragging-act:download:achievement">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1085,64 +1094,61 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
       <caption webpage="admission" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="naac" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
     </file>
     <file name="u102259-42.png" crc="408712188" ref="index"/>
     <file name="u102257-42.png" crc="482995593" ref="index"/>
@@ -1204,10 +1210,11 @@
       <caption webpage="courses" alt=""/>
       <caption webpage="courses" alt=""/>
     </file>
-    <file name="naac a 1.jpg" crc="3848869731" ref="naac" seo="true">
+    <file name="naac a 1.jpg" crc="3848869731" ref="naac:courses">
       <caption webpage="index" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
+      <caption webpage="courses" alt=""/>
     </file>
     <file name="dev_6784.jpg" crc="3795614240" ref="courses">
       <caption webpage="index" alt=""/>
@@ -1230,7 +1237,7 @@
     <file name="agrasen-maharaj203x127.jpg" crc="4212329414" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dev_2628-crop-u180634.jpg" crc="4174465012" seo="true" ref="index">
+    <file name="dev_2628-crop-u180634.jpg" crc="130812594" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="updated203x115.jpg" crc="3938741070" seo="true" ref="index">
@@ -1317,11 +1324,6 @@
     <file name="classroom-u1151-fr2.jpg" crc="4185109407" ref="index"/>
     <file name="janita-sumeiko-529471-unsplash-u1228-fr.jpg" crc="4209816352" ref="index"/>
     <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-u185784-fr2.jpg" crc="4197782321" ref="index"/>
-    <file name="naac a 12.jpg" crc="3848869731" ref="courses">
-      <caption webpage="courses" alt=""/>
-      <caption webpage="naac" alt=""/>
-      <caption webpage="naac" alt=""/>
-    </file>
     <file name="naac a grade certificate.jpg" crc="4034310588" ref="naac">
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
@@ -1477,7 +1479,7 @@
     <file name="book library2-crop-u143132.jpg" crc="249717338" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u143114.jpg" crc="3823635360" seo="true" ref="teaching">
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u143114.jpg" crc="3918165804" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="quotefancy-466895-3840x2160-crop-u143150.jpg" crc="384125076" seo="true" ref="teaching">
@@ -1496,7 +1498,7 @@
     <file name="book library2358x239.jpg" crc="3899329327" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1431142.jpg" crc="3997307271" seo="true" ref="teaching">
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1431142.jpg" crc="283920837" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="quotefancy-466895-3840x2160-crop-u1431502.jpg" crc="180178010" seo="true" ref="teaching">
@@ -1520,7 +1522,7 @@
     <file name="book library2-crop-u1431322.jpg" crc="457223164" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1431143.jpg" crc="409907695" seo="true" ref="teaching">
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1431143.jpg" crc="4007327902" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="quotefancy-466895-3840x2160-crop-u1431503.jpg" crc="4294911443" seo="true" ref="teaching">
@@ -1546,7 +1548,7 @@
     <file name="u27302-57.png" crc="445516836" ref="about-college"/>
     <file name="u28478-42.png" crc="535792000" ref="about-college"/>
     <file name="u27302-572.png" crc="135514261" ref="about-college"/>
-    <file name="1education-u51176-fr.jpg" crc="353662689" ref="about-college"/>
+    <file name="1education-u51176-fr.jpg" crc="3807638165" ref="about-college"/>
     <file name="u28478-43.png" crc="535792000" ref="about-college"/>
     <file name="u27302-573.png" crc="137114965" ref="about-college"/>
     <file name="u133267-4.png" crc="3867893221" ref="anti-ragging-act"/>
@@ -1671,7 +1673,14 @@
       <caption webpage="achievement" alt=""/>
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="confetti-png-transparent-9.png" crc="446107881" ref="achievement">
+    <file name="confetti-png-transparent-9.png" crc="446107881" ref="achievement:gallary" seo="true">
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="u220111-42.png" crc="520830219" ref="achievement"/>
@@ -1851,7 +1860,7 @@
     <file name="u278466-43.png" crc="4096836213" ref="about-college"/>
     <file name="u278465-43.png" crc="245208891" ref="about-college"/>
     <file name="u278463-43.png" crc="4125668344" ref="about-college"/>
-    <file name="u278467-43.png" crc="64368528" ref="about-college"/>
+    <file name="u278467-43.png" crc="3889852854" ref="about-college"/>
     <file name="dividers-transparent-gothic-1.png" crc="403017208" seo="true" ref="teaching:non-teaching:iqac">
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
@@ -1865,14 +1874,14 @@
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms kanchan-crop-u296872.jpg" crc="293150627" seo="true" ref="teaching">
+    <file name="ms kanchan-crop-u296872.jpg" crc="4120866194" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="ms sunita photo-crop-u296929.jpg" crc="4092575654" seo="true" ref="teaching">
@@ -1881,7 +1890,7 @@
     <file name="ms kiran-crop-u296931.jpg" crc="266725413" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="poonam mam photo 001-crop-u296922.jpg" crc="3807664950" seo="true" ref="teaching">
+    <file name="poonam mam photo 001-crop-u296922.jpg" crc="165009073" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="ms renu kumari-crop-u296925.jpg" crc="128296767" seo="true" ref="teaching">
@@ -1893,16 +1902,16 @@
     <file name="ms suman-crop-u296858.jpg" crc="432189502" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms preet kamal-crop-u296861.jpg" crc="4134061924" seo="true" ref="teaching">
+    <file name="ms preet kamal-crop-u296861.jpg" crc="4076528052" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms divya bansal-crop-u296867.jpg" crc="4077021949" seo="true" ref="teaching">
+    <file name="ms divya bansal-crop-u296867.jpg" crc="3778884354" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="dr asha sharma-crop-u297513.jpg" crc="224901753" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="dr sunita narang-crop-u297538.jpg" crc="387655397" seo="true" ref="teaching">
+    <file name="dr sunita narang-crop-u297538.jpg" crc="4153879814" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="ms bhawna-crop-u297540.jpg" crc="4175693677" seo="true" ref="teaching">
@@ -1911,13 +1920,13 @@
     <file name="jyoti photo-crop-u297543.jpg" crc="272661245" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="leena sharma photo-crop-u297546.jpg" crc="3877446146" seo="true" ref="teaching">
+    <file name="leena sharma photo-crop-u297546.jpg" crc="103124319" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="dr asha sharma-crop-u2975132.jpg" crc="4062989826" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms kanchan-crop-u2968722.jpg" crc="4260849995" seo="true" ref="teaching">
+    <file name="ms kanchan-crop-u2968722.jpg" crc="94225941" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="ms sunita photo-crop-u2969292.jpg" crc="219670158" seo="true" ref="teaching">
@@ -1938,13 +1947,13 @@
     <file name="ms suman-crop-u2968582.jpg" crc="3860942841" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms preet kamal-crop-u2968612.jpg" crc="3820174916" seo="true" ref="teaching">
+    <file name="ms preet kamal-crop-u2968612.jpg" crc="319266676" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms divya bansal-crop-u2968672.jpg" crc="288912168" seo="true" ref="teaching">
+    <file name="ms divya bansal-crop-u2968672.jpg" crc="3974269177" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="dr sunita narang-u297538.png" crc="371756269" ref="teaching"/>
+    <file name="dr sunita narang-u297538.png" crc="3775948126" ref="teaching"/>
     <file name="ms bhawna-crop-u2975402.jpg" crc="35365515" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
@@ -1954,7 +1963,7 @@
     <file name="leena sharma photo-crop-u2975462.jpg" crc="461709052" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms kanchan-crop-u2968723.jpg" crc="293150627" seo="true" ref="teaching">
+    <file name="ms kanchan-crop-u2968723.jpg" crc="4120866194" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="ms sunita photo-crop-u2969293.jpg" crc="4092575654" seo="true" ref="teaching">
@@ -1963,7 +1972,7 @@
     <file name="ms kiran-crop-u2969313.jpg" crc="266725413" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="poonam mam photo 001-crop-u2969223.jpg" crc="3952607860" seo="true" ref="teaching">
+    <file name="poonam mam photo 001-crop-u2969223.jpg" crc="165009073" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="ms renu kumari-crop-u2969253.jpg" crc="128296767" seo="true" ref="teaching">
@@ -1975,16 +1984,16 @@
     <file name="ms suman-crop-u2968583.jpg" crc="432189502" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms preet kamal-crop-u2968613.jpg" crc="4134061924" seo="true" ref="teaching">
+    <file name="ms preet kamal-crop-u2968613.jpg" crc="4076528052" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="ms divya bansal-crop-u2968673.jpg" crc="4077021949" seo="true" ref="teaching">
+    <file name="ms divya bansal-crop-u2968673.jpg" crc="3778884354" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="dr asha sharma-crop-u2975133.jpg" crc="224901753" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="dr sunita narang-crop-u2975382.jpg" crc="387655397" seo="true" ref="teaching">
+    <file name="dr sunita narang-crop-u2975382.jpg" crc="4153879814" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="ms bhawna-crop-u2975403.jpg" crc="4175693677" seo="true" ref="teaching">
@@ -1993,14 +2002,14 @@
     <file name="jyoti photo-crop-u2975433.jpg" crc="272661245" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
-    <file name="leena sharma photo-crop-u2975463.jpg" crc="3877446146" seo="true" ref="teaching">
+    <file name="leena sharma photo-crop-u2975463.jpg" crc="103124319" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
     <file name="frame-1689760_1920.png" crc="80034532" seo="true" ref="naac">
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
     </file>
-    <file name="shaking-hands-2499618_1920.jpg" crc="3861508217" seo="true" ref="non-teaching">
+    <file name="shaking-hands-2499618_1920.jpg" crc="158306084" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
     </file>
@@ -2026,7 +2035,7 @@
     <file name="ms khushbu-crop-u299518.jpg" crc="452053289" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u298943.jpg" crc="4139940927" seo="true" ref="non-teaching">
+    <file name="mr naveen goel-crop-u298943.jpg" crc="134119636" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
     <file name="divider.png" crc="4210622362" seo="true" ref="non-teaching:teaching:iqac">
@@ -2036,35 +2045,35 @@
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
+      <caption webpage="non-teaching" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
+    </file>
+    <file name="ajay photo-crop-u299588.jpg" crc="3774406664" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ajay photo-crop-u299588.jpg" crc="3987386097" seo="true" ref="non-teaching">
+    <file name="ms rekha-crop-u299578.jpg" crc="447319886" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms rekha-crop-u299578.jpg" crc="4278248860" seo="true" ref="non-teaching">
+    <file name="ms kanta-crop-u299568.jpg" crc="3914321486" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms kanta-crop-u299568.jpg" crc="4190040768" seo="true" ref="non-teaching">
+    <file name="ms gayatri-crop-u299558.jpg" crc="511376321" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms gayatri-crop-u299558.jpg" crc="328373058" seo="true" ref="non-teaching">
+    <file name="ms nidhi-crop-u299538.jpg" crc="166169904" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms nidhi-crop-u299538.jpg" crc="4096787435" seo="true" ref="non-teaching">
+    <file name="ms annu photo-crop-u298946.jpg" crc="3836766874" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u298946.jpg" crc="342736216" seo="true" ref="non-teaching">
+    <file name="ms khushbu-crop-u298939.jpg" crc="346032133" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms khushbu-crop-u298939.jpg" crc="263983721" seo="true" ref="non-teaching">
-      <caption webpage="non-teaching" alt=""/>
-    </file>
-    <file name="mr naveen goel-crop-u299508.jpg" crc="4208723766" seo="true" ref="non-teaching">
+    <file name="mr naveen goel-crop-u299508.jpg" crc="345678356" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
     <file name="black-divider-png-5.png" crc="3973121206" seo="true" ref="non-teaching">
@@ -2099,31 +2108,31 @@
     <file name="ms khushbu-crop-u2995182.jpg" crc="452053289" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u2989432.jpg" crc="4139940927" seo="true" ref="non-teaching">
+    <file name="mr naveen goel-crop-u2989432.jpg" crc="134119636" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ajay photo-crop-u2995882.jpg" crc="3987386097" seo="true" ref="non-teaching">
+    <file name="ajay photo-crop-u2995882.jpg" crc="3774406664" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms rekha-crop-u2995782.jpg" crc="4278248860" seo="true" ref="non-teaching">
+    <file name="ms rekha-crop-u2995782.jpg" crc="447319886" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms kanta-crop-u2995682.jpg" crc="4190040768" seo="true" ref="non-teaching">
+    <file name="ms kanta-crop-u2995682.jpg" crc="3914321486" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms gayatri-crop-u2995582.jpg" crc="328373058" seo="true" ref="non-teaching">
+    <file name="ms gayatri-crop-u2995582.jpg" crc="511376321" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms nidhi-crop-u2995382.jpg" crc="4096787435" seo="true" ref="non-teaching">
+    <file name="ms nidhi-crop-u2995382.jpg" crc="166169904" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u2989462.jpg" crc="342736216" seo="true" ref="non-teaching">
+    <file name="ms annu photo-crop-u2989462.jpg" crc="3836766874" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="ms khushbu-crop-u2989392.jpg" crc="263983721" seo="true" ref="non-teaching">
+    <file name="ms khushbu-crop-u2989392.jpg" crc="346032133" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u2995082.jpg" crc="4208723766" seo="true" ref="non-teaching">
+    <file name="mr naveen goel-crop-u2995082.jpg" crc="345678356" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
     <file name="u301209-4.png" crc="408712188" ref="naac"/>
@@ -2208,7 +2217,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315819-14.png" crc="228218530" ref="index"/>
-    <file name="dr sunita narang-crop-u315877.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u315877.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315875-15.png" crc="4197644167" ref="index"/>
@@ -2219,16 +2228,16 @@
     <file name="ms bhawna-crop-u315879.jpg" crc="4175693677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="leena sharma photo-crop-u315885.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u315885.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315881-10.png" crc="184851472" ref="index"/>
     <file name="u315884-11.png" crc="3897073394" ref="index"/>
-    <file name="ms divya bansal-crop-u315966.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u315966.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315965-14.png" crc="134727725" ref="index"/>
-    <file name="ms preet kamal-crop-u315991.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u315991.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316036-14.png" crc="167430860" ref="index"/>
@@ -2256,7 +2265,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316152-14.png" crc="3960337546" ref="index"/>
-    <file name="ms kanchan-crop-u316165.jpg" crc="3929606020" seo="true" ref="index">
+    <file name="ms kanchan-crop-u316165.jpg" crc="192672988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316164-14.png" crc="256280070" ref="index"/>
@@ -2264,7 +2273,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316161-13.png" crc="4084703573" ref="index"/>
-    <file name="ms annu photo-crop-u316209.jpg" crc="4254938769" seo="true" ref="index">
+    <file name="ms annu photo-crop-u316209.jpg" crc="3865843101" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316269-12.png" crc="327522402" ref="index"/>
@@ -2273,7 +2282,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316278-12.png" crc="111442264" ref="index"/>
-    <file name="mr naveen goel-crop-u316207.jpg" crc="422145357" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u316207.jpg" crc="4263352478" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316287-14.png" crc="418204680" ref="index"/>
@@ -2307,7 +2316,7 @@
     <file name="u302719-11.png" crc="193202607" ref="index"/>
     <file name="u302718-13.png" crc="250357187" ref="index"/>
     <file name="u302722-8.png" crc="317874565" ref="index"/>
-    <file name="leena sharma photo-crop-u302752.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u302752.jpg" crc="32151563" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302747-11.png" crc="3783392202" ref="index"/>
@@ -2320,16 +2329,16 @@
     <file name="ms bhawna-crop-u302756.jpg" crc="4175693677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dr sunita narang-crop-u302754.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u302754.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms divya bansal-crop-u302741.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u302741.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u302733.jpg" crc="432189502" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms preet kamal-crop-u302739.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u302739.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u302737.jpg" crc="211936713" seo="true" ref="index">
@@ -2358,7 +2367,7 @@
     <file name="ms neetu jain-crop-u302773.jpg" crc="3893929470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms kanchan-crop-u302776.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u302776.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302775-14.png" crc="180224764" ref="index"/>
@@ -2370,10 +2379,10 @@
     <file name="ms nidhi-crop-u302712.jpg" crc="351321798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u302705.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u302705.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u302703.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u302703.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302729-13.png" crc="3913662701" ref="index"/>
@@ -2395,7 +2404,7 @@
     <file name="u314233-8.png" crc="317874565" ref="index"/>
     <file name="u314303-15.png" crc="321921440" ref="index"/>
     <file name="u314296-12.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u314294.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u314294.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u314299.jpg" crc="4175693677" seo="true" ref="index">
@@ -2406,12 +2415,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314298-11.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u314301.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u314301.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314272-14.png" crc="4187042284" ref="index"/>
     <file name="u314283-14.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u314279.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u314279.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u314274.jpg" crc="432189502" seo="true" ref="index">
@@ -2419,7 +2428,7 @@
     </file>
     <file name="u314273-14.png" crc="316169263" ref="index"/>
     <file name="u314278-14.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u314281.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u314281.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u314276.jpg" crc="211936713" seo="true" ref="index">
@@ -2446,7 +2455,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314288-14.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u314286.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u314286.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314244-12.png" crc="313904554" ref="index"/>
@@ -2456,10 +2465,10 @@
     <file name="ms nidhi-crop-u314252.jpg" crc="351321798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u314250.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u314250.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u314245.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u314245.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314270-13.png" crc="3913662701" ref="index"/>
@@ -2480,7 +2489,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303388-11.png" crc="3819444592" ref="index"/>
-    <file name="dr sunita narang-crop-u303423.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u303423.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303415-15.png" crc="4281610257" ref="index"/>
@@ -2492,15 +2501,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303418-12.png" crc="4001104155" ref="index"/>
-    <file name="leena sharma photo-crop-u303421.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u303421.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303416-11.png" crc="3919133899" ref="index"/>
-    <file name="ms divya bansal-crop-u303410.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u303410.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303412-14.png" crc="4078455646" ref="index"/>
-    <file name="ms preet kamal-crop-u303408.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u303408.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303405-14.png" crc="3936405594" ref="index"/>
@@ -2528,7 +2537,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303436-14.png" crc="3846580380" ref="index"/>
-    <file name="ms kanchan-crop-u303445.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u303445.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303444-14.png" crc="3898449207" ref="index"/>
@@ -2536,12 +2545,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303441-13.png" crc="115505493" ref="index"/>
-    <file name="ms annu photo-crop-u303372.jpg" crc="3972354988" seo="true" ref="index">
+    <file name="ms annu photo-crop-u303372.jpg" crc="65032991" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303383-12.png" crc="4031953111" ref="index"/>
     <file name="u303379-12.png" crc="474794041" ref="index"/>
-    <file name="mr naveen goel-crop-u303374.jpg" crc="4234836744" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u303374.jpg" crc="345841456" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303380-14.png" crc="357572421" ref="index"/>
@@ -2583,7 +2592,7 @@
     <file name="u312875-4.png" crc="3813210750" ref="index"/>
     <file name="u312946-15.png" crc="321921440" ref="index"/>
     <file name="u312939-12.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u312937.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u312937.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u312942.jpg" crc="4175693677" seo="true" ref="index">
@@ -2594,12 +2603,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-11.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u312944.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u312944.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312915-14.png" crc="4187042284" ref="index"/>
     <file name="u312926-14.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u312922.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u312922.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u312917.jpg" crc="432189502" seo="true" ref="index">
@@ -2607,7 +2616,7 @@
     </file>
     <file name="u312916-14.png" crc="316169263" ref="index"/>
     <file name="u312921-14.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u312924.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u312924.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u312919.jpg" crc="211936713" seo="true" ref="index">
@@ -2634,7 +2643,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312931-14.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u312929.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u312929.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312887-12.png" crc="313904554" ref="index"/>
@@ -2644,10 +2653,10 @@
     <file name="ms nidhi-crop-u312895.jpg" crc="351321798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u312893.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u312893.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u312888.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u312888.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312913-13.png" crc="3913662701" ref="index"/>
@@ -2656,7 +2665,7 @@
     </file>
     <file name="u313622-15.png" crc="321921440" ref="index"/>
     <file name="u313615-12.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u313613.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u313613.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u313618.jpg" crc="4175693677" seo="true" ref="index">
@@ -2667,12 +2676,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-11.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u313620.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u313620.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313591-14.png" crc="4187042284" ref="index"/>
     <file name="u313602-14.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u313598.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u313598.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u313593.jpg" crc="432189502" seo="true" ref="index">
@@ -2680,7 +2689,7 @@
     </file>
     <file name="u313592-14.png" crc="316169263" ref="index"/>
     <file name="u313597-14.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u313600.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u313600.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u313595.jpg" crc="211936713" seo="true" ref="index">
@@ -2707,7 +2716,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313607-14.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u313605.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u313605.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313563-12.png" crc="313904554" ref="index"/>
@@ -2717,10 +2726,10 @@
     <file name="ms nidhi-crop-u313571.jpg" crc="351321798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u313569.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u313569.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u313564.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u313564.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313589-13.png" crc="3913662701" ref="index"/>
@@ -2746,7 +2755,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315819-142.png" crc="228218530" ref="index"/>
-    <file name="dr sunita narang-crop-u3158772.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3158772.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315875-152.png" crc="4197644167" ref="index"/>
@@ -2757,16 +2766,16 @@
     <file name="ms bhawna-crop-u3158792.jpg" crc="4175693677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="leena sharma photo-crop-u3158852.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3158852.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315881-102.png" crc="184851472" ref="index"/>
     <file name="u315884-112.png" crc="3897073394" ref="index"/>
-    <file name="ms divya bansal-crop-u3159662.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3159662.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315965-142.png" crc="134727725" ref="index"/>
-    <file name="ms preet kamal-crop-u3159912.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3159912.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316036-142.png" crc="167430860" ref="index"/>
@@ -2794,7 +2803,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316152-142.png" crc="3960337546" ref="index"/>
-    <file name="ms kanchan-crop-u3161652.jpg" crc="3929606020" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3161652.jpg" crc="192672988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316164-142.png" crc="256280070" ref="index"/>
@@ -2802,12 +2811,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316161-132.png" crc="4084703573" ref="index"/>
-    <file name="ms annu photo-crop-u3162092.jpg" crc="4254938769" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3162092.jpg" crc="3865843101" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316269-122.png" crc="327522402" ref="index"/>
     <file name="u316278-122.png" crc="111442264" ref="index"/>
-    <file name="mr naveen goel-crop-u3162072.jpg" crc="422145357" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3162072.jpg" crc="4263352478" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u316287-142.png" crc="418204680" ref="index"/>
@@ -2832,7 +2841,7 @@
     <file name="updated-crop-u1806482.jpg" crc="4156785754" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1806382.jpg" crc="3928182397" seo="true" ref="index">
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u1806382.jpg" crc="3922424879" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="updatejpg-crop-u1806662.jpg" crc="4116164627" seo="true" ref="index">
@@ -2858,7 +2867,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303388-112.png" crc="3819444592" ref="index"/>
-    <file name="dr sunita narang-crop-u3034232.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3034232.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303415-152.png" crc="4281610257" ref="index"/>
@@ -2870,15 +2879,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303418-122.png" crc="4001104155" ref="index"/>
-    <file name="leena sharma photo-crop-u3034212.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3034212.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303416-112.png" crc="3919133899" ref="index"/>
-    <file name="ms divya bansal-crop-u3034102.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3034102.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303412-142.png" crc="4078455646" ref="index"/>
-    <file name="ms preet kamal-crop-u3034082.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3034082.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303405-142.png" crc="3936405594" ref="index"/>
@@ -2906,7 +2915,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303436-142.png" crc="3846580380" ref="index"/>
-    <file name="ms kanchan-crop-u3034452.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3034452.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303444-142.png" crc="3898449207" ref="index"/>
@@ -2914,12 +2923,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303441-132.png" crc="115505493" ref="index"/>
-    <file name="ms annu photo-crop-u3033722.jpg" crc="3972354988" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3033722.jpg" crc="65032991" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303383-122.png" crc="4031953111" ref="index"/>
     <file name="u303379-122.png" crc="474794041" ref="index"/>
-    <file name="mr naveen goel-crop-u3033742.jpg" crc="4234836744" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3033742.jpg" crc="345841456" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303380-142.png" crc="357572421" ref="index"/>
@@ -2961,7 +2970,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314238-112.png" crc="3849998807" ref="index"/>
-    <file name="dr sunita narang-u314294.png" crc="3870257441" ref="index"/>
+    <file name="dr sunita narang-u314294.png" crc="520898438" ref="index"/>
     <file name="jyoti photo-crop-u3142922.jpg" crc="4109892031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -2971,14 +2980,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314296-122.png" crc="421661897" ref="index"/>
-    <file name="leena sharma photo-crop-u3143012.jpg" crc="4261609529" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3143012.jpg" crc="4043052048" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314298-112.png" crc="4198827042" ref="index"/>
-    <file name="ms divya bansal-crop-u3142792.jpg" crc="4115355097" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3142792.jpg" crc="378140277" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms preet kamal-crop-u3142812.jpg" crc="332257649" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3142812.jpg" crc="275815369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314272-142.png" crc="3996653952" ref="index"/>
@@ -3019,7 +3028,7 @@
     <file name="ms khushbu-crop-u314247.jpg" crc="452053289" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u3142502.jpg" crc="4139940927" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3142502.jpg" crc="134119636" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms nidhi-crop-u3142522.jpg" crc="4059643693" seo="true" ref="index">
@@ -3077,7 +3086,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302719-112.png" crc="4027868657" ref="index"/>
-    <file name="dr sunita narang-crop-u3027542.jpg" crc="3793419374" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3027542.jpg" crc="4105338974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-152.png" crc="31080617" ref="index"/>
@@ -3089,15 +3098,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302749-122.png" crc="393048380" ref="index"/>
-    <file name="leena sharma photo-crop-u3027522.jpg" crc="3915666417" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3027522.jpg" crc="4097210729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302747-112.png" crc="106656115" ref="index"/>
-    <file name="ms divya bansal-crop-u3027412.jpg" crc="401856544" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3027412.jpg" crc="28758608" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302743-142.png" crc="4257650681" ref="index"/>
-    <file name="ms preet kamal-crop-u3027392.jpg" crc="148248653" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3027392.jpg" crc="4004106105" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302744-142.png" crc="3877758194" ref="index"/>
@@ -3125,7 +3134,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302768-132.png" crc="115400958" ref="index"/>
-    <file name="ms kanchan-crop-u3027762.jpg" crc="4085896723" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3027762.jpg" crc="189944360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302775-142.png" crc="6687450" ref="index"/>
@@ -3133,7 +3142,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302772-132.png" crc="197826939" ref="index"/>
-    <file name="ms annu photo-crop-u3027032.jpg" crc="313315151" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3027032.jpg" crc="249848123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302714-122.png" crc="4080839908" ref="index"/>
@@ -3144,7 +3153,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mr naveen goel-crop-u3027052.jpg" crc="4012892987" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3027052.jpg" crc="3869933595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302711-142.png" crc="323912205" ref="index"/>
@@ -3365,7 +3374,7 @@
     </file>
     <file name="u312946-152.png" crc="321921440" ref="index"/>
     <file name="u312939-122.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3129372.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3129372.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3129422.jpg" crc="4175693677" seo="true" ref="index">
@@ -3376,12 +3385,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-112.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3129442.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3129442.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312915-142.png" crc="4187042284" ref="index"/>
     <file name="u312926-142.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3129222.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3129222.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3129172.jpg" crc="432189502" seo="true" ref="index">
@@ -3389,7 +3398,7 @@
     </file>
     <file name="u312916-142.png" crc="316169263" ref="index"/>
     <file name="u312921-142.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3129242.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3129242.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3129192.jpg" crc="211936713" seo="true" ref="index">
@@ -3416,15 +3425,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312931-142.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3129292.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3129292.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312887-122.png" crc="313904554" ref="index"/>
     <file name="u312885-142.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3128932.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3128932.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3128882.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3128882.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312886-122.png" crc="202871779" ref="index"/>
@@ -3438,7 +3447,7 @@
     </file>
     <file name="u313622-152.png" crc="321921440" ref="index"/>
     <file name="u313615-122.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3136132.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3136132.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3136182.jpg" crc="4175693677" seo="true" ref="index">
@@ -3449,12 +3458,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-112.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3136202.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3136202.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313591-142.png" crc="4187042284" ref="index"/>
     <file name="u313602-142.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3135982.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3135982.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3135932.jpg" crc="432189502" seo="true" ref="index">
@@ -3462,7 +3471,7 @@
     </file>
     <file name="u313592-142.png" crc="316169263" ref="index"/>
     <file name="u313597-142.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3136002.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3136002.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3135952.jpg" crc="211936713" seo="true" ref="index">
@@ -3489,15 +3498,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313607-142.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3136052.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3136052.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313563-122.png" crc="313904554" ref="index"/>
     <file name="u313561-142.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3135692.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3135692.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3135642.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3135642.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313562-122.png" crc="202871779" ref="index"/>
@@ -3556,7 +3565,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302719-113.png" crc="4027868657" ref="index"/>
-    <file name="dr sunita narang-crop-u3027543.jpg" crc="3793419374" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3027543.jpg" crc="4105338974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-153.png" crc="31080617" ref="index"/>
@@ -3568,15 +3577,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302749-123.png" crc="393048380" ref="index"/>
-    <file name="leena sharma photo-crop-u3027523.jpg" crc="3915666417" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3027523.jpg" crc="4097210729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302747-113.png" crc="106656115" ref="index"/>
-    <file name="ms divya bansal-crop-u3027413.jpg" crc="401856544" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3027413.jpg" crc="28758608" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302743-143.png" crc="4257650681" ref="index"/>
-    <file name="ms preet kamal-crop-u3027393.jpg" crc="148248653" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3027393.jpg" crc="4004106105" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302744-143.png" crc="3877758194" ref="index"/>
@@ -3604,7 +3613,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302768-133.png" crc="115400958" ref="index"/>
-    <file name="ms kanchan-crop-u3027763.jpg" crc="4085896723" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3027763.jpg" crc="189944360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302775-143.png" crc="6687450" ref="index"/>
@@ -3612,11 +3621,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302772-133.png" crc="197826939" ref="index"/>
-    <file name="ms annu photo-crop-u3027033.jpg" crc="313315151" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3027033.jpg" crc="249848123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302714-123.png" crc="4080839908" ref="index"/>
-    <file name="mr naveen goel-crop-u3027053.jpg" crc="4012892987" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3027053.jpg" crc="3869933595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302711-143.png" crc="323912205" ref="index"/>
@@ -3662,7 +3671,7 @@
     </file>
     <file name="u312946-153.png" crc="321921440" ref="index"/>
     <file name="u312939-123.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3129373.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3129373.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3129423.jpg" crc="4175693677" seo="true" ref="index">
@@ -3673,12 +3682,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-113.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3129443.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3129443.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312915-143.png" crc="4187042284" ref="index"/>
     <file name="u312926-143.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3129223.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3129223.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3129173.jpg" crc="432189502" seo="true" ref="index">
@@ -3686,7 +3695,7 @@
     </file>
     <file name="u312916-143.png" crc="316169263" ref="index"/>
     <file name="u312921-143.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3129243.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3129243.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3129193.jpg" crc="211936713" seo="true" ref="index">
@@ -3713,15 +3722,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312931-143.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3129293.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3129293.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312887-123.png" crc="313904554" ref="index"/>
     <file name="u312885-143.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3128933.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3128933.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3128883.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3128883.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312886-123.png" crc="202871779" ref="index"/>
@@ -3735,7 +3744,7 @@
     </file>
     <file name="u313622-153.png" crc="321921440" ref="index"/>
     <file name="u313615-123.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3136133.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3136133.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3136183.jpg" crc="4175693677" seo="true" ref="index">
@@ -3746,12 +3755,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-113.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3136203.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3136203.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313591-143.png" crc="4187042284" ref="index"/>
     <file name="u313602-143.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3135983.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3135983.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3135933.jpg" crc="432189502" seo="true" ref="index">
@@ -3759,7 +3768,7 @@
     </file>
     <file name="u313592-143.png" crc="316169263" ref="index"/>
     <file name="u313597-143.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3136003.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3136003.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3135953.jpg" crc="211936713" seo="true" ref="index">
@@ -3786,15 +3795,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313607-143.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3136053.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3136053.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313563-123.png" crc="313904554" ref="index"/>
     <file name="u313561-143.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3135693.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3135693.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3135643.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3135643.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313562-123.png" crc="202871779" ref="index"/>
@@ -3845,7 +3854,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302719-114.png" crc="4027868657" ref="index"/>
-    <file name="dr sunita narang-crop-u3027544.jpg" crc="3793419374" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3027544.jpg" crc="4105338974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-154.png" crc="31080617" ref="index"/>
@@ -3857,15 +3866,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302749-124.png" crc="393048380" ref="index"/>
-    <file name="leena sharma photo-crop-u3027524.jpg" crc="3915666417" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3027524.jpg" crc="4097210729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302747-114.png" crc="106656115" ref="index"/>
-    <file name="ms divya bansal-crop-u3027414.jpg" crc="401856544" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3027414.jpg" crc="28758608" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302743-144.png" crc="4257650681" ref="index"/>
-    <file name="ms preet kamal-crop-u3027394.jpg" crc="148248653" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3027394.jpg" crc="4004106105" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302744-144.png" crc="3877758194" ref="index"/>
@@ -3893,7 +3902,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302768-134.png" crc="115400958" ref="index"/>
-    <file name="ms kanchan-crop-u3027764.jpg" crc="4085896723" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3027764.jpg" crc="189944360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302775-144.png" crc="6687450" ref="index"/>
@@ -3901,11 +3910,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302772-134.png" crc="197826939" ref="index"/>
-    <file name="ms annu photo-crop-u3027034.jpg" crc="313315151" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3027034.jpg" crc="249848123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302714-124.png" crc="4080839908" ref="index"/>
-    <file name="mr naveen goel-crop-u3027054.jpg" crc="4012892987" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3027054.jpg" crc="3869933595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302711-144.png" crc="323912205" ref="index"/>
@@ -3951,7 +3960,7 @@
     </file>
     <file name="u312946-154.png" crc="321921440" ref="index"/>
     <file name="u312939-124.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3129374.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3129374.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3129424.jpg" crc="4175693677" seo="true" ref="index">
@@ -3962,12 +3971,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-114.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3129444.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3129444.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312915-144.png" crc="4187042284" ref="index"/>
     <file name="u312926-144.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3129224.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3129224.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3129174.jpg" crc="432189502" seo="true" ref="index">
@@ -3975,7 +3984,7 @@
     </file>
     <file name="u312916-144.png" crc="316169263" ref="index"/>
     <file name="u312921-144.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3129244.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3129244.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3129194.jpg" crc="211936713" seo="true" ref="index">
@@ -4002,15 +4011,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312931-144.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3129294.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3129294.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312887-124.png" crc="313904554" ref="index"/>
     <file name="u312885-144.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3128934.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3128934.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3128884.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3128884.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312886-124.png" crc="202871779" ref="index"/>
@@ -4024,7 +4033,7 @@
     </file>
     <file name="u313622-154.png" crc="321921440" ref="index"/>
     <file name="u313615-124.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3136134.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3136134.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3136184.jpg" crc="4175693677" seo="true" ref="index">
@@ -4035,12 +4044,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-114.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3136204.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3136204.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313591-144.png" crc="4187042284" ref="index"/>
     <file name="u313602-144.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3135984.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3135984.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3135934.jpg" crc="432189502" seo="true" ref="index">
@@ -4048,7 +4057,7 @@
     </file>
     <file name="u313592-144.png" crc="316169263" ref="index"/>
     <file name="u313597-144.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3136004.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3136004.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3135954.jpg" crc="211936713" seo="true" ref="index">
@@ -4075,15 +4084,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313607-144.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3136054.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3136054.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313563-124.png" crc="313904554" ref="index"/>
     <file name="u313561-144.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3135694.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3135694.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3135644.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3135644.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313562-124.png" crc="202871779" ref="index"/>
@@ -4144,7 +4153,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302719-115.png" crc="4027868657" ref="index"/>
-    <file name="dr sunita narang-crop-u3027545.jpg" crc="3793419374" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3027545.jpg" crc="4105338974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-155.png" crc="31080617" ref="index"/>
@@ -4156,15 +4165,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302749-125.png" crc="393048380" ref="index"/>
-    <file name="leena sharma photo-crop-u3027525.jpg" crc="3915666417" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3027525.jpg" crc="4097210729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302747-115.png" crc="106656115" ref="index"/>
-    <file name="ms divya bansal-crop-u3027415.jpg" crc="401856544" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3027415.jpg" crc="28758608" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302743-145.png" crc="4257650681" ref="index"/>
-    <file name="ms preet kamal-crop-u3027395.jpg" crc="148248653" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3027395.jpg" crc="4004106105" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302744-145.png" crc="3877758194" ref="index"/>
@@ -4192,7 +4201,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302768-135.png" crc="115400958" ref="index"/>
-    <file name="ms kanchan-crop-u3027765.jpg" crc="4085896723" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3027765.jpg" crc="189944360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302775-145.png" crc="6687450" ref="index"/>
@@ -4200,11 +4209,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302772-135.png" crc="197826939" ref="index"/>
-    <file name="ms annu photo-crop-u3027035.jpg" crc="313315151" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3027035.jpg" crc="249848123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302714-125.png" crc="4080839908" ref="index"/>
-    <file name="mr naveen goel-crop-u3027055.jpg" crc="4012892987" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3027055.jpg" crc="3869933595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302711-145.png" crc="323912205" ref="index"/>
@@ -4250,7 +4259,7 @@
     </file>
     <file name="u312946-155.png" crc="321921440" ref="index"/>
     <file name="u312939-125.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3129375.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3129375.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3129425.jpg" crc="4175693677" seo="true" ref="index">
@@ -4261,12 +4270,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-115.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3129445.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3129445.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312915-145.png" crc="4187042284" ref="index"/>
     <file name="u312926-145.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3129225.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3129225.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3129175.jpg" crc="432189502" seo="true" ref="index">
@@ -4274,7 +4283,7 @@
     </file>
     <file name="u312916-145.png" crc="316169263" ref="index"/>
     <file name="u312921-145.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3129245.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3129245.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3129195.jpg" crc="211936713" seo="true" ref="index">
@@ -4301,15 +4310,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312931-145.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3129295.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3129295.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312887-125.png" crc="313904554" ref="index"/>
     <file name="u312885-145.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3128935.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3128935.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3128885.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3128885.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312886-125.png" crc="202871779" ref="index"/>
@@ -4323,7 +4332,7 @@
     </file>
     <file name="u313622-155.png" crc="321921440" ref="index"/>
     <file name="u313615-125.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3136135.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3136135.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3136185.jpg" crc="4175693677" seo="true" ref="index">
@@ -4334,12 +4343,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-115.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3136205.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3136205.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313591-145.png" crc="4187042284" ref="index"/>
     <file name="u313602-145.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3135985.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3135985.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3135935.jpg" crc="432189502" seo="true" ref="index">
@@ -4347,7 +4356,7 @@
     </file>
     <file name="u313592-145.png" crc="316169263" ref="index"/>
     <file name="u313597-145.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3136005.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3136005.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3135955.jpg" crc="211936713" seo="true" ref="index">
@@ -4374,15 +4383,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313607-145.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3136055.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3136055.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313563-125.png" crc="313904554" ref="index"/>
     <file name="u313561-145.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3135695.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3135695.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3135645.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3135645.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313562-125.png" crc="202871779" ref="index"/>
@@ -4427,7 +4436,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302719-116.png" crc="4027868657" ref="index"/>
-    <file name="dr sunita narang-crop-u3027546.jpg" crc="3793419374" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3027546.jpg" crc="4105338974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-156.png" crc="31080617" ref="index"/>
@@ -4439,15 +4448,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302749-126.png" crc="393048380" ref="index"/>
-    <file name="leena sharma photo-crop-u3027526.jpg" crc="3915666417" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3027526.jpg" crc="4097210729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302747-116.png" crc="106656115" ref="index"/>
-    <file name="ms divya bansal-crop-u3027416.jpg" crc="401856544" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3027416.jpg" crc="28758608" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302743-146.png" crc="4257650681" ref="index"/>
-    <file name="ms preet kamal-crop-u3027396.jpg" crc="148248653" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3027396.jpg" crc="4004106105" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302744-146.png" crc="3877758194" ref="index"/>
@@ -4475,7 +4484,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302768-136.png" crc="115400958" ref="index"/>
-    <file name="ms kanchan-crop-u3027766.jpg" crc="4085896723" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3027766.jpg" crc="189944360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302775-146.png" crc="6687450" ref="index"/>
@@ -4483,11 +4492,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302772-136.png" crc="197826939" ref="index"/>
-    <file name="ms annu photo-crop-u3027036.jpg" crc="313315151" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3027036.jpg" crc="249848123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302714-126.png" crc="4080839908" ref="index"/>
-    <file name="mr naveen goel-crop-u3027056.jpg" crc="4012892987" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3027056.jpg" crc="3869933595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302711-146.png" crc="323912205" ref="index"/>
@@ -4533,7 +4542,7 @@
     </file>
     <file name="u312946-156.png" crc="321921440" ref="index"/>
     <file name="u312939-126.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3129376.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3129376.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3129426.jpg" crc="4175693677" seo="true" ref="index">
@@ -4544,12 +4553,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-116.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3129446.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3129446.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312915-146.png" crc="4187042284" ref="index"/>
     <file name="u312926-146.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3129226.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3129226.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3129176.jpg" crc="432189502" seo="true" ref="index">
@@ -4557,7 +4566,7 @@
     </file>
     <file name="u312916-146.png" crc="316169263" ref="index"/>
     <file name="u312921-146.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3129246.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3129246.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3129196.jpg" crc="211936713" seo="true" ref="index">
@@ -4584,15 +4593,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312931-146.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3129296.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3129296.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312887-126.png" crc="313904554" ref="index"/>
     <file name="u312885-146.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3128936.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3128936.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3128886.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3128886.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312886-126.png" crc="202871779" ref="index"/>
@@ -4606,7 +4615,7 @@
     </file>
     <file name="u313622-156.png" crc="321921440" ref="index"/>
     <file name="u313615-126.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3136136.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3136136.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3136186.jpg" crc="4175693677" seo="true" ref="index">
@@ -4617,12 +4626,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-116.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3136206.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3136206.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313591-146.png" crc="4187042284" ref="index"/>
     <file name="u313602-146.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3135986.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3135986.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3135936.jpg" crc="432189502" seo="true" ref="index">
@@ -4630,7 +4639,7 @@
     </file>
     <file name="u313592-146.png" crc="316169263" ref="index"/>
     <file name="u313597-146.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3136006.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3136006.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3135956.jpg" crc="211936713" seo="true" ref="index">
@@ -4657,15 +4666,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313607-146.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3136056.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3136056.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313563-126.png" crc="313904554" ref="index"/>
     <file name="u313561-146.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3135696.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3135696.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3135646.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3135646.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313562-126.png" crc="202871779" ref="index"/>
@@ -4712,7 +4721,7 @@
     </file>
     <file name="u312946-157.png" crc="321921440" ref="index"/>
     <file name="u312939-127.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3129377.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3129377.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3129427.jpg" crc="4175693677" seo="true" ref="index">
@@ -4723,12 +4732,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-117.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3129447.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3129447.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312915-147.png" crc="4187042284" ref="index"/>
     <file name="u312926-147.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3129227.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3129227.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3129177.jpg" crc="432189502" seo="true" ref="index">
@@ -4736,7 +4745,7 @@
     </file>
     <file name="u312916-147.png" crc="316169263" ref="index"/>
     <file name="u312921-147.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3129247.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3129247.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3129197.jpg" crc="211936713" seo="true" ref="index">
@@ -4763,15 +4772,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312931-147.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3129297.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3129297.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312887-127.png" crc="313904554" ref="index"/>
     <file name="u312885-147.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3128937.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3128937.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3128887.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3128887.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312886-127.png" crc="202871779" ref="index"/>
@@ -4785,7 +4794,7 @@
     </file>
     <file name="u313622-157.png" crc="321921440" ref="index"/>
     <file name="u313615-127.png" crc="398631598" ref="index"/>
-    <file name="dr sunita narang-crop-u3136137.jpg" crc="387655397" seo="true" ref="index">
+    <file name="dr sunita narang-crop-u3136137.jpg" crc="4153879814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms bhawna-crop-u3136187.jpg" crc="4175693677" seo="true" ref="index">
@@ -4796,12 +4805,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-117.png" crc="3783392202" ref="index"/>
-    <file name="leena sharma photo-crop-u3136207.jpg" crc="3877446146" seo="true" ref="index">
+    <file name="leena sharma photo-crop-u3136207.jpg" crc="103124319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313591-147.png" crc="4187042284" ref="index"/>
     <file name="u313602-147.png" crc="3999743758" ref="index"/>
-    <file name="ms divya bansal-crop-u3135987.jpg" crc="4077021949" seo="true" ref="index">
+    <file name="ms divya bansal-crop-u3135987.jpg" crc="3778884354" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms suman-crop-u3135937.jpg" crc="432189502" seo="true" ref="index">
@@ -4809,7 +4818,7 @@
     </file>
     <file name="u313592-147.png" crc="316169263" ref="index"/>
     <file name="u313597-147.png" crc="536071999" ref="index"/>
-    <file name="ms preet kamal-crop-u3136007.jpg" crc="4134061924" seo="true" ref="index">
+    <file name="ms preet kamal-crop-u3136007.jpg" crc="4076528052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ms sunita rani-crop-u3135957.jpg" crc="211936713" seo="true" ref="index">
@@ -4836,15 +4845,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313607-147.png" crc="180224764" ref="index"/>
-    <file name="ms kanchan-crop-u3136057.jpg" crc="293150627" seo="true" ref="index">
+    <file name="ms kanchan-crop-u3136057.jpg" crc="4120866194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313563-127.png" crc="313904554" ref="index"/>
     <file name="u313561-147.png" crc="4293747571" ref="index"/>
-    <file name="mr naveen goel-crop-u3135697.jpg" crc="3833518836" seo="true" ref="index">
+    <file name="mr naveen goel-crop-u3135697.jpg" crc="143669944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ms annu photo-crop-u3135647.jpg" crc="287729486" seo="true" ref="index">
+    <file name="ms annu photo-crop-u3135647.jpg" crc="444325680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313562-127.png" crc="202871779" ref="index"/>
@@ -4916,11 +4925,7 @@
     <file name="u297537-183.png" crc="521982314" ref="teaching"/>
     <file name="u297542-173.png" crc="77991429" ref="teaching"/>
     <file name="u297545-163.png" crc="4190019680" ref="teaching"/>
-    <file name="abstract-art-background-1275563.jpg" crc="388721506" seo="true" ref="non-teaching">
-      <caption webpage="non-teaching" alt=""/>
-      <caption webpage="non-teaching" alt=""/>
-    </file>
-    <file name="ms neetu jain-crop-u359411.jpg" crc="4126192987" seo="true" ref="non-teaching">
+    <file name="ms neetu jain-crop-u359411.jpg" crc="162985416" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
     <file name="ms neetu jain-crop-u344745.jpg" crc="254938072" seo="true" ref="non-teaching">
@@ -4931,7 +4936,7 @@
     <file name="u298945-21.png" crc="525797383" ref="non-teaching"/>
     <file name="u298938-18.png" crc="278696440" ref="non-teaching"/>
     <file name="u298948-19.png" crc="152572289" ref="non-teaching"/>
-    <file name="ms neetu jain-crop-u3594112.jpg" crc="4126192987" seo="true" ref="non-teaching">
+    <file name="ms neetu jain-crop-u3594112.jpg" crc="162985416" seo="true" ref="non-teaching">
       <caption webpage="non-teaching" alt=""/>
     </file>
     <file name="ms neetu jain-crop-u3447452.jpg" crc="254938072" seo="true" ref="non-teaching">
@@ -5018,7 +5023,6 @@
     <file name="u398327-42.png" crc="64368528" ref="iqac"/>
     <file name="u403429-4.png" crc="3766602605" ref="gallary"/>
     <file name="u403427-4.png" crc="3851583768" ref="gallary"/>
-    <file name="u403428-4.png" crc="3759106707" ref="gallary"/>
     <file name="u403425-4.png" crc="3759963551" ref="gallary"/>
     <file name="u403426-4.png" crc="4039903290" ref="gallary"/>
     <file name="u412303-4.png" crc="3851327748" ref="gallary"/>
@@ -5094,22 +5098,6 @@
       <caption webpage="gallary" alt=""/>
     </file>
     <file name="dev_6615541x360.jpg" crc="3875036882" seo="true" ref="gallary">
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-    </file>
-    <file name="dev_6784544x360.jpg" crc="477484021" seo="true" ref="gallary">
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-    </file>
-    <file name="dev_6942544x360.jpg" crc="239409424" seo="true" ref="gallary">
       <caption webpage="gallary" alt=""/>
       <caption webpage="gallary" alt=""/>
       <caption webpage="gallary" alt=""/>
@@ -5218,7 +5206,6 @@
     </file>
     <file name="u403429-42.png" crc="4069714020" ref="gallary"/>
     <file name="u403427-42.png" crc="4192965992" ref="gallary"/>
-    <file name="u403428-42.png" crc="21334621" ref="gallary"/>
     <file name="u403425-42.png" crc="4014614450" ref="gallary"/>
     <file name="u403426-42.png" crc="4133125400" ref="gallary"/>
     <file name="u412303-42.png" crc="3851327748" ref="gallary"/>
@@ -5264,7 +5251,6 @@
     <file name="u403429-43.png" crc="4280036310" ref="gallary"/>
     <file name="u403427-43.png" crc="367433107" ref="gallary"/>
     <file name="u403426-43.png" crc="3956652954" ref="gallary"/>
-    <file name="u403428-43.png" crc="529882801" ref="gallary"/>
     <file name="u403425-43.png" crc="347544712" ref="gallary"/>
     <file name="u412303-43.png" crc="3851327748" ref="gallary"/>
     <file name="dev_99542.jpg" crc="3819264553" seo="true" ref="gallary">
@@ -5306,7 +5292,7 @@
     <file name="dev_9718-crop-u410311.jpg" crc="194062335" seo="true" ref="gallary">
       <caption webpage="gallary" alt=""/>
     </file>
-    <file name="dev_2628-crop-u410171.jpg" crc="3794420076" seo="true" ref="gallary">
+    <file name="dev_2628-crop-u410171.jpg" crc="7713778" seo="true" ref="gallary">
       <caption webpage="gallary" alt=""/>
     </file>
     <file name="dev_0111-crop-u4099163.jpg" crc="333213999" seo="true" ref="gallary">
@@ -5315,7 +5301,7 @@
     <file name="dev_9224-crop-u410241.jpg" crc="207552546" seo="true" ref="gallary">
       <caption webpage="gallary" alt=""/>
     </file>
-    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u4123973.jpg" crc="4196715308" seo="true" ref="gallary">
+    <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u4123973.jpg" crc="444788075" seo="true" ref="gallary">
       <caption webpage="gallary" alt=""/>
     </file>
     <file name="20171205_105509-crop-u4124613.jpg" crc="4102749745" seo="true" ref="gallary">
@@ -5351,7 +5337,6 @@
     <file name="u403429-44.png" crc="4240736704" ref="gallary"/>
     <file name="u403427-44.png" crc="4171142066" ref="gallary"/>
     <file name="u403426-44.png" crc="4294310299" ref="gallary"/>
-    <file name="u403428-44.png" crc="4284875524" ref="gallary"/>
     <file name="u403425-44.png" crc="4202407182" ref="gallary"/>
     <file name="u412303-44.png" crc="3851327748" ref="gallary"/>
     <file name="vaish arya shikshan mahila mahavidyalaya, bahadurgarh-crop-u4123754.jpg" crc="197150351" seo="true" ref="gallary">
@@ -5395,7 +5380,6 @@
     </file>
     <file name="u403429-45.png" crc="4199116929" ref="gallary"/>
     <file name="u403427-45.png" crc="290281365" ref="gallary"/>
-    <file name="u403428-45.png" crc="4017729420" ref="gallary"/>
     <file name="u403425-45.png" crc="75298785" ref="gallary"/>
     <file name="u403426-45.png" crc="389601818" ref="gallary"/>
     <file name="u412303-45.png" crc="3851327748" ref="gallary"/>
@@ -5440,7 +5424,6 @@
     </file>
     <file name="u403429-46.png" crc="4199116929" ref="gallary"/>
     <file name="u403427-46.png" crc="290281365" ref="gallary"/>
-    <file name="u403428-46.png" crc="4017729420" ref="gallary"/>
     <file name="u403425-46.png" crc="75298785" ref="gallary"/>
     <file name="u403426-46.png" crc="389601818" ref="gallary"/>
     <file name="u412303-46.png" crc="3851327748" ref="gallary"/>
@@ -5485,7 +5468,6 @@
     </file>
     <file name="u403429-47.png" crc="4199116929" ref="gallary"/>
     <file name="u403427-47.png" crc="290281365" ref="gallary"/>
-    <file name="u403428-47.png" crc="4017729420" ref="gallary"/>
     <file name="u403425-47.png" crc="75298785" ref="gallary"/>
     <file name="u403426-47.png" crc="389601818" ref="gallary"/>
     <file name="u412303-47.png" crc="3851327748" ref="gallary"/>
@@ -5528,25 +5510,53 @@
     <file name="updatejpg-crop-u4130377.jpg" crc="341556055" seo="true" ref="gallary">
       <caption webpage="gallary" alt=""/>
     </file>
+    <file name="u429570-4.png" crc="4281070190" ref="courses"/>
+    <file name="u429570-42.png" crc="64368528" ref="courses"/>
+    <file name="u429570-43.png" crc="322969185" ref="courses"/>
+    <file name="u429583-4.png" crc="4085236491" ref="b.ed-course"/>
+    <file name="u429583-42.png" crc="4085236491" ref="b.ed-course"/>
+    <file name="u403428-4-a.png" crc="3759106707" ref="gallary"/>
+    <file name="dev_6784544x361.jpg" crc="477484021" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="dev_6942544x361.jpg" crc="239409424" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="u403428-4-a2.png" crc="21334621" ref="gallary"/>
+    <file name="u403428-4-a3.png" crc="529882801" ref="gallary"/>
+    <file name="u403428-4-a4.png" crc="4284875524" ref="gallary"/>
+    <file name="u403428-4-a5.png" crc="4017729420" ref="gallary"/>
+    <file name="u403428-4-a6.png" crc="4017729420" ref="gallary"/>
+    <file name="u403428-4-a7.png" crc="4017729420" ref="gallary"/>
   </folder>
-  <file name="index.html" crc="4040780780" seo="true" mt="1539006698179" redirect="true"/>
+  <file name="index.html" crc="3807514434" seo="true" mt="1539014234425" redirect="true"/>
   <file name="naac.html" crc="369796154" seo="true" mt="1539006698179" redirect="true"/>
   <file name="departments.html" crc="3762352313" seo="true" mt="1539006690347" redirect="true"/>
   <file name="admission.html" crc="4278153125" seo="true" mt="1539006698179" redirect="true"/>
-  <file name="courses.html" crc="4155578925" seo="true" mt="1539009140587" redirect="true"/>
-  <file name="about.html" crc="4097416854" seo="true" mt="1539006698179" redirect="true"/>
+  <file name="courses.html" crc="459625444" seo="true" mt="1539018342303" redirect="true"/>
+  <file name="about.html" crc="4063983905" seo="true" mt="1539017435404" redirect="true"/>
   <file name="iqac.html" crc="212401826" seo="true" mt="1539006698179" redirect="true"/>
   <file name="aishe.html" crc="242631237" seo="true" mt="1539006698179" redirect="true"/>
   <file name="alumni.html" crc="37996013" seo="true" mt="1539006698179" redirect="true"/>
   <file name="media.html" crc="3987595840" seo="true" mt="1539006698179" redirect="true"/>
-  <file name="contact.html" crc="4108200347" seo="true" mt="1539006698179" redirect="true"/>
-  <file name="b.ed-course.html" crc="30758064" seo="true" mt="1539006698179" redirect="true"/>
-  <file name="teaching.html" crc="349682053" seo="true" mt="1539006698179" redirect="true"/>
-  <file name="non-teaching.html" crc="3874730132" seo="true" mt="1539006698179" redirect="true"/>
+  <file name="contact.html" crc="4243953833" seo="true" mt="1539018546281" redirect="true"/>
+  <file name="b.ed-course.html" crc="164997380" seo="true" mt="1539018488221" redirect="true"/>
+  <file name="teaching.html" crc="3811740404" seo="true" mt="1539018260352" redirect="true"/>
+  <file name="non-teaching.html" crc="153273423" seo="true" mt="1539018238015" redirect="true"/>
   <file name="bahadurgarh-shiksa-sabha.html" crc="4025040470" seo="true" mt="1539006698179" redirect="true"/>
-  <file name="about-college.html" crc="3877345126" seo="true" mt="1539006698179" redirect="true"/>
-  <file name="gallary.html" crc="4255973182" seo="true" mt="1539009332858" redirect="true"/>
-  <file name="anti-ragging-act.html" crc="3795025956" seo="true" mt="1539007658487" redirect="true"/>
+  <file name="about-college.html" crc="4130534877" seo="true" mt="1539017570252" redirect="true"/>
+  <file name="gallary.html" crc="218892406" seo="true" mt="1539020560755" redirect="true"/>
+  <file name="anti-ragging-act.html" crc="3769640257" seo="true" mt="1539017411533" redirect="true"/>
   <file name="download.html" crc="514593972" seo="true" mt="1539006698179" redirect="true"/>
   <file name="achievement.html" crc="215666867" seo="true" mt="1539006698179" redirect="true"/>
 </manifest>
