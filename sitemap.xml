@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vasmm.com/index.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2191,8 +2191,29 @@
     </image:image>
   </url>
   <url>
+    <loc>http://vasmm.com/alumni.html</loc>
+    <lastmod>2018-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://vasmm.com/media.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2213,7 +2234,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/contact.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2257,29 +2278,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/download.html</loc>
-    <lastmod>2018-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://vasmm.com/naac.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2306,28 +2306,13 @@
   </url>
   <url>
     <loc>http://vasmm.com/departments.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/admission.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2351,7 +2336,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/courses.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2372,7 +2357,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/about.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2399,7 +2384,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/iqac.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2435,7 +2420,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/aishe.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2455,8 +2440,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/alumni.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <loc>http://vasmm.com/bahadurgarh-shiksa-sabha.html</loc>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2476,8 +2461,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/anti-ragging-act.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <loc>http://vasmm.com/non-teaching.html</loc>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2494,11 +2479,128 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dividers-transparent-gothic-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/shaking-hands-2499618_1920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u298956.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u298954.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u298952.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u298961.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u298941.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u299518.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u298943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/divider.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u299588.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u299578.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u299568.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u299558.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u299538.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u298946.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u298939.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u299508.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/black-divider-png-5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u2989562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u2989542.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u2989522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u2989612.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u2989412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u2995182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u2989432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u2995882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u2995782.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u2995682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u2995582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u2995382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u2989462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u2989392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u2995082.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/abstract-art-background-1275563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u359411.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u344745.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3594112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3447452.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://vasmm.com/achievement.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2546,7 +2648,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/b.ed-course.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2567,7 +2669,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/teaching.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2779,167 +2881,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/non-teaching.html</loc>
-    <lastmod>2018-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/dividers-transparent-gothic-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/shaking-hands-2499618_1920.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u298956.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u298954.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u298952.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u298961.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u298941.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u299518.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u298943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/divider.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u299588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u299578.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u299568.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u299558.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u299538.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u298946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u298939.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u299508.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/black-divider-png-5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u2989562.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u2989542.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u2989522.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u2989612.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u2989412.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u2995182.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u2989432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ajay%20photo-crop-u2995882.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20rekha-crop-u2995782.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20kanta-crop-u2995682.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20gayatri-crop-u2995582.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20nidhi-crop-u2995382.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20annu%20photo-crop-u2989462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20khushbu-crop-u2989392.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/mr%20naveen%20goel-crop-u2995082.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/abstract-art-background-1275563.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u359411.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u344745.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3594112.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/ms%20neetu%20jain-crop-u3447452.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://vasmm.com/bahadurgarh-shiksa-sabha.html</loc>
-    <lastmod>2018-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://vasmm.com/about-college.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <loc>http://vasmm.com/download.html</loc>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2960,7 +2903,406 @@
   </url>
   <url>
     <loc>http://vasmm.com/gallary.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vasmm.com/images/naac-creation-logo-final%20png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6417.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_1201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9954480x320.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_97182.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2628480x321.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_01112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_92242.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u412375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u412443.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u412507.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_1201541x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u412635.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6417541x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6615541x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6784544x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6942544x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u412955.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u413019.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_995468x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_971868x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_262868x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111-crop-u409916.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_922468x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u412397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u412461.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u412525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_120168x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u412653.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_641768x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_661568x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_678468x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_694268x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u412973.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u413037.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123752.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111-crop-u4099162.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123972.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124612.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129732.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_99542.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2628588x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123753.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124433.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125073.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126353.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6615662x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6784667x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6942667x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129553.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9954-crop-u410381.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9718-crop-u410311.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2628-crop-u410171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111-crop-u4099163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_9224-crop-u410241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123973.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124613.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_1201-crop-u412589.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126533.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6417-crop-u412717.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6615-crop-u412781.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6784-crop-u412845.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_6942-crop-u412909.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129733.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123754.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124434.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125074.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126354.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129554.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111-crop-u4099164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123974.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124614.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129734.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123755.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124435.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125075.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126355.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111-crop-u4099165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123975.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124615.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126535.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129735.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123756.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124436.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125076.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129556.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111-crop-u4099166.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123976.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124616.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126536.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129736.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130376.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123757.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124437.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125077.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126357.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130197.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_0111-crop-u4099167.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/vaish%20arya%20shikshan%20mahila%20mahavidyalaya,%20bahadurgarh-crop-u4123977.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20171205_105509-crop-u4124617.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/20180528_112613-crop-u4125257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/dev_2802-crop-u4126537.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updated-crop-u4129737.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/updatejpg-crop-u4130377.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://vasmm.com/about-college.html</loc>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2980,8 +3322,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://vasmm.com/career.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <loc>http://vasmm.com/anti-ragging-act.html</loc>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2999,12 +3341,6 @@
     <image:image>
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://vasmm.com/assets/election-bss-(1).pdf</loc>
-    <lastmod>2018-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vasmm.com/assets/election-college.pdf</loc>
@@ -3015,6 +3351,12 @@
   <url>
     <loc>http://vasmm.com/assets/list-of-collegium-members-2018.pdf</loc>
     <lastmod>2018-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vasmm.com/assets/election-bss-(1).pdf</loc>
+    <lastmod>2018-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
