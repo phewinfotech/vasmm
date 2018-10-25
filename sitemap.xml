@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vasmm.com/index.html</loc>
-    <lastmod>2018-10-08</lastmod>
+    <lastmod>2018-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2188,6 +2188,12 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/dr%20asha%20sharma-crop-u3135877.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20khushbu181x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/ms%20gayatri199x201.jpg</image:loc>
     </image:image>
   </url>
   <url>
