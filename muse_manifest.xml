@@ -1,17 +1,17 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vasmm.com" resolutions="1x" timestamp="1542732516280">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vasmm.com" resolutions="1x" timestamp="1542821813281">
   <folder name="assets">
     <file name="election-bss-(1).pdf" crc="45099715" seo="true" mt="1535250085000"/>
     <file name="election-college.pdf" crc="257336014" seo="true" mt="1535250062000"/>
     <file name="list-of-collegium-members-2018.pdf" crc="4280670909" seo="true" mt="1535377012000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="424740533"/>
-    <file name="master_a-master.css" crc="286933586" ref="alumni:naac:courses:iqac:gallary:contact:about-college:b.ed-course:about:media:teaching:admission:download:index:non-teaching:aishe:achievement"/>
+    <file name="site_global.css" crc="203616197"/>
+    <file name="master_a-master.css" crc="43643516" ref="alumni:naac:courses:iqac:gallary:contact:about-college:b.ed-course:about:media:teaching:admission:download:index:non-teaching:aishe:achievement"/>
     <file name="nomq_preview_master_a-master.css" crc="534508029" ref="alumni:naac:courses:iqac:gallary:contact:about-college:b.ed-course:about:media:teaching:admission:download:index:non-teaching:aishe:achievement"/>
     <file name="departments.css" crc="137429464" ref="departments"/>
     <file name="nomq_departments.css" crc="3948262685" ref="departments"/>
-    <file name="alumni.css" crc="466304194" ref="alumni"/>
-    <file name="nomq_alumni.css" crc="4176596750" ref="alumni"/>
+    <file name="alumni.css" crc="15153362" ref="alumni"/>
+    <file name="nomq_alumni.css" crc="75976272" ref="alumni"/>
     <file name="naac.css" crc="39805252" ref="naac"/>
     <file name="nomq_naac.css" crc="4116934330" ref="naac"/>
     <file name="courses.css" crc="299577861" ref="courses"/>
@@ -36,8 +36,8 @@
     <file name="nomq_admission.css" crc="465512095" ref="admission"/>
     <file name="download.css" crc="150223518" ref="download"/>
     <file name="nomq_download.css" crc="416589632" ref="download"/>
-    <file name="index.css" crc="3942419496" ref="index"/>
-    <file name="nomq_index.css" crc="3953629148" ref="index"/>
+    <file name="index.css" crc="3947512153" ref="index"/>
+    <file name="nomq_index.css" crc="70727133" ref="index"/>
     <file name="non-teaching.css" crc="72414447" ref="non-teaching"/>
     <file name="nomq_non-teaching.css" crc="3775283770" ref="non-teaching"/>
     <file name="aishe.css" crc="1438438" ref="aishe"/>
@@ -50,10 +50,10 @@
     <file name="museutils.js" crc="4232573551" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="whatinput.js" crc="86476730" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="museconfig.js" crc="3849126041" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:naac:courses:contact:about-college:achievement:about:admission"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:naac:courses:contact:about-college:achievement:about:admission:alumni"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
-    <file name="webpro.js" crc="3770351119" ref="index:admission:courses:iqac:contact:teaching:about-college:achievement:gallary"/>
+    <file name="webpro.js" crc="3770351119" ref="index:admission:courses:iqac:contact:teaching:about-college:achievement:gallary:alumni"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index:admission:courses:iqac:contact:teaching:about-college:achievement:gallary"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index:admission:courses:iqac:contact:teaching:about-college:achievement:gallary"/>
     <file name="touchswipe.js" crc="3912873526" ref="index:admission:courses:iqac:contact:teaching:about-college:achievement:gallary"/>
@@ -61,144 +61,147 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="require.js" crc="4234670167" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
-    <file name="form_check.php" crc="3841221102" ref="contact"/>
-    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
-    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form_check.php" crc="3841221102" ref="contact:alumni"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact:alumni"/>
+    <file name="form_process.php" crc="3899230280" ref="contact:alumni"/>
     <file name="form-u12115.php" crc="376416683" ref="contact"/>
+    <file name="form-u478416.php" crc="3804821512" ref="alumni"/>
   </folder>
   <folder name="images">
-    <file name="home-033-960x283.jpg" crc="389610162" ref="index:naac:about:admission">
+    <file name="home-033-960x283.jpg" crc="389610162" ref="index:naac:about:admission:alumni">
+      <caption webpage="about-college" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="teaching" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="logo.png" crc="65543946" ref="index:naac:contact:about:admission">
+    <file name="logo.png" crc="65543946" ref="index:naac:contact:about:admission:alumni">
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
       <caption webpage="about-college" alt=""/>
       <caption webpage="about-college" alt=""/>
       <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="iqac" alt=""/>
+      <caption webpage="admission" alt=""/>
       <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u1634-6.png" crc="473986706" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="naac-creation-logo-final png.png" crc="16684300" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
     </file>
     <file name="map.png" crc="308157887" ref="index">
       <caption webpage="index" alt=""/>
@@ -216,144 +219,126 @@
     <file name="u102257-4.png" crc="3856927289" ref="index"/>
     <file name="u102256-4.png" crc="154030596" ref="index"/>
     <file name="arrowmenudown.gif" crc="213132104" ref="index:naac:departments:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
       <caption webpage="gallary" alt=""/>
       <caption webpage="gallary" alt=""/>
       <caption webpage="gallary" alt=""/>
@@ -375,21 +360,6 @@
       <caption webpage="gallary" alt=""/>
       <caption webpage="gallary" alt=""/>
       <caption webpage="gallary" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -399,60 +369,93 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
     </file>
     <file name="dev_6615805x537.jpg" crc="195655314" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -662,7 +665,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dev_2802-crop-u180554.jpg" crc="54521842" seo="true" ref="index">
+    <file name="dev_2802-crop-u180554.jpg" crc="3818669031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="quotefancy-466895-3840x2160-crop-u180594.jpg" crc="320819284" seo="true" ref="index">
@@ -763,378 +766,380 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="andrew-ridley-76547-unsplash.jpg" crc="264308733" ref="index:naac:about:admission">
+    <file name="andrew-ridley-76547-unsplash.jpg" crc="264308733" ref="index:naac:about:admission:alumni">
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="iqac" alt=""/>
+      <caption webpage="iqac" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
       <caption webpage="about-college" alt=""/>
       <caption webpage="about-college" alt=""/>
       <caption webpage="about-college" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="iqac" alt=""/>
-      <caption webpage="iqac" alt=""/>
+      <caption webpage="admission" alt=""/>
       <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
       <caption webpage="departments" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u955-5.png" crc="241094795" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="u13041-4.png" crc="3791829986" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="u13045-4.png" crc="3950422819" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement"/>
     <file name="linkedin.png" crc="3843589320" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
     </file>
     <file name="instagram.png" crc="37760132" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
     </file>
     <file name="facebook.png" crc="182554253" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
     </file>
     <file name="youtube.png" crc="201966476" seo="true" ref="index:naac:admission:courses:about:iqac:aishe:alumni:media:contact:b.ed-course:teaching:non-teaching:about-college:gallary:download:achievement">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="naac" alt=""/>
       <caption webpage="naac" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="admission" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="career" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="departments" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="achievement" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="b.ed-course" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="download" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="aishe" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
-      <caption webpage="gallary" alt=""/>
       <caption webpage="iqac" alt=""/>
       <caption webpage="iqac" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
-      <caption webpage="about-college" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="download" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="departments" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="gallary" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="aishe" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="admission" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
+      <caption webpage="anti-ragging-act" alt=""/>
       <caption webpage="non-teaching" alt=""/>
       <caption webpage="non-teaching" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="courses" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="anti-ragging-act" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="alumni" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="about-college" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="bahadurgarh-shiksa-sabha" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="career" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
+      <caption webpage="b.ed-course" alt=""/>
     </file>
     <file name="u102257-42.png" crc="482995593" ref="index"/>
     <file name="u102256-42.png" crc="4071455163" ref="index"/>
@@ -1242,7 +1247,7 @@
     <file name="felix-russell-saw-236041-unsplash-crop-u180642.jpg" crc="3814043465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="book library-crop-u180624.jpg" crc="311348987" seo="true" ref="index">
+    <file name="book library-crop-u180624.jpg" crc="28203149" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="book library2-crop-u180636.jpg" crc="490682940" seo="true" ref="index">
@@ -1381,18 +1386,6 @@
     <file name="u135013-43.png" crc="476411293" ref="aishe"/>
     <file name="u135012-43.png" crc="496035522" ref="aishe"/>
     <file name="u135016-43.png" crc="389972903" ref="aishe"/>
-    <file name="u136017-4.png" crc="4037381929" ref="alumni"/>
-    <file name="u136015-4.png" crc="530279794" ref="alumni"/>
-    <file name="u136018-4.png" crc="3844902837" ref="alumni"/>
-    <file name="u136014-4.png" crc="3886447411" ref="alumni"/>
-    <file name="u136017-42.png" crc="408712188" ref="alumni"/>
-    <file name="u136015-42.png" crc="482995593" ref="alumni"/>
-    <file name="u136014-42.png" crc="252425284" ref="alumni"/>
-    <file name="u136018-42.png" crc="4071455163" ref="alumni"/>
-    <file name="u136017-43.png" crc="408712188" ref="alumni"/>
-    <file name="u136015-43.png" crc="482995593" ref="alumni"/>
-    <file name="u136014-43.png" crc="252425284" ref="alumni"/>
-    <file name="u136018-43.png" crc="4071455163" ref="alumni"/>
     <file name="u137172-4.png" crc="408712188" ref="media"/>
     <file name="u137170-4.png" crc="482995593" ref="media"/>
     <file name="u137169-4.png" crc="252425284" ref="media"/>
@@ -2154,7 +2147,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315875-15.png" crc="4197644167" ref="index"/>
-    <file name="jyoti photo-crop-u315882.jpg" crc="4001420276" seo="true" ref="index">
+    <file name="jyoti photo-crop-u315882.jpg" crc="3977988827" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315876-12.png" crc="375993314" ref="index"/>
@@ -2252,7 +2245,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302747-11.png" crc="3783392202" ref="index"/>
-    <file name="jyoti photo-crop-u302750.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u302750.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302748-10.png" crc="449023399" ref="index"/>
@@ -2343,7 +2336,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314297-10.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u314292.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u314292.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u314298-11.png" crc="3783392202" ref="index"/>
@@ -2425,7 +2418,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303415-15.png" crc="4281610257" ref="index"/>
-    <file name="jyoti photo-crop-u303419.jpg" crc="3758233615" seo="true" ref="index">
+    <file name="jyoti photo-crop-u303419.jpg" crc="3900440474" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303417-10.png" crc="4137598418" ref="index"/>
@@ -2531,7 +2524,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312940-10.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u312935.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u312935.jpg" crc="3843744333" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-11.png" crc="3783392202" ref="index"/>
@@ -2604,7 +2597,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313616-10.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u313611.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u313611.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-11.png" crc="3783392202" ref="index"/>
@@ -2688,7 +2681,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315875-152.png" crc="3897136599" ref="index"/>
-    <file name="jyoti photo-crop-u3158822.jpg" crc="4161031104" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3158822.jpg" crc="3927935140" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u315876-122.png" crc="3777007525" ref="index"/>
@@ -2800,7 +2793,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303415-152.png" crc="4281610257" ref="index"/>
-    <file name="jyoti photo-crop-u3034192.jpg" crc="3758233615" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3034192.jpg" crc="3900440474" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u303417-102.png" crc="4137598418" ref="index"/>
@@ -3019,7 +3012,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-152.png" crc="31080617" ref="index"/>
-    <file name="jyoti photo-crop-u3027502.jpg" crc="3789432647" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3027502.jpg" crc="3767738859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302748-102.png" crc="195756709" ref="index"/>
@@ -3310,7 +3303,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312940-102.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u3129352.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3129352.jpg" crc="3843744333" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-112.png" crc="3783392202" ref="index"/>
@@ -3383,7 +3376,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313616-102.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u3136112.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3136112.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-112.png" crc="3783392202" ref="index"/>
@@ -3491,7 +3484,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-153.png" crc="31080617" ref="index"/>
-    <file name="jyoti photo-crop-u3027503.jpg" crc="3789432647" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3027503.jpg" crc="3767738859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302748-103.png" crc="195756709" ref="index"/>
@@ -3600,7 +3593,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312940-103.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u3129353.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3129353.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-113.png" crc="3783392202" ref="index"/>
@@ -3673,7 +3666,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313616-103.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u3136113.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3136113.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-113.png" crc="3783392202" ref="index"/>
@@ -3773,7 +3766,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-154.png" crc="31080617" ref="index"/>
-    <file name="jyoti photo-crop-u3027504.jpg" crc="3789432647" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3027504.jpg" crc="3767738859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302748-104.png" crc="195756709" ref="index"/>
@@ -3882,7 +3875,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312940-104.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u3129354.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3129354.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u312941-114.png" crc="3783392202" ref="index"/>
@@ -3955,7 +3948,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313616-104.png" crc="449023399" ref="index"/>
-    <file name="jyoti photo-crop-u3136114.jpg" crc="272661245" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3136114.jpg" crc="3007394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u313617-114.png" crc="3783392202" ref="index"/>
@@ -4066,7 +4059,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-155.png" crc="31080617" ref="index"/>
-    <file name="jyoti photo-crop-u3027505.jpg" crc="3789432647" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3027505.jpg" crc="3767738859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302748-105.png" crc="195756709" ref="index"/>
@@ -4169,7 +4162,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302746-156.png" crc="31080617" ref="index"/>
-    <file name="jyoti photo-crop-u3027506.jpg" crc="3789432647" seo="true" ref="index">
+    <file name="jyoti photo-crop-u3027506.jpg" crc="3767738859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u302748-106.png" crc="195756709" ref="index"/>
@@ -4941,8 +4934,83 @@
     <file name="u27302-53.png" crc="402008179" ref="about-college"/>
     <file name="u27302-532.png" crc="4285593474" ref="about-college"/>
     <file name="u27302-533.png" crc="74552174" ref="about-college"/>
+    <file name="dev_0111-crop-u476711.jpg" crc="468092683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u476715.jpg" crc="4177861200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers610x457.jpg" crc="4077912314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615-crop-u476721.jpg" crc="4168393995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj-crop-u476717.jpg" crc="4161420122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u476719.jpg" crc="3808232229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u476713.jpg" crc="58516954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802-crop-u476723.jpg" crc="378812264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u476725.jpg" crc="3758287855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_0111-crop-u476675.jpg" crc="499968264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6942-crop-u476685.jpg" crc="21199386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="royal-fam-gandhi-jayanti-hd-wallpapers-crop-u476681.jpg" crc="3819706575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_6615-crop-u476687.jpg" crc="4047737034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agrasen-maharaj282x177.jpg" crc="407990789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2628-crop-u476679.jpg" crc="4059120720" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naac a 1-crop-u476683.jpg" crc="4118639494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_2802282x162.jpg" crc="4171026541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dev_9954-crop-u476677.jpg" crc="4040865751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="active-activity-adult-1430116.jpg" crc="38850256" seo="true" ref="alumni">
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+    </file>
+    <file name="activity-bicycle-bike-276517.jpg" crc="3990525965" seo="true" ref="alumni">
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+    </file>
+    <file name="vasmm alumni.png" crc="369508975" seo="true" ref="alumni">
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+    </file>
+    <file name="u480163-4.png" crc="482995593" ref="alumni"/>
+    <file name="u480165-4.png" crc="4071455163" ref="alumni"/>
+    <file name="u480164-4.png" crc="4085236491" ref="alumni"/>
+    <file name="u480163-42.png" crc="482995593" ref="alumni"/>
+    <file name="u480165-42.png" crc="4071455163" ref="alumni"/>
+    <file name="u480164-42.png" crc="4085236491" ref="alumni"/>
   </folder>
-  <file name="index.html" crc="463746539" seo="true" mt="1542732320500" redirect="true"/>
+  <file name="index.html" crc="28116471" seo="true" mt="1542821393244" redirect="true"/>
   <file name="naac.html" crc="4119563338" seo="true" mt="1542725888114" redirect="true"/>
   <file name="departments.html" crc="55078263" seo="true" mt="1542725888130" redirect="true"/>
   <file name="admission.html" crc="304897131" seo="true" mt="1542725888128" redirect="true"/>
@@ -4950,7 +5018,7 @@
   <file name="about.html" crc="220553175" seo="true" mt="1542725888124" redirect="true"/>
   <file name="iqac.html" crc="3955019696" seo="true" mt="1542725888142" redirect="true"/>
   <file name="aishe.html" crc="3959935976" seo="true" mt="1542725888122" redirect="true"/>
-  <file name="alumni.html" crc="478879493" seo="true" mt="1542725888101" redirect="true"/>
+  <file name="alumni.html" crc="4137316130" seo="true" mt="1542821554042" redirect="true"/>
   <file name="media.html" crc="117700248" seo="true" mt="1542725888116" redirect="true"/>
   <file name="contact.html" crc="216985786" seo="true" mt="1542725888111" redirect="true"/>
   <file name="b.ed-course.html" crc="4243511576" seo="true" mt="1542725888139" redirect="true"/>
