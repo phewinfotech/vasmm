@@ -1940,7 +1940,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/aishe.html</loc>
-    <lastmod>2018-11-20</lastmod>
+    <lastmod>2018-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1957,6 +1957,9 @@
     </image:image>
     <image:image>
       <image:loc>http://vasmm.com/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vasmm.com/images/aishe%20certificate%20001.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1991,7 +1994,7 @@
   </url>
   <url>
     <loc>http://vasmm.com/download.html</loc>
-    <lastmod>2018-11-23</lastmod>
+    <lastmod>2018-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
